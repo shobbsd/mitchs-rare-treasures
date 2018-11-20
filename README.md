@@ -32,7 +32,7 @@ It's essential that each endpoint is tested, including with the queries! It migh
   *responds with all shops for an owner*
   
   * With the same queries as above!
-  * each page should include a key of the total number of shops owned by that owner
+  * each page response should include a shopCount property to represent the total number of shops owned by that owner
 
 `/api/owners/`
   *responds with all owners*
