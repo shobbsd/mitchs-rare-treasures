@@ -4,9 +4,9 @@ Mitch has gone into business!
 
 After taking offence to a remark about his business acumen, he has charged headlong into establishing a network of antiques shops around the country. His jealous former colleagues have tried to follow him into the already crowded field, and now it's time for him to do a little market research. You have to help.
 
-Your first task of the day is to use Mitch's premade `fetch-intel` script to populate your intel directory. 
+Your first task of the day is to use Mitch's premade `fetch-intel` script to populate your dev-data directory. 
 
-Mitch was going to enter this data by hand, but it was getting a little tiresome. Help him out by creating a function for the batch insertion of data using `knex`. The insertion should maintain the current relationships in the data, and ensure things happen in the right order. These are big files, and there may be a more optimal way to insert the data than the simple `insert` method...
+Mitch was going to enter this data by hand, but it was getting a little tiresome. Help him out by creating a **seed** function for the batch insertion of data using `knex`. The insertion should maintain the current relationships in the data, and ensure things happen in the right order. These are big files, and there may be a more optimal way to insert the data than the simple `insert` method...
 
 As more than a mere hobbyist, Mitch needs to know lots of information about everything in this newly formed DB. As such, he'll need an API, with a lot of queries, so he can really know the state of play.
 
@@ -17,6 +17,7 @@ It's essential that each endpoint is tested, including with the queries! It migh
 
 **GET**
 
+## Day-1
 
 `/api/shops` 
   *responds with all shops*
@@ -33,22 +34,6 @@ It's essential that each endpoint is tested, including with the queries! It migh
   
   * With the same queries as above!
   * each page response should include a shopCount property to represent the total number of shops owned by that owner
-
-`/api/owners/`
-  *responds with all owners*
-  * default limit: 10 per page
-  * default start result: 1
-  * default sort order: ascending
-  * default sort criteria: surnames
-
-  * All the above queries should be modifiable.
-  * You should be able to sort on forename, age.
-  * You should also be able to add the following queries: 
-    - max_age, 
-    - min_age, 
-    - exact_age, 
-    - forename,
-    - surname
 
 
 `/api/treasures`
@@ -77,9 +62,26 @@ It's essential that each endpoint is tested, including with the queries! It migh
   * With the same queries as above!
 
 
-### Advanced
+`/api/owners/`
+  *responds with all owners*
+  * default limit: 10 per page
+  * default start result: 1
+  * default sort order: ascending
+  * default sort criteria: surnames
 
-- Add another query to the `/api/treasures` endpoint, which, when set to true, adds a key to your response, specifying the total value of all the treasures
+  * All the above queries should be modifiable.
+  * You should be able to sort on forename, age.
+  * You should also be able to add the following queries: 
+    - max_age, 
+    - min_age, 
+    - exact_age, 
+    - forename,
+    - surname
+
+
+## Day-1 -> Advanced
+
+- Add another query to the `/api/treasures` endpoint, which, when set to true, adds a key to your response, specifying the total value of all the treasures .e.g `/api/treasures?show_total_cost=true`
 
 - Add another query to the `/api/shops/:id/treasures` endpoint, which, when set to true, adds a key to your response, specifying the total value of all the treasures in that shop.
 

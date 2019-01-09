@@ -45,25 +45,25 @@ module.exports = (ownerCount, shopCount, treasureCount) => {
     generateTreasure,
     shopCount
   );
-  mkdir('./db/seed/intel')
+  mkdir('./db/data/dev-data')
     .catch(() => console.log('Overwriting existing files in intel directory'))
     .then(() => {
       return writeFile(
-        './db/seed/intel/owners.js',
+        './db/data/dev-data/owners.js',
         generateFileText(owners),
         'utf8'
       );
     })
     .then(() => {
       return writeFile(
-        './db/seed/intel/shops.js',
+        './db/data/dev-data/shops.js',
         generateFileText(shops),
         'utf8'
       );
     })
     .then(() => {
       return writeFile(
-        './db/seed/intel/treasures.js',
+        './db/data/dev-data/treasures.js',
         generateFileText(treasures),
         'utf8'
       );
