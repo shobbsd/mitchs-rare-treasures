@@ -29,25 +29,57 @@ CREATE TABLE treasures (
   shop INT REFERENCES shops(shop_id) NOT NULL
 );
 
-INSERT INTO shop_owners (forename, surname, age) 
-  VALUES ('Mitch', 'Lloyd', 28), ('Sam', 'Caine', 30), ('Anat', 'Dean', 22), ('Jonty', 'Rathers', 32);
+INSERT INTO shop_owners (forename, surname, age) VALUES
+  ('firstname-b', 'lastname-b', 30),
+  ('firstname-c', 'lastname-c', 21),
+  ('firstname-d', 'lastname-d', 22),
+  ('firstname-e', 'lastname-e', 23),
+  ('firstname-f', 'lastname-f', 24),
+  ('firstname-a', 'lastname-a', 25),
+  ('firstname-g', 'lastname-g', 26),
+  ('firstname-h', 'lastname-h', 27),
+  ('firstname-i', 'lastname-i', 20),
+  ('firstname-j', 'lastname-j', 29),
+  ('firstname-k', 'lastname-k', 28);
 
-INSERT INTO shops (shop_name, shop_owner, slogan) VALUES ('Mitch''s Rare Treasures', 1, 'If it ain''t broke, I''ll Mitch it!'), ('The Bull and The China Shop', 1, 'Broken is beautiful'), ('Ozymandias''s Timeless Delights', 2, 'Everything is antique, including my cultural reference points'), ('Oh Gnome You Don''t!', 3, 'Garden Gnomes from around the world');
+INSERT INTO shops (shop_name, shop_owner, slogan) VALUES
+  ('shop-b', 1, 'slogan-b'),
+  ('shop-d', 2, 'slogan-d'),
+  ('shop-e', 3, 'slogan-e'),
+  ('shop-f', 4, 'slogan-f'),
+  ('shop-g', 5, 'slogan-g'),
+  ('shop-h', 6, 'slogan-h'),
+  ('shop-i', 7, 'slogan-i'),
+  ('shop-a', 8, 'slogan-a'),
+  ('shop-j', 9, 'slogan-j'),
+  ('shop-k', 10, 'slogan-k'),
+  ('shop-c', 2, 'slogan-c');
 
 
-INSERT INTO treasures (treasure_name, colour, age, cost_at_auction, shop) 
-  VALUES ('Tudor Book of Hymns', 'beige', 13, 0.99, 1), ('Tadpole Chair', 'brown', 5, 15.45, 1), ('The Laptop', 'white', 120, 0.01, 1), ('Tome of Smugness', 'brown', 2500, 100000, 3), ('Summer Beach Party Gnome', 'multicoloured', 6, 10.99, 4);
-
-
--- CREATE TABLE categories (
---   category_id SERIAL PRIMARY KEY, 
---   category VARCHAR(255)
--- );
-
--- CREATE TABLE treasure_categories (
---   treasure_category_id SERIAL PRIMARY KEY, 
---   category_id INT REFERENCES categories(category_id) NOT NULL, 
---   treasure_id INT REFERENCES treasures(treasure_id) NOT NULL
--- );
-
-
+INSERT INTO treasures (treasure_name, colour, age, cost_at_auction, shop) VALUES
+  ('treasure-a', 'colour-a', 13, 20, 1),
+  ('treasure-d', 'colour-d', 13, 1001, 2),
+  ('treasure-b', 'colour-b', 13, 500, 4),
+  ('treasure-f', 'colour-f', 13, 0.01, 3),
+  ('treasure-h', 'colour-h', 13, 6.90, 6),
+  ('treasure-u', 'colour-u', 13, 0.99, 7),
+  ('treasure-e', 'colour-e', 13, 0.99, 8),
+  ('treasure-n', 'colour-n', 13, 0.99, 9),
+  ('treasure-i', 'colour-i', 13, 0.99, 10),
+  ('treasure-c', 'colour-c', 13, 0.99, 11),
+  ('treasure-r', 'colour-r', 13, 0.99, 9),
+  ('treasure-j', 'colour-j', 13, 0.99, 1),
+  ('treasure-g', 'colour-g', 13, 0.99, 5),
+  ('treasure-l', 'colour-l', 13, 0.99, 2),
+  ('treasure-p', 'colour-p', 13, 0.99, 6),
+  ('treasure-m', 'colour-m', 13, 0.99, 4),
+  ('treasure-o', 'colour-o', 13, 0.99, 5),
+  ('treasure-k', 'colour-k', 13, 0.99, 7),
+  ('treasure-q', 'colour-q', 13, 0.99, 8),
+  ('treasure-s', 'colour-s', 13, 0.99, 3),
+  ('treasure-t', 'colour-t', 13, 0.99, 10),
+  ('treasure-v', 'colour-v', 13, 0.99, 11),
+  ('treasure-w', 'colour-w', 13, 0.99, 1),
+  ('treasure-x', 'colour-x', 13, 0.99, 2),
+  ('treasure-y', 'colour-y', 13, 0.99, 3),
+  ('treasure-z', 'colour-z', 13, 0.99, 4);
