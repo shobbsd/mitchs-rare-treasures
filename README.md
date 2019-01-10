@@ -4,7 +4,7 @@ Mitch has gone into business!
 
 After taking offence to a remark about his business acumen, he has charged headlong into establishing a network of antiques shops around the country. His jealous former colleagues have tried to follow him into the already crowded field, and now it's time for him to do a little market research. You have to help.
 
-Your first task of the day is to use Mitch's premade `fetch-intel` script to populate your dev-data directory. 
+Your first task of the day is to use Mitch's premade `fetch-dev-data` script to populate your dev-data directory. 
 
 Mitch was going to enter this data by hand, but it was getting a little tiresome. Help him out by creating a **seed** function for the batch insertion of data using `knex`. The insertion should maintain the current relationships in the data, and ensure things happen in the right order. These are big files, and there may be a more optimal way to insert the data than the simple `insert` method...
 
