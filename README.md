@@ -29,12 +29,6 @@ It's essential that each endpoint is tested, including with the queries! It migh
 
   * All the queries should be modifiable (for example, I should be able to sort descending, increase the number of votes or change the start result)
 
-`/api/owners/:id/shops`
-  *responds with all shops for an owner*
-  
-  * With the same queries as above!
-  * each page response should include a shopCount property to represent the total number of shops owned by that owner
-
 
 `/api/treasures`
   *responds with all treasures, including the shop name and details*
@@ -50,16 +44,6 @@ It's essential that each endpoint is tested, including with the queries! It migh
     - mix_age
     - max_price
     - min_price
-  
-
-`/api/shops/:id/treasures`
-  *responds with all treasures for a particular shop*
-  * With the same queries as above!
-
-
-`/api/owners/:id/treasures`
-  *responds with all treasures for a particular owner, including the shop name and details*
-  * With the same queries as above!
 
 
 `/api/owners/`
