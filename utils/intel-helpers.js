@@ -36,7 +36,7 @@ const generateTreasure = (shopCount) => {
   };
 };
 
-const generateFileText = js => `module.exports = ${JSON.stringify(js)}`;
+const generateFileText = js => `module.exports = ${JSON.stringify(js,null,2)}`;
 
 module.exports = (ownerCount, shopCount, treasureCount) => {
   const owners = generateMultiples(ownerCount, generateOwner);

@@ -13,7 +13,7 @@ As more than a mere hobbyist, Mitch needs to know lots of information about ever
 
 ## API
 
-It's essential that each endpoint is tested, including with the queries! It might be worth using a very small dataset (i.e. the one that exists in the current seed file). You certainly don't want to rely on the randomness of that fetch-intel function...
+It's essential that each endpoint is tested, including with the queries! It might be worth using a very small dataset (you can use the data in your `test-setup.sql` file!). You certainly don't want to rely on the randomness of that fetch-dev-data function...
 
 **GET**
 
