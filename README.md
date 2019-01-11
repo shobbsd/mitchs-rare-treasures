@@ -63,7 +63,7 @@ It's essential that each endpoint is tested, including with the queries! It migh
     - surname
 
 
-## Day-1 -> Advanced
+## Day-2 -> Advanced
 
 - Add another query to the `/api/treasures` endpoint, which, when set to true, adds a key to your response, specifying the total value of all the treasures .e.g `/api/treasures?show_total_cost=true`
 
