@@ -17,7 +17,7 @@ It's essential that each endpoint is tested, including with the queries! It migh
 
 **GET**
 
-## Day-1
+##
 
 `/api/shops` 
   *responds with all shops*
@@ -27,8 +27,6 @@ It's essential that each endpoint is tested, including with the queries! It migh
   * default sort order: ascending
   * default sort criteria: shop_name
 
-  * All the queries should be modifiable (for example, I should be able to sort descending, increase the number of votes or change the start result)
-
 
 `/api/treasures`
   *responds with all treasures, including the shop name and details*
@@ -36,7 +34,6 @@ It's essential that each endpoint is tested, including with the queries! It migh
   * default start result: 1
   * default sort order: ascending
   * default sort criteria: cost_at_auction
-  * All the above queries should be modifiable.
   * You should be able to sort on age
   * You should also be able to add the following queries: 
     - colour
@@ -51,9 +48,6 @@ It's essential that each endpoint is tested, including with the queries! It migh
   * default limit: 10 per page
   * default start result: 1
   * default sort order: ascending
-  * default sort criteria: surnames
-
-  * All the above queries should be modifiable.
   * You should be able to sort on forename, age.
   * You should also be able to add the following queries: 
     - max_age, 
@@ -63,18 +57,12 @@ It's essential that each endpoint is tested, including with the queries! It migh
     - surname
 
 
-## Day-2 -> Advanced
+### Advanced
 
-- Add another query to the `/api/treasures` endpoint, which, when set to true, adds a key to your response, specifying the total value of all the treasures .e.g `/api/treasures?show_total_cost=true`
+- For each shop object in the `/api/shops` endpoint, there should be a 
+  * `stock_value` property which specifies the total value of each shop's stock.
 
-- Add another query to the `/api/shops/:id/treasures` endpoint, which, when set to true, adds a key to your response, specifying the total value of all the treasures in that shop.
-
-- Add another query to the `/api/owners/:id/treasures`, which, when set to true, adds a key to your response, specifying the total value of all the treasures that owner has.
-
-### Very Advanced
-
-- Add another query to the `/api/shops` endpoint, `stock_value` which when set to true, adds a key to each shop specifying the total value of its stock.
-- Add two more queries to the `/api/users` endpoint,
-  * `shop_count` which when set to true, adds a key specifying the count of all a users' shops.
-  * `stock_value` which when set to true, adds a key to each user specifying the total value of all of their stock
+- For each user object in the `/api/users` endpoint, there should also be a
+  * `shop_count`  specifying the number of shops for that user
+  * `stock_value` specifying the total value of all of their stock
 
