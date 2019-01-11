@@ -66,6 +66,6 @@ It's essential that each endpoint is tested, including with the queries! It migh
   * `shop_count`  specifying the number of shops for that user
   * `stock_value` specifying the total value of all of their stock
 
-## Even more...
+### Even more...
 
 * If you have finished all of the sections above, (and checked with us :)) then you can try implementing pagination for your API.  This is where your API can accept queries like this: `/api/treasures?page=2&limit=3`.  In this case, you would think of all the treasures as being paged in groups of 3 and you give the user the second page.  For this task you need to think carefully about how to calculate the offset given that you know what the limit and the page number is.
