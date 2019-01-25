@@ -57,7 +57,7 @@ INSERT INTO shops (shop_name, shop_owner, slogan) VALUES
 
 
 INSERT INTO treasures (treasure_name, colour, age, cost_at_auction, shop) VALUES
-  ('treasure-a', 'colour-a', 13, 20, 1),
+  ('treasure-a', 'colour-a', 200, 20, 1),
   ('treasure-d', 'colour-d', 13, 1001, 2),
   ('treasure-b', 'colour-b', 13, 500, 4),
   ('treasure-f', 'colour-f', 13, 0.01, 3),
@@ -75,7 +75,7 @@ INSERT INTO treasures (treasure_name, colour, age, cost_at_auction, shop) VALUES
   ('treasure-m', 'colour-m', 13, 0.99, 4),
   ('treasure-o', 'colour-o', 13, 0.99, 5),
   ('treasure-k', 'colour-k', 13, 0.99, 7),
-  ('treasure-q', 'colour-q', 13, 0.99, 8),
+  ('treasure-q', 'colour-q', 1, 0.99, 8),
   ('treasure-s', 'colour-s', 13, 0.99, 3),
   ('treasure-t', 'colour-t', 13, 0.99, 10),
   ('treasure-v', 'colour-v', 13, 0.99, 11),
