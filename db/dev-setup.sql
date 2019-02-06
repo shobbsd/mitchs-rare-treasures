@@ -3,7 +3,7 @@ CREATE DATABASE mitchs_rare_treasures;
 
 \c mitchs_rare_treasures;
 
-CREATE TABLE shop_owners (
+CREATE TABLE owners (
   owner_id SERIAL PRIMARY KEY, 
   forename VARCHAR(255), 
   surname VARCHAR(255), 
@@ -15,7 +15,7 @@ CREATE TABLE shop_owners (
 CREATE TABLE shops (
   shop_id SERIAL PRIMARY KEY, 
   shop_name VARCHAR(255) NOT NULL, 
-  shop_owner INT REFERENCES shop_owners(owner_id) NOT NULL, 
+  owner_id INT REFERENCES owners(owner_id) NOT NULL, 
   slogan TEXT
 );
 

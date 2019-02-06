@@ -1,51 +1,67 @@
+/*  eslint  no-plusplus:0  */
 const faker = require('faker');
-const random = require('lodash.random');
+const { sample, random } = require('lodash');
 const { promisify } = require('util');
 const fs = require('fs');
 
 const mkdir = promisify(fs.mkdir);
 const writeFile = promisify(fs.writeFile);
 
-const generateOwner = () => {
-  return {
-    forename: faker.name.firstName(),
-    surname: faker.name.lastName(),
-    age: random(16, 120),
-  };
+
+const generateUniques = (randomList, listLength, generator) => {
+  if (listLength === 0) return randomList;
+  const randomItem = generator();
+  if (randomList.includes(randomItem)) return generateUniques(randomList, listLength, generator);
+  return generateUniques([randomItem, ...randomList], --listLength, generator);
 };
 
-const generateMultiples = (n, generator, limitCondition) => {
-  return Array.from({ length: n }, () => generator(limitCondition));
+const createRandomFirstName = () => faker.name.firstName();
+const createRandomSurname = () => faker.name.lastName();
+const createRandomShopName = () => faker.company.companyName();
+
+const uniqueFirstNames = generateUniques([], 100, createRandomFirstName, 'firstNames');
+const uniqueSurNames = generateUniques([], 100, createRandomSurname, 'surNames');
+const uniqueShopNames = generateUniques([], 1000, createRandomShopName, 'surNames');
+
+const generateOwners = (firstNames, surNames) => {
+  return firstNames.map((firstName, i) => {
+    return {
+      forename: firstName,
+      surname: surNames[i],
+      age: random(16, 120),
+    };
+  });
 };
 
-const generateShop = (ownerCount) => {
-  return {
-    shop_name: faker.company.companyName(),
-    shop_owner: random(1, ownerCount),
-    slogan: faker.company.catchPhrase(),
-  };
+const generateShops = (shopNames, owners) => {
+  return shopNames.map((shopName) => {
+    return {
+      shop_name: shopName,
+      owner: sample(owners),
+      logan: faker.company.catchPhrase(),
+    };
+  });
 };
 
-const generateTreasure = (shopCount) => {
-  return {
-    treasure_name: `${faker.company.catchPhraseAdjective()} ${faker.commerce.productName()}`,
-    colour: faker.commerce.color(),
-    age: random(5, 1000),
-    cost_at_auction: random(0, 100000),
-    shop_id: random(1, shopCount),
-  };
+const generateTreasures = (shops, treasureCount) => {
+  return Array.from({ length: treasureCount }, () => {
+    return {
+      treasure_name: `${faker.company.catchPhraseAdjective()} ${faker.commerce.productName()}`,
+      colour: faker.commerce.color(),
+      age: random(5, 1000),
+      cost_at_auction: random(0, 100000),
+      shop: sample(shops).shop_name,
+    };
+  });
 };
+
 
 const generateFileText = js => `module.exports = ${JSON.stringify(js, null, 2)}`;
 
-module.exports = (ownerCount, shopCount, treasureCount) => {
-  const owners = generateMultiples(ownerCount, generateOwner);
-  const shops = generateMultiples(shopCount, generateShop, ownerCount);
-  const treasures = generateMultiples(
-    treasureCount,
-    generateTreasure,
-    shopCount,
-  );
+module.exports = () => {
+  const owners = generateOwners(uniqueFirstNames, uniqueSurNames);
+  const shops = generateShops(uniqueShopNames, uniqueFirstNames);
+  const treasures = generateTreasures(shops, 2500);
   mkdir('./db/data/dev-data')
     .catch(() => console.log('Overwriting existing files in intel directory'))
     .then(() => {

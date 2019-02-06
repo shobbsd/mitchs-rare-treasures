@@ -2,16 +2,22 @@
 
 Mitch has gone into business! 
 
+
 After taking offence at a remark about his business acumen, he has charged headlong into establishing a network of antiques shops around the country. His jealous former colleagues have tried to follow him into the already crowded field, and now it's time for him to do a little market research. You have to help.
+
+
+### `fetch-dev-data`
 
 Your first task of the day is to use Mitch's premade `fetch-dev-data` script to populate your dev-data directory. 
 
-Mitch was going to enter this data by hand, but it was getting a little tiresome. Help him out by creating a **seed** function for the batch insertion of data using `knex`. The insertion should maintain the current relationships in the data, and ensure things happen in the right order. These are big files, and there may be a more optimal way to insert the data than the simple `insert` method...
+### Seeding (day-1)
 
-As more than a mere hobbyist, Mitch needs to know lots of information about everything in this newly formed DB. As such, he'll need an API, with a lot of queries, so he can really know the state of play.
+Mitch was going to enter this data by hand, but it was getting a little tiresome. Help him out by creating a **seed** function for the insertion of data using `knex`. 
+
+You will need to think about how to maintain relations between the data before they are inserted into the db.
 
 
-## API
+### API  (day-2)
 
 It's essential that each endpoint is tested, including a test for each query! Avoid testing for too many things in one assertion.
 It might be worth using a very small dataset (you can use the data in your `test-setup.sql` file!). You certainly don't want to rely on the randomness of that fetch-dev-data function...
