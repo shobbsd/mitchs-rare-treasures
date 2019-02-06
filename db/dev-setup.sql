@@ -26,5 +26,5 @@ CREATE TABLE treasures (
   colour VARCHAR(255) NOT NULL, 
   age INT NOT NULL, 
   cost_at_auction NUMERIC(10, 2) NOT NULL,
-  shop INT REFERENCES shops(shop_id) NOT NULL
+  shop_id INT REFERENCES shops(shop_id) NOT NULL
 );
