@@ -7,9 +7,6 @@ const fs = require('fs');
 const mkdir = promisify(fs.mkdir);
 const writeFile = promisify(fs.writeFile);
 
-const generateMultiples = (n, generator, relatedData) => {
-  return Array.from({ length: n }, () => generator(relatedData));
-};
 
 const generateUniques = (randomList, listLength, generator) => {
   if (listLength === 0) return randomList;
@@ -22,9 +19,9 @@ const createRandomFirstName = () => faker.name.firstName();
 const createRandomSurname = () => faker.name.lastName();
 const createRandomShopName = () => faker.company.companyName();
 
-const uniqueFirstNames = generateUniques([], 50, createRandomFirstName, 'firstNames');
-const uniqueSurNames = generateUniques([], 50, createRandomSurname, 'surNames');
-const uniqueShopNames = generateUniques([], 100, createRandomShopName, 'surNames');
+const uniqueFirstNames = generateUniques([], 100, createRandomFirstName, 'firstNames');
+const uniqueSurNames = generateUniques([], 100, createRandomSurname, 'surNames');
+const uniqueShopNames = generateUniques([], 1000, createRandomShopName, 'surNames');
 
 const generateOwners = (firstNames, surNames) => {
   return firstNames.map((firstName, i) => {
@@ -58,24 +55,13 @@ const generateTreasures = (shops, treasureCount) => {
   });
 };
 
-const owners = generateOwners(uniqueFirstNames, uniqueSurNames);
-// console.log(owners);
-const shops = generateShops(uniqueShopNames, uniqueFirstNames);
-// console.log(shops, '<-- shops');
-const treasures = generateTreasures(shops, 200);
-console.log(treasures, '<--- treasures');
-
 
 const generateFileText = js => `module.exports = ${JSON.stringify(js, null, 2)}`;
 
-module.exports = (ownerCount, shopCount, treasureCount) => {
-  const owners = generateMultiples(ownerCount, generateOwner);
-  const shops = generateMultiples(shopCount, generateShop, owners);
-  const treasures = generateMultiples(
-    treasureCount,
-    generateTreasure,
-    shops,
-  );
+module.exports = () => {
+  const owners = generateOwners(uniqueFirstNames, uniqueSurNames);
+  const shops = generateShops(uniqueShopNames, uniqueFirstNames);
+  const treasures = generateTreasures(shops, 2500);
   mkdir('./db/data/dev-data')
     .catch(() => console.log('Overwriting existing files in intel directory'))
     .then(() => {

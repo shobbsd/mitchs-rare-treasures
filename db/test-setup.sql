@@ -29,7 +29,7 @@ CREATE TABLE treasures (
   shop_id INT REFERENCES shops(shop_id) NOT NULL
 );
 
-INSERT INTO shop_owners (forename, surname, age) VALUES
+INSERT INTO owners (forename, surname, age) VALUES
   ('firstname-b', 'lastname-b', 30),
   ('firstname-c', 'lastname-c', 21),
   ('firstname-d', 'lastname-d', 17),
@@ -42,7 +42,7 @@ INSERT INTO shop_owners (forename, surname, age) VALUES
   ('firstname-j', 'lastname-j', 29),
   ('firstname-k', 'lastname-k', 102);
 
-INSERT INTO shops (shop_name, shop_owner, slogan) VALUES
+INSERT INTO shops (shop_name, owner_id, slogan) VALUES
   ('shop-b', 1, 'slogan-b'),
   ('shop-d', 2, 'slogan-d'),
   ('shop-e', 3, 'slogan-e'),
@@ -83,3 +83,8 @@ INSERT INTO treasures (treasure_name, colour, age, cost_at_auction, shop_id) VAL
   ('treasure-x', 'cobalt', 234, 7.99, 2),
   ('treasure-y', 'saffron', 54, 2.99, 3),
   ('treasure-z', 'ivory', 90, 48.99, 4);
+
+
+SELECT forename, shop_name FROM shops
+  RIGHT JOIN owners
+  ON shops.owner_id = owners.owner_id;

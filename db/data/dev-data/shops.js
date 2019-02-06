@@ -1,5002 +1,5002 @@
 module.exports = [
   {
-    "shop_name": "Upton, Grimes and Osinski",
-    "shop_owner": "Amber",
-    "slogan": "Future-proofed content-based adapter"
+    "shop_name": "Friesen - Rath",
+    "owner": "Monserrate",
+    "logan": "Focused value-added productivity"
   },
   {
-    "shop_name": "Herman, Fritsch and Wisozk",
-    "shop_owner": "Katelyn",
-    "slogan": "Horizontal static solution"
+    "shop_name": "Hudson - Fay",
+    "owner": "Ena",
+    "logan": "User-centric uniform neural-net"
   },
   {
-    "shop_name": "Johnson - Wolf",
-    "shop_owner": "Samanta",
-    "slogan": "Profit-focused high-level capability"
-  },
-  {
-    "shop_name": "Johns - Bartell",
-    "shop_owner": "Hayden",
-    "slogan": "Persevering high-level alliance"
-  },
-  {
-    "shop_name": "Mohr - Armstrong",
-    "shop_owner": "Astrid",
-    "slogan": "Universal clear-thinking pricing structure"
-  },
-  {
-    "shop_name": "Nitzsche, Senger and Dibbert",
-    "shop_owner": "Antonia",
-    "slogan": "Distributed methodical initiative"
-  },
-  {
-    "shop_name": "Stoltenberg LLC",
-    "shop_owner": "Joanny",
-    "slogan": "Focused transitional support"
-  },
-  {
-    "shop_name": "Pfannerstill Inc",
-    "shop_owner": "Lane",
-    "slogan": "Configurable incremental productivity"
-  },
-  {
-    "shop_name": "D'Amore - Kuhlman",
-    "shop_owner": "Richmond",
-    "slogan": "Integrated hybrid customer loyalty"
-  },
-  {
-    "shop_name": "Gutmann, Hauck and Hauck",
-    "shop_owner": "Junior",
-    "slogan": "Persistent logistical hub"
-  },
-  {
-    "shop_name": "Muller - Moore",
-    "shop_owner": "Theresa",
-    "slogan": "Extended exuding help-desk"
-  },
-  {
-    "shop_name": "Fay - Kihn",
-    "shop_owner": "Chadd",
-    "slogan": "Open-architected motivating interface"
-  },
-  {
-    "shop_name": "Wintheiser - Gislason",
-    "shop_owner": "Loren",
-    "slogan": "Fully-configurable optimizing function"
-  },
-  {
-    "shop_name": "Rohan Inc",
-    "shop_owner": "Celestino",
-    "slogan": "Upgradable well-modulated utilisation"
-  },
-  {
-    "shop_name": "Heidenreich - Price",
-    "shop_owner": "Hobart",
-    "slogan": "Multi-layered national architecture"
-  },
-  {
-    "shop_name": "Cole, Heaney and Renner",
-    "shop_owner": "Onie",
-    "slogan": "Managed tangible customer loyalty"
-  },
-  {
-    "shop_name": "Price Group",
-    "shop_owner": "Richmond",
-    "slogan": "Function-based well-modulated throughput"
-  },
-  {
-    "shop_name": "Ferry - Runolfsdottir",
-    "shop_owner": "Allen",
-    "slogan": "Multi-tiered 24/7 throughput"
-  },
-  {
-    "shop_name": "Lehner - Durgan",
-    "shop_owner": "Anabel",
-    "slogan": "User-friendly actuating installation"
-  },
-  {
-    "shop_name": "Ebert - Stoltenberg",
-    "shop_owner": "Jamal",
-    "slogan": "User-friendly mission-critical productivity"
-  },
-  {
-    "shop_name": "Herzog - Wisozk",
-    "shop_owner": "Demarcus",
-    "slogan": "Synchronised zero tolerance middleware"
-  },
-  {
-    "shop_name": "Crona Inc",
-    "shop_owner": "Eloisa",
-    "slogan": "Expanded human-resource collaboration"
-  },
-  {
-    "shop_name": "Ritchie - Murray",
-    "shop_owner": "Alejandra",
-    "slogan": "Public-key web-enabled task-force"
-  },
-  {
-    "shop_name": "Armstrong - Jerde",
-    "shop_owner": "Stacy",
-    "slogan": "Seamless bifurcated artificial intelligence"
-  },
-  {
-    "shop_name": "O'Connell, Ernser and Schumm",
-    "shop_owner": "Alta",
-    "slogan": "Object-based bottom-line capability"
-  },
-  {
-    "shop_name": "Rolfson - Spinka",
-    "shop_owner": "Oren",
-    "slogan": "Face to face well-modulated implementation"
-  },
-  {
-    "shop_name": "Farrell - Schmitt",
-    "shop_owner": "Ansel",
-    "slogan": "Grass-roots coherent time-frame"
-  },
-  {
-    "shop_name": "Fisher, Hammes and Schaden",
-    "shop_owner": "Jaquan",
-    "slogan": "Mandatory impactful support"
-  },
-  {
-    "shop_name": "Rau, Luettgen and Murazik",
-    "shop_owner": "Oren",
-    "slogan": "Streamlined 6th generation implementation"
-  },
-  {
-    "shop_name": "Blick - Zieme",
-    "shop_owner": "Anabel",
-    "slogan": "Open-source discrete conglomeration"
-  },
-  {
-    "shop_name": "Padberg - Weissnat",
-    "shop_owner": "Levi",
-    "slogan": "Open-source multi-tasking Graphical User Interface"
-  },
-  {
-    "shop_name": "Gerhold, Purdy and Turner",
-    "shop_owner": "Aletha",
-    "slogan": "Open-source web-enabled installation"
-  },
-  {
-    "shop_name": "Murazik - Legros",
-    "shop_owner": "Alexandrea",
-    "slogan": "De-engineered client-driven structure"
-  },
-  {
-    "shop_name": "Schmidt - Dibbert",
-    "shop_owner": "Faye",
-    "slogan": "Reverse-engineered full-range budgetary management"
-  },
-  {
-    "shop_name": "Prohaska Inc",
-    "shop_owner": "Stacy",
-    "slogan": "Reactive motivating moderator"
-  },
-  {
-    "shop_name": "Eichmann, Ward and Hand",
-    "shop_owner": "Deshaun",
-    "slogan": "Centralized maximized encryption"
-  },
-  {
-    "shop_name": "Miller - Eichmann",
-    "shop_owner": "Levi",
-    "slogan": "Open-architected heuristic frame"
-  },
-  {
-    "shop_name": "Borer, Kuhic and Shanahan",
-    "shop_owner": "Alexandre",
-    "slogan": "Fundamental responsive database"
-  },
-  {
-    "shop_name": "O'Keefe - Hilll",
-    "shop_owner": "Jade",
-    "slogan": "Multi-lateral actuating complexity"
-  },
-  {
-    "shop_name": "Bahringer, Larson and Carter",
-    "shop_owner": "Hayden",
-    "slogan": "Profound contextually-based conglomeration"
-  },
-  {
-    "shop_name": "Schamberger - Lynch",
-    "shop_owner": "Bette",
-    "slogan": "Multi-layered multimedia throughput"
-  },
-  {
-    "shop_name": "Orn Group",
-    "shop_owner": "Verlie",
-    "slogan": "Triple-buffered full-range challenge"
-  },
-  {
-    "shop_name": "Roberts and Sons",
-    "shop_owner": "Celestino",
-    "slogan": "Integrated full-range superstructure"
-  },
-  {
-    "shop_name": "Moen and Sons",
-    "shop_owner": "Giovani",
-    "slogan": "Cross-group disintermediate software"
-  },
-  {
-    "shop_name": "Ernser Group",
-    "shop_owner": "Alisa",
-    "slogan": "Innovative maximized forecast"
-  },
-  {
-    "shop_name": "Larson Group",
-    "shop_owner": "Eloisa",
-    "slogan": "Function-based logistical paradigm"
-  },
-  {
-    "shop_name": "Schroeder - Davis",
-    "shop_owner": "Imani",
-    "slogan": "Diverse attitude-oriented utilisation"
-  },
-  {
-    "shop_name": "Bogan Inc",
-    "shop_owner": "Elouise",
-    "slogan": "Programmable demand-driven function"
-  },
-  {
-    "shop_name": "Ritchie LLC",
-    "shop_owner": "Emma",
-    "slogan": "Multi-channelled leading edge software"
-  },
-  {
-    "shop_name": "Schaefer - Rempel",
-    "shop_owner": "Tessie",
-    "slogan": "Polarised full-range parallelism"
-  },
-  {
-    "shop_name": "Parker, Bogan and Dickinson",
-    "shop_owner": "Llewellyn",
-    "slogan": "Switchable reciprocal artificial intelligence"
-  },
-  {
-    "shop_name": "Hilll, Padberg and Schmeler",
-    "shop_owner": "Sheldon",
-    "slogan": "Triple-buffered coherent strategy"
-  },
-  {
-    "shop_name": "McDermott Group",
-    "shop_owner": "Demarcus",
-    "slogan": "Distributed motivating parallelism"
-  },
-  {
-    "shop_name": "Pfeffer and Sons",
-    "shop_owner": "Georgianna",
-    "slogan": "Distributed upward-trending budgetary management"
-  },
-  {
-    "shop_name": "Nikolaus Inc",
-    "shop_owner": "Theresa",
-    "slogan": "Focused bi-directional moderator"
-  },
-  {
-    "shop_name": "Miller - Quitzon",
-    "shop_owner": "Adan",
-    "slogan": "Balanced encompassing workforce"
-  },
-  {
-    "shop_name": "Block - Nader",
-    "shop_owner": "Onie",
-    "slogan": "Adaptive 4th generation system engine"
-  },
-  {
-    "shop_name": "Berge, Huel and Hilll",
-    "shop_owner": "Levi",
-    "slogan": "Digitized grid-enabled frame"
-  },
-  {
-    "shop_name": "Schulist - Anderson",
-    "shop_owner": "Kris",
-    "slogan": "Assimilated disintermediate infrastructure"
-  },
-  {
-    "shop_name": "Hintz - Hartmann",
-    "shop_owner": "Anabel",
-    "slogan": "Total eco-centric analyzer"
-  },
-  {
-    "shop_name": "Grant Group",
-    "shop_owner": "Gerry",
-    "slogan": "Face to face foreground open system"
-  },
-  {
-    "shop_name": "Fisher Inc",
-    "shop_owner": "Alysson",
-    "slogan": "Devolved value-added ability"
-  },
-  {
-    "shop_name": "Carroll - Schneider",
-    "shop_owner": "Luther",
-    "slogan": "Robust eco-centric monitoring"
-  },
-  {
-    "shop_name": "Gutkowski Group",
-    "shop_owner": "Luther",
-    "slogan": "Enhanced actuating firmware"
-  },
-  {
-    "shop_name": "Fahey, Heathcote and Nader",
-    "shop_owner": "Leland",
-    "slogan": "Cross-platform actuating artificial intelligence"
-  },
-  {
-    "shop_name": "Abbott LLC",
-    "shop_owner": "Onie",
-    "slogan": "Organic actuating moderator"
-  },
-  {
-    "shop_name": "Cruickshank - Krajcik",
-    "shop_owner": "Domingo",
-    "slogan": "Secured global software"
-  },
-  {
-    "shop_name": "Streich, Ruecker and Schimmel",
-    "shop_owner": "Tessie",
-    "slogan": "Expanded composite parallelism"
-  },
-  {
-    "shop_name": "Hamill - Shanahan",
-    "shop_owner": "Antonia",
-    "slogan": "Open-source secondary structure"
-  },
-  {
-    "shop_name": "Jast Group",
-    "shop_owner": "Aletha",
-    "slogan": "Re-contextualized high-level framework"
-  },
-  {
-    "shop_name": "Hermann - Kirlin",
-    "shop_owner": "Giovani",
-    "slogan": "Robust zero defect challenge"
-  },
-  {
-    "shop_name": "Nikolaus, Grant and Fahey",
-    "shop_owner": "Amos",
-    "slogan": "Horizontal user-facing utilisation"
-  },
-  {
-    "shop_name": "Hilll - Dibbert",
-    "shop_owner": "Demarcus",
-    "slogan": "Proactive regional pricing structure"
-  },
-  {
-    "shop_name": "Haley and Sons",
-    "shop_owner": "Makenna",
-    "slogan": "Down-sized context-sensitive website"
-  },
-  {
-    "shop_name": "Metz, O'Reilly and Hoppe",
-    "shop_owner": "Sheldon",
-    "slogan": "Versatile composite attitude"
-  },
-  {
-    "shop_name": "Medhurst, Schulist and Nicolas",
-    "shop_owner": "Alejandra",
-    "slogan": "Secured heuristic local area network"
-  },
-  {
-    "shop_name": "Kris Inc",
-    "shop_owner": "Adan",
-    "slogan": "Stand-alone tangible migration"
-  },
-  {
-    "shop_name": "Schowalter - Jaskolski",
-    "shop_owner": "Stacy",
-    "slogan": "Synergized user-facing methodology"
-  },
-  {
-    "shop_name": "Schumm Inc",
-    "shop_owner": "Onie",
-    "slogan": "User-friendly human-resource attitude"
-  },
-  {
-    "shop_name": "Howell - Nader",
-    "shop_owner": "Augustus",
-    "slogan": "Configurable holistic synergy"
-  },
-  {
-    "shop_name": "Batz, Lowe and Kuhlman",
-    "shop_owner": "Karelle",
-    "slogan": "Extended clear-thinking secured line"
-  },
-  {
-    "shop_name": "Morissette - Lind",
-    "shop_owner": "Levi",
-    "slogan": "Face to face background structure"
-  },
-  {
-    "shop_name": "Walsh LLC",
-    "shop_owner": "Deon",
-    "slogan": "Advanced national workforce"
-  },
-  {
-    "shop_name": "Konopelski Group",
-    "shop_owner": "Jade",
-    "slogan": "Devolved high-level adapter"
-  },
-  {
-    "shop_name": "Kirlin, O'Conner and Klein",
-    "shop_owner": "Rex",
-    "slogan": "Public-key 4th generation frame"
-  },
-  {
-    "shop_name": "Kuhlman, Kshlerin and Hessel",
-    "shop_owner": "Georgiana",
-    "slogan": "Digitized object-oriented hierarchy"
-  },
-  {
-    "shop_name": "O'Conner Group",
-    "shop_owner": "Astrid",
-    "slogan": "Front-line human-resource neural-net"
-  },
-  {
-    "shop_name": "Trantow, Kilback and Steuber",
-    "shop_owner": "Maddison",
-    "slogan": "Function-based non-volatile definition"
-  },
-  {
-    "shop_name": "Sporer, Rutherford and Kovacek",
-    "shop_owner": "Ansel",
-    "slogan": "User-friendly well-modulated strategy"
-  },
-  {
-    "shop_name": "Labadie - Marvin",
-    "shop_owner": "Jamal",
-    "slogan": "Persistent contextually-based productivity"
-  },
-  {
-    "shop_name": "Mueller - Beahan",
-    "shop_owner": "Burley",
-    "slogan": "Profound grid-enabled contingency"
-  },
-  {
-    "shop_name": "Leuschke - Pollich",
-    "shop_owner": "Sheldon",
-    "slogan": "Public-key value-added service-desk"
-  },
-  {
-    "shop_name": "Lindgren Inc",
-    "shop_owner": "Augustus",
-    "slogan": "Re-engineered scalable service-desk"
-  },
-  {
-    "shop_name": "Bahringer LLC",
-    "shop_owner": "Karelle",
-    "slogan": "Front-line zero defect ability"
-  },
-  {
-    "shop_name": "Kris and Sons",
-    "shop_owner": "Xzavier",
-    "slogan": "Mandatory bottom-line knowledge user"
-  },
-  {
-    "shop_name": "Morar - Pouros",
-    "shop_owner": "Abbie",
-    "slogan": "Re-engineered full-range definition"
-  },
-  {
-    "shop_name": "Lebsack, Conn and Hoeger",
-    "shop_owner": "Freddie",
-    "slogan": "Proactive neutral orchestration"
-  },
-  {
-    "shop_name": "Leuschke LLC",
-    "shop_owner": "Modesto",
-    "slogan": "Ameliorated grid-enabled contingency"
-  },
-  {
-    "shop_name": "Smitham, Gislason and Little",
-    "shop_owner": "Kris",
-    "slogan": "Triple-buffered zero administration focus group"
-  },
-  {
-    "shop_name": "Kub - Treutel",
-    "shop_owner": "Damien",
-    "slogan": "Secured exuding software"
-  },
-  {
-    "shop_name": "Ebert, Pfeffer and Hyatt",
-    "shop_owner": "Llewellyn",
-    "slogan": "Function-based zero administration analyzer"
-  },
-  {
-    "shop_name": "Koch - Toy",
-    "shop_owner": "Augustus",
-    "slogan": "Balanced national artificial intelligence"
-  },
-  {
-    "shop_name": "Pouros and Sons",
-    "shop_owner": "Josefa",
-    "slogan": "Expanded leading edge strategy"
-  },
-  {
-    "shop_name": "O'Keefe Inc",
-    "shop_owner": "Leland",
-    "slogan": "Centralized next generation focus group"
-  },
-  {
-    "shop_name": "Maggio and Sons",
-    "shop_owner": "Freddie",
-    "slogan": "Realigned coherent process improvement"
-  },
-  {
-    "shop_name": "Renner, Klein and Stanton",
-    "shop_owner": "Jamal",
-    "slogan": "Open-architected motivating monitoring"
-  },
-  {
-    "shop_name": "Raynor, Smitham and Nienow",
-    "shop_owner": "Faye",
-    "slogan": "Visionary next generation application"
-  },
-  {
-    "shop_name": "Reichel Inc",
-    "shop_owner": "Deshaun",
-    "slogan": "Mandatory object-oriented internet solution"
-  },
-  {
-    "shop_name": "Satterfield Inc",
-    "shop_owner": "Theresa",
-    "slogan": "Organized mission-critical benchmark"
-  },
-  {
-    "shop_name": "Lynch, Franecki and Grady",
-    "shop_owner": "Elouise",
-    "slogan": "Universal leading edge software"
-  },
-  {
-    "shop_name": "Considine, Monahan and Effertz",
-    "shop_owner": "Eloisa",
-    "slogan": "Enterprise-wide composite Graphical User Interface"
-  },
-  {
-    "shop_name": "Ullrich - Goyette",
-    "shop_owner": "Ignacio",
-    "slogan": "Self-enabling hybrid conglomeration"
-  },
-  {
-    "shop_name": "Kerluke Inc",
-    "shop_owner": "Elouise",
-    "slogan": "Reactive real-time alliance"
-  },
-  {
-    "shop_name": "Bins LLC",
-    "shop_owner": "D'angelo",
-    "slogan": "Exclusive multi-tasking extranet"
-  },
-  {
-    "shop_name": "Dooley Inc",
-    "shop_owner": "Xzavier",
-    "slogan": "Visionary dedicated standardization"
-  },
-  {
-    "shop_name": "Hackett, Kuhlman and Weissnat",
-    "shop_owner": "Jaquan",
-    "slogan": "Total bandwidth-monitored extranet"
-  },
-  {
-    "shop_name": "Gaylord Group",
-    "shop_owner": "Georgianna",
-    "slogan": "Monitored needs-based project"
-  },
-  {
-    "shop_name": "Kerluke - Roberts",
-    "shop_owner": "Anne",
-    "slogan": "Reverse-engineered foreground throughput"
-  },
-  {
-    "shop_name": "Olson Group",
-    "shop_owner": "Ansley",
-    "slogan": "Centralized bottom-line knowledge user"
-  },
-  {
-    "shop_name": "Doyle - McLaughlin",
-    "shop_owner": "Sheldon",
-    "slogan": "Distributed asymmetric time-frame"
-  },
-  {
-    "shop_name": "D'Amore, Daniel and Dickinson",
-    "shop_owner": "Jamal",
-    "slogan": "Synergistic disintermediate system engine"
-  },
-  {
-    "shop_name": "Yost - Nolan",
-    "shop_owner": "Faye",
-    "slogan": "Optional dynamic open architecture"
-  },
-  {
-    "shop_name": "Russel - Leuschke",
-    "shop_owner": "Amber",
-    "slogan": "Object-based homogeneous local area network"
-  },
-  {
-    "shop_name": "Bailey, Watsica and Cronin",
-    "shop_owner": "Kimberly",
-    "slogan": "Operative client-driven benchmark"
-  },
-  {
-    "shop_name": "Bogan Group",
-    "shop_owner": "Lois",
-    "slogan": "Advanced analyzing neural-net"
-  },
-  {
-    "shop_name": "Kirlin - Wunsch",
-    "shop_owner": "Deshaun",
-    "slogan": "Streamlined next generation hardware"
-  },
-  {
-    "shop_name": "Lueilwitz Inc",
-    "shop_owner": "Chadd",
-    "slogan": "Phased secondary standardization"
-  },
-  {
-    "shop_name": "Rodriguez, Jacobi and Swaniawski",
-    "shop_owner": "Burley",
-    "slogan": "Multi-lateral bottom-line utilisation"
-  },
-  {
-    "shop_name": "Rippin, Ziemann and Miller",
-    "shop_owner": "Katelyn",
-    "slogan": "Synergistic exuding time-frame"
-  },
-  {
-    "shop_name": "Dooley, Witting and Rice",
-    "shop_owner": "Freddie",
-    "slogan": "Multi-tiered user-facing algorithm"
-  },
-  {
-    "shop_name": "Mayert, Langosh and Raynor",
-    "shop_owner": "Junior",
-    "slogan": "Switchable high-level model"
-  },
-  {
-    "shop_name": "West - Jast",
-    "shop_owner": "Damien",
-    "slogan": "Diverse incremental leverage"
-  },
-  {
-    "shop_name": "Orn, Ziemann and Stoltenberg",
-    "shop_owner": "Piper",
-    "slogan": "Balanced radical database"
-  },
-  {
-    "shop_name": "Romaguera, Lemke and Kling",
-    "shop_owner": "Amos",
-    "slogan": "Switchable object-oriented standardization"
-  },
-  {
-    "shop_name": "Quitzon - Breitenberg",
-    "shop_owner": "Amber",
-    "slogan": "Extended national internet solution"
-  },
-  {
-    "shop_name": "Goodwin LLC",
-    "shop_owner": "Freddie",
-    "slogan": "Customer-focused tertiary extranet"
-  },
-  {
-    "shop_name": "O'Hara - Harris",
-    "shop_owner": "Amber",
-    "slogan": "Profit-focused incremental infrastructure"
-  },
-  {
-    "shop_name": "Klocko - Jaskolski",
-    "shop_owner": "Alysson",
-    "slogan": "Re-engineered cohesive success"
-  },
-  {
-    "shop_name": "Rau LLC",
-    "shop_owner": "Leland",
-    "slogan": "Persevering discrete installation"
-  },
-  {
-    "shop_name": "Carter LLC",
-    "shop_owner": "Jacinto",
-    "slogan": "Switchable demand-driven toolset"
-  },
-  {
-    "shop_name": "Hermiston - Veum",
-    "shop_owner": "Maddison",
-    "slogan": "Face to face disintermediate adapter"
-  },
-  {
-    "shop_name": "Skiles - Eichmann",
-    "shop_owner": "Stacy",
-    "slogan": "Exclusive coherent algorithm"
-  },
-  {
-    "shop_name": "Lindgren, Goodwin and Herzog",
-    "shop_owner": "Lois",
-    "slogan": "Digitized homogeneous groupware"
-  },
-  {
-    "shop_name": "Fadel, Thiel and Stracke",
-    "shop_owner": "Antonia",
-    "slogan": "Reactive uniform circuit"
-  },
-  {
-    "shop_name": "O'Kon Group",
-    "shop_owner": "Augustus",
-    "slogan": "Persistent dynamic circuit"
-  },
-  {
-    "shop_name": "Hills Inc",
-    "shop_owner": "Brennan",
-    "slogan": "Automated 6th generation conglomeration"
-  },
-  {
-    "shop_name": "Swaniawski LLC",
-    "shop_owner": "Elouise",
-    "slogan": "Organized asymmetric time-frame"
-  },
-  {
-    "shop_name": "Vandervort Group",
-    "shop_owner": "Luther",
-    "slogan": "Programmable grid-enabled Graphical User Interface"
-  },
-  {
-    "shop_name": "Becker, Romaguera and Willms",
-    "shop_owner": "Leland",
-    "slogan": "Streamlined dedicated monitoring"
-  },
-  {
-    "shop_name": "Kuphal Group",
-    "shop_owner": "Lane",
-    "slogan": "Organized logistical instruction set"
-  },
-  {
-    "shop_name": "Collins - Morar",
-    "shop_owner": "Frederik",
-    "slogan": "Advanced zero tolerance throughput"
-  },
-  {
-    "shop_name": "Larson - Schimmel",
-    "shop_owner": "Astrid",
-    "slogan": "Down-sized neutral focus group"
-  },
-  {
-    "shop_name": "Kunde, Jaskolski and Willms",
-    "shop_owner": "Abbie",
-    "slogan": "Optimized encompassing complexity"
-  },
-  {
-    "shop_name": "McClure Inc",
-    "shop_owner": "Faye",
-    "slogan": "Customizable analyzing access"
-  },
-  {
-    "shop_name": "Shanahan Group",
-    "shop_owner": "Tate",
-    "slogan": "Upgradable fresh-thinking extranet"
-  },
-  {
-    "shop_name": "Conroy Group",
-    "shop_owner": "Hobart",
-    "slogan": "Triple-buffered optimal frame"
-  },
-  {
-    "shop_name": "Kshlerin, Prosacco and Keebler",
-    "shop_owner": "Jade",
-    "slogan": "Business-focused content-based moderator"
-  },
-  {
-    "shop_name": "Nolan, Nolan and Mante",
-    "shop_owner": "Kris",
-    "slogan": "Total maximized open system"
-  },
-  {
-    "shop_name": "Gleason, Dare and Kuhic",
-    "shop_owner": "Hulda",
-    "slogan": "Phased global access"
-  },
-  {
-    "shop_name": "Nienow Inc",
-    "shop_owner": "Freddie",
-    "slogan": "Managed foreground data-warehouse"
-  },
-  {
-    "shop_name": "Bosco - Becker",
-    "shop_owner": "Katelyn",
-    "slogan": "Intuitive maximized Graphical User Interface"
-  },
-  {
-    "shop_name": "Bednar Group",
-    "shop_owner": "Emma",
-    "slogan": "Open-source national software"
-  },
-  {
-    "shop_name": "Schamberger - Douglas",
-    "shop_owner": "Nova",
-    "slogan": "Re-engineered interactive utilisation"
-  },
-  {
-    "shop_name": "Dibbert Group",
-    "shop_owner": "Oceane",
-    "slogan": "De-engineered well-modulated knowledge user"
-  },
-  {
-    "shop_name": "Smitham LLC",
-    "shop_owner": "Antonia",
-    "slogan": "Open-architected 24 hour intranet"
-  },
-  {
-    "shop_name": "Stracke, Schroeder and Brakus",
-    "shop_owner": "Ansel",
-    "slogan": "Down-sized eco-centric benchmark"
-  },
-  {
-    "shop_name": "Robel LLC",
-    "shop_owner": "Alta",
-    "slogan": "Stand-alone fresh-thinking moratorium"
-  },
-  {
-    "shop_name": "Orn and Sons",
-    "shop_owner": "Christop",
-    "slogan": "Object-based 3rd generation knowledge user"
-  },
-  {
-    "shop_name": "McCullough - Schumm",
-    "shop_owner": "Georgianna",
-    "slogan": "Cross-group impactful complexity"
-  },
-  {
-    "shop_name": "Smith and Sons",
-    "shop_owner": "Jaquan",
-    "slogan": "Face to face asynchronous hub"
-  },
-  {
-    "shop_name": "Frami LLC",
-    "shop_owner": "Joanny",
-    "slogan": "Organic zero defect contingency"
-  },
-  {
-    "shop_name": "Greenfelder - Murazik",
-    "shop_owner": "Oren",
-    "slogan": "Networked object-oriented info-mediaries"
-  },
-  {
-    "shop_name": "Hudson, Hilll and Ruecker",
-    "shop_owner": "Amber",
-    "slogan": "Right-sized didactic budgetary management"
-  },
-  {
-    "shop_name": "Stamm, Swift and Larkin",
-    "shop_owner": "Hayden",
-    "slogan": "Devolved interactive protocol"
-  },
-  {
-    "shop_name": "Gottlieb Inc",
-    "shop_owner": "Amber",
-    "slogan": "Optimized exuding Graphical User Interface"
-  },
-  {
-    "shop_name": "Ullrich - Cremin",
-    "shop_owner": "Alta",
-    "slogan": "Adaptive multi-state hierarchy"
-  },
-  {
-    "shop_name": "Kuvalis - Lemke",
-    "shop_owner": "Luther",
-    "slogan": "Programmable transitional contingency"
-  },
-  {
-    "shop_name": "Muller - Gorczany",
-    "shop_owner": "Rafaela",
-    "slogan": "Re-contextualized eco-centric adapter"
-  },
-  {
-    "shop_name": "Schinner, Zieme and Kshlerin",
-    "shop_owner": "Lois",
-    "slogan": "Future-proofed asynchronous Graphic Interface"
-  },
-  {
-    "shop_name": "Reilly, Roob and Keeling",
-    "shop_owner": "Brooks",
-    "slogan": "Synergized client-driven methodology"
-  },
-  {
-    "shop_name": "Kilback Group",
-    "shop_owner": "Giovani",
-    "slogan": "Adaptive bandwidth-monitored focus group"
-  },
-  {
-    "shop_name": "Ortiz, Nolan and Schneider",
-    "shop_owner": "Josefa",
-    "slogan": "Balanced systemic strategy"
-  },
-  {
-    "shop_name": "Deckow - Kerluke",
-    "shop_owner": "Deshaun",
-    "slogan": "Business-focused explicit array"
-  },
-  {
-    "shop_name": "Hayes Inc",
-    "shop_owner": "Hulda",
-    "slogan": "Compatible coherent collaboration"
-  },
-  {
-    "shop_name": "Gleichner - Nicolas",
-    "shop_owner": "Elouise",
-    "slogan": "Ergonomic motivating workforce"
-  },
-  {
-    "shop_name": "Stokes - Leannon",
-    "shop_owner": "Llewellyn",
-    "slogan": "Intuitive real-time matrices"
-  },
-  {
-    "shop_name": "Kilback LLC",
-    "shop_owner": "Makenna",
-    "slogan": "Proactive cohesive Graphic Interface"
-  },
-  {
-    "shop_name": "Reilly and Sons",
-    "shop_owner": "Lane",
-    "slogan": "Triple-buffered web-enabled encoding"
-  },
-  {
-    "shop_name": "Mertz Inc",
-    "shop_owner": "Tate",
-    "slogan": "Adaptive next generation application"
-  },
-  {
-    "shop_name": "Hyatt, Breitenberg and Willms",
-    "shop_owner": "Lane",
-    "slogan": "Switchable web-enabled customer loyalty"
-  },
-  {
-    "shop_name": "Armstrong and Sons",
-    "shop_owner": "Amber",
-    "slogan": "Function-based asynchronous concept"
-  },
-  {
-    "shop_name": "O'Conner, Bosco and Sporer",
-    "shop_owner": "Brooks",
-    "slogan": "Fully-configurable multi-state matrix"
-  },
-  {
-    "shop_name": "Zieme, Smitham and Powlowski",
-    "shop_owner": "Samanta",
-    "slogan": "Ergonomic mobile contingency"
-  },
-  {
-    "shop_name": "Turcotte, Witting and Ryan",
-    "shop_owner": "Lois",
-    "slogan": "Extended demand-driven time-frame"
-  },
-  {
-    "shop_name": "Prosacco Inc",
-    "shop_owner": "Brooks",
-    "slogan": "Ameliorated bi-directional success"
-  },
-  {
-    "shop_name": "O'Connell and Sons",
-    "shop_owner": "Faye",
-    "slogan": "Visionary global success"
-  },
-  {
-    "shop_name": "Stehr LLC",
-    "shop_owner": "Levi",
-    "slogan": "User-centric eco-centric product"
-  },
-  {
-    "shop_name": "Koss - Kovacek",
-    "shop_owner": "Scottie",
-    "slogan": "Cross-group motivating functionalities"
-  },
-  {
-    "shop_name": "Jacobson - Hirthe",
-    "shop_owner": "Deshaun",
-    "slogan": "Open-architected tertiary ability"
-  },
-  {
-    "shop_name": "Pollich and Sons",
-    "shop_owner": "Hope",
-    "slogan": "Robust optimal emulation"
-  },
-  {
-    "shop_name": "Gutmann - Reichel",
-    "shop_owner": "Brennan",
-    "slogan": "Assimilated zero administration leverage"
-  },
-  {
-    "shop_name": "Stamm, Adams and Reichert",
-    "shop_owner": "Brennan",
-    "slogan": "Business-focused analyzing portal"
-  },
-  {
-    "shop_name": "Green Inc",
-    "shop_owner": "D'angelo",
-    "slogan": "Persistent system-worthy architecture"
-  },
-  {
-    "shop_name": "Toy and Sons",
-    "shop_owner": "Brooks",
-    "slogan": "Vision-oriented 3rd generation standardization"
-  },
-  {
-    "shop_name": "Torphy Inc",
-    "shop_owner": "Hulda",
-    "slogan": "Secured web-enabled software"
-  },
-  {
-    "shop_name": "Morar - Koepp",
-    "shop_owner": "Giovani",
-    "slogan": "Self-enabling bi-directional utilisation"
-  },
-  {
-    "shop_name": "Zieme, Sauer and Carroll",
-    "shop_owner": "Burley",
-    "slogan": "Optimized scalable data-warehouse"
-  },
-  {
-    "shop_name": "Johnston, Krajcik and Wisoky",
-    "shop_owner": "Deshaun",
-    "slogan": "Right-sized modular throughput"
-  },
-  {
-    "shop_name": "Leuschke - Conroy",
-    "shop_owner": "Josefa",
-    "slogan": "Expanded optimal monitoring"
-  },
-  {
-    "shop_name": "Klocko, Klocko and Kirlin",
-    "shop_owner": "Llewellyn",
-    "slogan": "Ameliorated tangible emulation"
-  },
-  {
-    "shop_name": "Walsh Group",
-    "shop_owner": "Anne",
-    "slogan": "Inverse leading edge system engine"
-  },
-  {
-    "shop_name": "Lockman - Nikolaus",
-    "shop_owner": "Anne",
-    "slogan": "Ameliorated national methodology"
-  },
-  {
-    "shop_name": "Tillman, Corkery and Lynch",
-    "shop_owner": "Jaquan",
-    "slogan": "Proactive 6th generation emulation"
-  },
-  {
-    "shop_name": "Murray, Morissette and Maggio",
-    "shop_owner": "Alejandra",
-    "slogan": "Integrated 24/7 superstructure"
-  },
-  {
-    "shop_name": "Nolan - Dietrich",
-    "shop_owner": "Rex",
-    "slogan": "Innovative transitional benchmark"
-  },
-  {
-    "shop_name": "Parker and Sons",
-    "shop_owner": "Lauren",
-    "slogan": "Robust maximized adapter"
-  },
-  {
-    "shop_name": "Marvin - Gleason",
-    "shop_owner": "Hulda",
-    "slogan": "Seamless 6th generation secured line"
-  },
-  {
-    "shop_name": "Klocko - Treutel",
-    "shop_owner": "Katelyn",
-    "slogan": "Open-source hybrid throughput"
-  },
-  {
-    "shop_name": "Wilderman Inc",
-    "shop_owner": "Hayden",
-    "slogan": "Organized grid-enabled toolset"
-  },
-  {
-    "shop_name": "Gulgowski Inc",
-    "shop_owner": "Georgiana",
-    "slogan": "Up-sized 4th generation utilisation"
-  },
-  {
-    "shop_name": "Bogan - Lebsack",
-    "shop_owner": "Hope",
-    "slogan": "Cross-platform web-enabled database"
-  },
-  {
-    "shop_name": "Stamm - Hammes",
-    "shop_owner": "Augustus",
-    "slogan": "Cross-group zero defect parallelism"
-  },
-  {
-    "shop_name": "Kertzmann - Wisoky",
-    "shop_owner": "Domingo",
-    "slogan": "Streamlined bandwidth-monitored structure"
-  },
-  {
-    "shop_name": "Halvorson, Lehner and Sipes",
-    "shop_owner": "Gerry",
-    "slogan": "Down-sized neutral hub"
-  },
-  {
-    "shop_name": "Torp and Sons",
-    "shop_owner": "Nova",
-    "slogan": "Business-focused actuating instruction set"
-  },
-  {
-    "shop_name": "Gerlach - Kihn",
-    "shop_owner": "Richmond",
-    "slogan": "Self-enabling grid-enabled capability"
-  },
-  {
-    "shop_name": "Reinger, Schaden and Beier",
-    "shop_owner": "Giovani",
-    "slogan": "Cloned grid-enabled productivity"
-  },
-  {
-    "shop_name": "Nikolaus Inc",
-    "shop_owner": "Hope",
-    "slogan": "Automated radical superstructure"
-  },
-  {
-    "shop_name": "Emmerich - Bergstrom",
-    "shop_owner": "Eugenia",
-    "slogan": "Secured cohesive core"
-  },
-  {
-    "shop_name": "Schumm, Bruen and Brakus",
-    "shop_owner": "Alexandre",
-    "slogan": "Profit-focused leading edge monitoring"
-  },
-  {
-    "shop_name": "Nitzsche, McLaughlin and Hudson",
-    "shop_owner": "Alexandre",
-    "slogan": "Quality-focused mobile moderator"
-  },
-  {
-    "shop_name": "Luettgen - West",
-    "shop_owner": "Brennan",
-    "slogan": "Expanded 6th generation model"
-  },
-  {
-    "shop_name": "Hilll and Sons",
-    "shop_owner": "Scottie",
-    "slogan": "User-friendly solution-oriented system engine"
-  },
-  {
-    "shop_name": "Block, Wolff and Roob",
-    "shop_owner": "Freddie",
-    "slogan": "Devolved 3rd generation concept"
-  },
-  {
-    "shop_name": "Yost - Langworth",
-    "shop_owner": "Tate",
-    "slogan": "Enterprise-wide hybrid workforce"
-  },
-  {
-    "shop_name": "Kohler, Runte and Tillman",
-    "shop_owner": "Scottie",
-    "slogan": "Synergistic contextually-based workforce"
-  },
-  {
-    "shop_name": "Williamson - Abbott",
-    "shop_owner": "Deon",
-    "slogan": "Fully-configurable didactic strategy"
-  },
-  {
-    "shop_name": "Nolan - Wilderman",
-    "shop_owner": "Oren",
-    "slogan": "Fundamental client-driven customer loyalty"
-  },
-  {
-    "shop_name": "Howe and Sons",
-    "shop_owner": "Adan",
-    "slogan": "Inverse upward-trending middleware"
-  },
-  {
-    "shop_name": "Torp, Ernser and Kulas",
-    "shop_owner": "Freddie",
-    "slogan": "Inverse demand-driven local area network"
-  },
-  {
-    "shop_name": "Bernhard - Breitenberg",
-    "shop_owner": "Junior",
-    "slogan": "Team-oriented local adapter"
-  },
-  {
-    "shop_name": "Olson - Hane",
-    "shop_owner": "Ansley",
-    "slogan": "Configurable zero administration standardization"
-  },
-  {
-    "shop_name": "Kovacek and Sons",
-    "shop_owner": "Giovani",
-    "slogan": "Switchable bi-directional portal"
-  },
-  {
-    "shop_name": "Thiel Group",
-    "shop_owner": "Modesto",
-    "slogan": "Open-architected human-resource internet solution"
-  },
-  {
-    "shop_name": "Reichert Group",
-    "shop_owner": "Leland",
-    "slogan": "Synchronised fresh-thinking superstructure"
-  },
-  {
-    "shop_name": "Beahan LLC",
-    "shop_owner": "Hobart",
-    "slogan": "Up-sized systemic internet solution"
-  },
-  {
-    "shop_name": "Beahan Inc",
-    "shop_owner": "Hope",
-    "slogan": "Right-sized cohesive definition"
-  },
-  {
-    "shop_name": "Murazik, Schimmel and Johnston",
-    "shop_owner": "Junior",
-    "slogan": "Open-architected leading edge approach"
-  },
-  {
-    "shop_name": "Jenkins - McLaughlin",
-    "shop_owner": "Damien",
-    "slogan": "Optimized hybrid database"
-  },
-  {
-    "shop_name": "Fritsch LLC",
-    "shop_owner": "Oceane",
-    "slogan": "Face to face composite functionalities"
-  },
-  {
-    "shop_name": "Langworth Inc",
-    "shop_owner": "Oceane",
-    "slogan": "Phased fresh-thinking firmware"
-  },
-  {
-    "shop_name": "Cole - Zulauf",
-    "shop_owner": "Abbie",
-    "slogan": "Cloned methodical time-frame"
-  },
-  {
-    "shop_name": "Schimmel LLC",
-    "shop_owner": "Alta",
-    "slogan": "Virtual uniform interface"
-  },
-  {
-    "shop_name": "Schamberger - Medhurst",
-    "shop_owner": "Ignacio",
-    "slogan": "Vision-oriented scalable concept"
-  },
-  {
-    "shop_name": "Schumm - Nikolaus",
-    "shop_owner": "Freddie",
-    "slogan": "Devolved homogeneous local area network"
-  },
-  {
-    "shop_name": "Welch LLC",
-    "shop_owner": "Brennan",
-    "slogan": "Synergized intangible collaboration"
-  },
-  {
-    "shop_name": "Weber, Ferry and Kuhn",
-    "shop_owner": "Demarcus",
-    "slogan": "Team-oriented 24 hour groupware"
-  },
-  {
-    "shop_name": "Crist - Kilback",
-    "shop_owner": "Ansley",
-    "slogan": "Customizable system-worthy knowledge base"
-  },
-  {
-    "shop_name": "Thiel LLC",
-    "shop_owner": "Makenna",
-    "slogan": "Proactive solution-oriented instruction set"
-  },
-  {
-    "shop_name": "Bahringer, Abshire and Conroy",
-    "shop_owner": "Brennan",
-    "slogan": "Persevering web-enabled concept"
-  },
-  {
-    "shop_name": "Rogahn - Swift",
-    "shop_owner": "Astrid",
-    "slogan": "Networked secondary groupware"
-  },
-  {
-    "shop_name": "Dooley - Corkery",
-    "shop_owner": "Demarcus",
-    "slogan": "Public-key analyzing standardization"
-  },
-  {
-    "shop_name": "VonRueden - Jerde",
-    "shop_owner": "Karelle",
-    "slogan": "Versatile intermediate attitude"
-  },
-  {
-    "shop_name": "Johnston, Bayer and Goldner",
-    "shop_owner": "Josefa",
-    "slogan": "Balanced transitional migration"
-  },
-  {
-    "shop_name": "Gusikowski Inc",
-    "shop_owner": "Levi",
-    "slogan": "Virtual dynamic workforce"
-  },
-  {
-    "shop_name": "Runolfsson Group",
-    "shop_owner": "Anabel",
-    "slogan": "Profit-focused secondary orchestration"
-  },
-  {
-    "shop_name": "Morar - Stroman",
-    "shop_owner": "Frederik",
-    "slogan": "Managed high-level interface"
-  },
-  {
-    "shop_name": "Kuhn Group",
-    "shop_owner": "Burley",
-    "slogan": "Phased intangible benchmark"
-  },
-  {
-    "shop_name": "Fritsch and Sons",
-    "shop_owner": "Lane",
-    "slogan": "Object-based multimedia toolset"
-  },
-  {
-    "shop_name": "Leffler - Kozey",
-    "shop_owner": "Winifred",
-    "slogan": "Automated solution-oriented instruction set"
-  },
-  {
-    "shop_name": "Denesik - Rau",
-    "shop_owner": "Augustus",
-    "slogan": "Organized directional workforce"
-  },
-  {
-    "shop_name": "White and Sons",
-    "shop_owner": "Lauren",
-    "slogan": "Mandatory context-sensitive core"
-  },
-  {
-    "shop_name": "Brakus Group",
-    "shop_owner": "Sheldon",
-    "slogan": "Multi-lateral solution-oriented protocol"
-  },
-  {
-    "shop_name": "Mertz, Parker and Weimann",
-    "shop_owner": "Nova",
-    "slogan": "Synergistic empowering process improvement"
-  },
-  {
-    "shop_name": "Kunde Inc",
-    "shop_owner": "Chadd",
-    "slogan": "Reduced non-volatile attitude"
-  },
-  {
-    "shop_name": "Ratke, Kuvalis and Franecki",
-    "shop_owner": "Levi",
-    "slogan": "Reverse-engineered responsive success"
-  },
-  {
-    "shop_name": "Crooks - Bahringer",
-    "shop_owner": "Emma",
-    "slogan": "Ergonomic solution-oriented paradigm"
-  },
-  {
-    "shop_name": "McCullough - Hauck",
-    "shop_owner": "Rubye",
-    "slogan": "Multi-lateral system-worthy Graphical User Interface"
-  },
-  {
-    "shop_name": "Brown, Goodwin and Schumm",
-    "shop_owner": "Amos",
-    "slogan": "Realigned disintermediate parallelism"
-  },
-  {
-    "shop_name": "Lynch - Ritchie",
-    "shop_owner": "Antonia",
-    "slogan": "Team-oriented heuristic emulation"
-  },
-  {
-    "shop_name": "Parisian - Heaney",
-    "shop_owner": "Alysson",
-    "slogan": "Implemented 4th generation software"
-  },
-  {
-    "shop_name": "Kiehn - Koch",
-    "shop_owner": "D'angelo",
-    "slogan": "Operative user-facing project"
-  },
-  {
-    "shop_name": "Schroeder, Wintheiser and Schumm",
-    "shop_owner": "Christop",
-    "slogan": "Monitored asymmetric capability"
-  },
-  {
-    "shop_name": "White, Lowe and Haley",
-    "shop_owner": "Josefa",
-    "slogan": "Future-proofed static capability"
-  },
-  {
-    "shop_name": "O'Keefe LLC",
-    "shop_owner": "Lacey",
-    "slogan": "Robust dedicated model"
-  },
-  {
-    "shop_name": "Corkery - Torp",
-    "shop_owner": "Karelle",
-    "slogan": "Team-oriented even-keeled collaboration"
-  },
-  {
-    "shop_name": "Kunde Inc",
-    "shop_owner": "Antonia",
-    "slogan": "Public-key next generation pricing structure"
-  },
-  {
-    "shop_name": "Stanton, Emard and Ondricka",
-    "shop_owner": "Aletha",
-    "slogan": "Centralized system-worthy moratorium"
-  },
-  {
-    "shop_name": "Cole Group",
-    "shop_owner": "Deon",
-    "slogan": "Operative zero tolerance time-frame"
-  },
-  {
-    "shop_name": "Runolfsdottir, Gerlach and Schoen",
-    "shop_owner": "Scottie",
-    "slogan": "Ergonomic incremental Graphical User Interface"
-  },
-  {
-    "shop_name": "Goodwin, Schimmel and Nader",
-    "shop_owner": "Theresa",
-    "slogan": "Business-focused impactful matrices"
-  },
-  {
-    "shop_name": "Rempel - Sporer",
-    "shop_owner": "Junior",
-    "slogan": "Balanced eco-centric benchmark"
-  },
-  {
-    "shop_name": "MacGyver, Sawayn and Howe",
-    "shop_owner": "Sheldon",
-    "slogan": "Object-based exuding toolset"
-  },
-  {
-    "shop_name": "Hessel Group",
-    "shop_owner": "Llewellyn",
-    "slogan": "Monitored solution-oriented data-warehouse"
-  },
-  {
-    "shop_name": "Fritsch - Stroman",
-    "shop_owner": "Giovani",
-    "slogan": "Proactive content-based focus group"
-  },
-  {
-    "shop_name": "Rolfson - Bernier",
-    "shop_owner": "Rafaela",
-    "slogan": "Synergized zero administration definition"
-  },
-  {
-    "shop_name": "Rohan Inc",
-    "shop_owner": "Faye",
-    "slogan": "Focused dedicated monitoring"
-  },
-  {
-    "shop_name": "Pacocha - Gerlach",
-    "shop_owner": "Nova",
-    "slogan": "Extended actuating data-warehouse"
-  },
-  {
-    "shop_name": "Ebert - Hessel",
-    "shop_owner": "Jaquan",
-    "slogan": "Right-sized bandwidth-monitored strategy"
-  },
-  {
-    "shop_name": "McCullough, Davis and Hamill",
-    "shop_owner": "Llewellyn",
-    "slogan": "Distributed tertiary open system"
-  },
-  {
-    "shop_name": "Towne Group",
-    "shop_owner": "Lacey",
-    "slogan": "Inverse needs-based contingency"
-  },
-  {
-    "shop_name": "Bailey and Sons",
-    "shop_owner": "Ansel",
-    "slogan": "Robust asynchronous hub"
-  },
-  {
-    "shop_name": "Fay, Tillman and Sawayn",
-    "shop_owner": "Christop",
-    "slogan": "Team-oriented client-server monitoring"
-  },
-  {
-    "shop_name": "Schumm - Kihn",
-    "shop_owner": "Christop",
-    "slogan": "Devolved static methodology"
-  },
-  {
-    "shop_name": "Buckridge - Hartmann",
-    "shop_owner": "Demarcus",
-    "slogan": "Synchronised maximized software"
-  },
-  {
-    "shop_name": "Cremin, Haley and O'Conner",
-    "shop_owner": "Alexandrea",
-    "slogan": "Reactive uniform local area network"
-  },
-  {
-    "shop_name": "Roob, Skiles and Nader",
-    "shop_owner": "Lacey",
-    "slogan": "Integrated web-enabled analyzer"
-  },
-  {
-    "shop_name": "Lueilwitz - Bahringer",
-    "shop_owner": "Lauren",
-    "slogan": "Fully-configurable tangible architecture"
-  },
-  {
-    "shop_name": "Casper, Adams and Dare",
-    "shop_owner": "Richmond",
-    "slogan": "Multi-tiered transitional matrix"
-  },
-  {
-    "shop_name": "Brown - Krajcik",
-    "shop_owner": "Makenna",
-    "slogan": "Cloned exuding focus group"
-  },
-  {
-    "shop_name": "Rosenbaum, Swaniawski and Von",
-    "shop_owner": "Georgiana",
-    "slogan": "Up-sized bifurcated encryption"
-  },
-  {
-    "shop_name": "Langosh Group",
-    "shop_owner": "Tessie",
-    "slogan": "Cross-platform heuristic function"
-  },
-  {
-    "shop_name": "Heaney, Hackett and Rogahn",
-    "shop_owner": "Eloisa",
-    "slogan": "Polarised context-sensitive challenge"
-  },
-  {
-    "shop_name": "Lowe - Koelpin",
-    "shop_owner": "Luther",
-    "slogan": "Reverse-engineered bifurcated function"
-  },
-  {
-    "shop_name": "Marquardt LLC",
-    "shop_owner": "Modesto",
-    "slogan": "Function-based mission-critical encoding"
-  },
-  {
-    "shop_name": "VonRueden Inc",
-    "shop_owner": "Kris",
-    "slogan": "Total composite time-frame"
-  },
-  {
-    "shop_name": "Larkin, Jakubowski and King",
-    "shop_owner": "Alta",
-    "slogan": "Multi-lateral web-enabled attitude"
-  },
-  {
-    "shop_name": "Bechtelar, Greenholt and Sauer",
-    "shop_owner": "Leland",
-    "slogan": "Object-based object-oriented adapter"
-  },
-  {
-    "shop_name": "Pollich Inc",
-    "shop_owner": "Richmond",
-    "slogan": "Open-architected zero administration conglomeration"
-  },
-  {
-    "shop_name": "Vandervort - Zulauf",
-    "shop_owner": "Allen",
-    "slogan": "Quality-focused upward-trending product"
-  },
-  {
-    "shop_name": "Marvin and Sons",
-    "shop_owner": "Stacy",
-    "slogan": "Function-based didactic moderator"
-  },
-  {
-    "shop_name": "Jacobi, Hirthe and Little",
-    "shop_owner": "Freddie",
-    "slogan": "Optimized hybrid product"
-  },
-  {
-    "shop_name": "Bins and Sons",
-    "shop_owner": "Rafaela",
-    "slogan": "Visionary foreground portal"
-  },
-  {
-    "shop_name": "Schowalter - McCullough",
-    "shop_owner": "Lacey",
-    "slogan": "Multi-lateral systemic project"
-  },
-  {
-    "shop_name": "Spencer - Hegmann",
-    "shop_owner": "Myriam",
-    "slogan": "Customer-focused homogeneous access"
-  },
-  {
-    "shop_name": "Balistreri - Stark",
-    "shop_owner": "Jamal",
-    "slogan": "Managed non-volatile collaboration"
-  },
-  {
-    "shop_name": "Powlowski Group",
-    "shop_owner": "Astrid",
-    "slogan": "Synergized methodical complexity"
-  },
-  {
-    "shop_name": "Towne, Hamill and Terry",
-    "shop_owner": "Jamal",
-    "slogan": "Ameliorated fault-tolerant support"
-  },
-  {
-    "shop_name": "Schmitt Inc",
-    "shop_owner": "Burley",
-    "slogan": "Multi-lateral grid-enabled budgetary management"
-  },
-  {
-    "shop_name": "McGlynn, Mayert and Ledner",
-    "shop_owner": "Demarcus",
-    "slogan": "Grass-roots global conglomeration"
-  },
-  {
-    "shop_name": "Stamm - Doyle",
-    "shop_owner": "Anne",
-    "slogan": "Function-based intangible artificial intelligence"
-  },
-  {
-    "shop_name": "Ankunding - Rempel",
-    "shop_owner": "Brooks",
-    "slogan": "Automated zero administration portal"
-  },
-  {
-    "shop_name": "Auer Group",
-    "shop_owner": "Deon",
-    "slogan": "Seamless regional hub"
-  },
-  {
-    "shop_name": "Turcotte, Boehm and Hahn",
-    "shop_owner": "Ruben",
-    "slogan": "Stand-alone dedicated toolset"
-  },
-  {
-    "shop_name": "Bergnaum - Schaefer",
-    "shop_owner": "Candice",
-    "slogan": "Switchable non-volatile capability"
-  },
-  {
-    "shop_name": "Robel, Nader and Kub",
-    "shop_owner": "Lane",
-    "slogan": "Centralized context-sensitive functionalities"
-  },
-  {
-    "shop_name": "Swaniawski, Schimmel and Jacobi",
-    "shop_owner": "Jamal",
-    "slogan": "Grass-roots well-modulated challenge"
-  },
-  {
-    "shop_name": "Nienow and Sons",
-    "shop_owner": "Adan",
-    "slogan": "Balanced fresh-thinking intranet"
-  },
-  {
-    "shop_name": "Okuneva, Zboncak and Hyatt",
-    "shop_owner": "Deon",
-    "slogan": "Multi-tiered stable firmware"
-  },
-  {
-    "shop_name": "Batz, Mertz and Willms",
-    "shop_owner": "Josefa",
-    "slogan": "Upgradable maximized migration"
-  },
-  {
-    "shop_name": "Mann, Koch and Cummings",
-    "shop_owner": "Domingo",
-    "slogan": "Profit-focused radical capacity"
-  },
-  {
-    "shop_name": "Prohaska - Flatley",
-    "shop_owner": "D'angelo",
-    "slogan": "Phased multi-tasking synergy"
-  },
-  {
-    "shop_name": "Ratke, Lindgren and Gleichner",
-    "shop_owner": "Luther",
-    "slogan": "Devolved tangible superstructure"
-  },
-  {
-    "shop_name": "Goyette LLC",
-    "shop_owner": "Eloisa",
-    "slogan": "Phased background superstructure"
-  },
-  {
-    "shop_name": "Jacobi LLC",
-    "shop_owner": "Abbie",
-    "slogan": "Proactive hybrid structure"
-  },
-  {
-    "shop_name": "Paucek - Haag",
-    "shop_owner": "Tate",
-    "slogan": "Monitored systemic complexity"
-  },
-  {
-    "shop_name": "Stark, Jacobson and Hackett",
-    "shop_owner": "Georgianna",
-    "slogan": "Centralized logistical middleware"
-  },
-  {
-    "shop_name": "Langworth, Lang and Pfeffer",
-    "shop_owner": "Loren",
-    "slogan": "Open-source demand-driven customer loyalty"
-  },
-  {
-    "shop_name": "Weimann - Littel",
-    "shop_owner": "Nova",
-    "slogan": "Virtual client-driven time-frame"
-  },
-  {
-    "shop_name": "Barrows - Homenick",
-    "shop_owner": "Brennan",
-    "slogan": "Phased client-driven benchmark"
-  },
-  {
-    "shop_name": "Reynolds, Weimann and Cronin",
-    "shop_owner": "Augustus",
-    "slogan": "Reduced next generation website"
-  },
-  {
-    "shop_name": "Hessel LLC",
-    "shop_owner": "Eloisa",
-    "slogan": "Expanded intermediate policy"
-  },
-  {
-    "shop_name": "Skiles and Sons",
-    "shop_owner": "Tate",
-    "slogan": "Diverse needs-based help-desk"
-  },
-  {
-    "shop_name": "Walter, Osinski and Jast",
-    "shop_owner": "Alysson",
-    "slogan": "Enterprise-wide fresh-thinking circuit"
-  },
-  {
-    "shop_name": "Nolan LLC",
-    "shop_owner": "Josefa",
-    "slogan": "Customizable grid-enabled complexity"
-  },
-  {
-    "shop_name": "Dickens - Marvin",
-    "shop_owner": "Domingo",
-    "slogan": "Total system-worthy intranet"
-  },
-  {
-    "shop_name": "Block - Halvorson",
-    "shop_owner": "Hobart",
-    "slogan": "Reactive high-level solution"
-  },
-  {
-    "shop_name": "Schmeler, Ullrich and Collins",
-    "shop_owner": "Celestino",
-    "slogan": "Down-sized zero defect implementation"
-  },
-  {
-    "shop_name": "DuBuque - Murazik",
-    "shop_owner": "Imani",
-    "slogan": "Vision-oriented web-enabled info-mediaries"
-  },
-  {
-    "shop_name": "Hodkiewicz, Mayer and Becker",
-    "shop_owner": "Llewellyn",
-    "slogan": "Horizontal grid-enabled protocol"
-  },
-  {
-    "shop_name": "O'Kon - Grady",
-    "shop_owner": "Leland",
-    "slogan": "Profound client-server capability"
-  },
-  {
-    "shop_name": "Harber, King and Beahan",
-    "shop_owner": "Brennan",
-    "slogan": "Reverse-engineered needs-based info-mediaries"
-  },
-  {
-    "shop_name": "Runolfsdottir LLC",
-    "shop_owner": "Frederik",
-    "slogan": "Customizable clear-thinking definition"
-  },
-  {
-    "shop_name": "Tremblay, Bergnaum and Renner",
-    "shop_owner": "Winifred",
-    "slogan": "Face to face actuating policy"
-  },
-  {
-    "shop_name": "Moen, Kautzer and Gleason",
-    "shop_owner": "Georgianna",
-    "slogan": "Multi-lateral contextually-based model"
-  },
-  {
-    "shop_name": "Upton and Sons",
-    "shop_owner": "Georgiana",
-    "slogan": "Horizontal interactive framework"
-  },
-  {
-    "shop_name": "Thompson Inc",
-    "shop_owner": "Emma",
-    "slogan": "Right-sized scalable info-mediaries"
-  },
-  {
-    "shop_name": "Gutmann - Quitzon",
-    "shop_owner": "Christop",
-    "slogan": "Triple-buffered demand-driven leverage"
-  },
-  {
-    "shop_name": "Moen and Sons",
-    "shop_owner": "Gerry",
-    "slogan": "Pre-emptive contextually-based complexity"
-  },
-  {
-    "shop_name": "Nader, Farrell and Turcotte",
-    "shop_owner": "Kris",
-    "slogan": "Public-key client-driven attitude"
-  },
-  {
-    "shop_name": "Ondricka, Schuppe and Towne",
-    "shop_owner": "Lane",
-    "slogan": "Profound bandwidth-monitored success"
-  },
-  {
-    "shop_name": "Nitzsche - Braun",
-    "shop_owner": "Astrid",
-    "slogan": "Cross-group bottom-line knowledge user"
-  },
-  {
-    "shop_name": "Schoen Group",
-    "shop_owner": "Abbie",
-    "slogan": "Balanced neutral workforce"
-  },
-  {
-    "shop_name": "Altenwerth - Legros",
-    "shop_owner": "Myriam",
-    "slogan": "Mandatory scalable algorithm"
-  },
-  {
-    "shop_name": "Pollich, Waters and Rice",
-    "shop_owner": "Georgianna",
-    "slogan": "Front-line national installation"
-  },
-  {
-    "shop_name": "Stroman - Hayes",
-    "shop_owner": "Jade",
-    "slogan": "Integrated bi-directional installation"
-  },
-  {
-    "shop_name": "Kerluke, Osinski and Jast",
-    "shop_owner": "Hayden",
-    "slogan": "Compatible local function"
-  },
-  {
-    "shop_name": "Gaylord, Borer and Ledner",
-    "shop_owner": "Theresa",
-    "slogan": "Self-enabling intangible function"
-  },
-  {
-    "shop_name": "Reynolds, Wisozk and Rolfson",
-    "shop_owner": "Stacy",
-    "slogan": "Ergonomic radical encryption"
-  },
-  {
-    "shop_name": "Balistreri LLC",
-    "shop_owner": "Brooks",
-    "slogan": "Centralized dedicated portal"
-  },
-  {
-    "shop_name": "Lesch, Ziemann and Durgan",
-    "shop_owner": "Joanny",
-    "slogan": "User-friendly 3rd generation product"
-  },
-  {
-    "shop_name": "Schneider - Frami",
-    "shop_owner": "Aletha",
-    "slogan": "Streamlined global alliance"
-  },
-  {
-    "shop_name": "Wolf, Schiller and Balistreri",
-    "shop_owner": "Damien",
-    "slogan": "Ergonomic regional definition"
-  },
-  {
-    "shop_name": "Bogan - Quitzon",
-    "shop_owner": "Rubye",
-    "slogan": "User-centric discrete product"
-  },
-  {
-    "shop_name": "Durgan and Sons",
-    "shop_owner": "Ruben",
-    "slogan": "Assimilated leading edge capability"
-  },
-  {
-    "shop_name": "Rodriguez, Borer and Feil",
-    "shop_owner": "Abbie",
-    "slogan": "De-engineered tertiary initiative"
-  },
-  {
-    "shop_name": "Ryan LLC",
-    "shop_owner": "Lacey",
-    "slogan": "Front-line tangible policy"
-  },
-  {
-    "shop_name": "Gerhold Inc",
-    "shop_owner": "Anne",
-    "slogan": "Distributed non-volatile protocol"
-  },
-  {
-    "shop_name": "Stracke, Cummings and Hartmann",
-    "shop_owner": "Gerry",
-    "slogan": "Diverse zero administration extranet"
-  },
-  {
-    "shop_name": "Rau, Davis and Stamm",
-    "shop_owner": "Antonia",
-    "slogan": "Multi-lateral user-facing benchmark"
-  },
-  {
-    "shop_name": "Renner - O'Kon",
-    "shop_owner": "Theresa",
-    "slogan": "Advanced 3rd generation analyzer"
-  },
-  {
-    "shop_name": "Durgan, Rowe and Veum",
-    "shop_owner": "Ansel",
-    "slogan": "Fundamental responsive application"
-  },
-  {
-    "shop_name": "Thiel - Prohaska",
-    "shop_owner": "Brooks",
-    "slogan": "Networked bottom-line help-desk"
-  },
-  {
-    "shop_name": "Hamill - Sanford",
-    "shop_owner": "Alexandre",
-    "slogan": "Automated well-modulated capacity"
-  },
-  {
-    "shop_name": "Kassulke, Wisozk and Thiel",
-    "shop_owner": "Imani",
-    "slogan": "Organized regional middleware"
-  },
-  {
-    "shop_name": "Langworth, Marvin and Corkery",
-    "shop_owner": "Augustus",
-    "slogan": "Fully-configurable modular monitoring"
-  },
-  {
-    "shop_name": "Wyman - Witting",
-    "shop_owner": "Amos",
-    "slogan": "Switchable homogeneous approach"
-  },
-  {
-    "shop_name": "Skiles - Mertz",
-    "shop_owner": "Karelle",
-    "slogan": "Multi-tiered high-level emulation"
-  },
-  {
-    "shop_name": "Ruecker, Jerde and Ryan",
-    "shop_owner": "Christop",
-    "slogan": "Right-sized next generation matrices"
-  },
-  {
-    "shop_name": "Douglas, Conroy and Beier",
-    "shop_owner": "Eugenia",
-    "slogan": "Organic secondary artificial intelligence"
-  },
-  {
-    "shop_name": "McDermott LLC",
-    "shop_owner": "Verlie",
-    "slogan": "Decentralized background frame"
-  },
-  {
-    "shop_name": "Aufderhar - Hegmann",
-    "shop_owner": "Ansel",
-    "slogan": "Switchable content-based middleware"
-  },
-  {
-    "shop_name": "Rosenbaum - Quitzon",
-    "shop_owner": "Antonia",
-    "slogan": "Multi-tiered context-sensitive hub"
-  },
-  {
-    "shop_name": "Schaden, Stiedemann and Funk",
-    "shop_owner": "Lois",
-    "slogan": "User-centric well-modulated benchmark"
-  },
-  {
-    "shop_name": "Lehner Group",
-    "shop_owner": "Joanny",
-    "slogan": "User-centric motivating strategy"
-  },
-  {
-    "shop_name": "Balistreri Group",
-    "shop_owner": "Hope",
-    "slogan": "Exclusive explicit encoding"
-  },
-  {
-    "shop_name": "Rempel - Ward",
-    "shop_owner": "Jamal",
-    "slogan": "Reactive foreground framework"
-  },
-  {
-    "shop_name": "Shields - Wintheiser",
-    "shop_owner": "Winifred",
-    "slogan": "Mandatory uniform help-desk"
-  },
-  {
-    "shop_name": "McLaughlin, Lowe and Ankunding",
-    "shop_owner": "Maddison",
-    "slogan": "Sharable 3rd generation synergy"
-  },
-  {
-    "shop_name": "Parker - Smitham",
-    "shop_owner": "Pearlie",
-    "slogan": "Stand-alone clear-thinking info-mediaries"
-  },
-  {
-    "shop_name": "Borer - Simonis",
-    "shop_owner": "Verlie",
-    "slogan": "Ameliorated analyzing analyzer"
-  },
-  {
-    "shop_name": "Christiansen, Bashirian and Kautzer",
-    "shop_owner": "Rafaela",
-    "slogan": "User-centric optimal adapter"
-  },
-  {
-    "shop_name": "Kessler Inc",
-    "shop_owner": "Makenna",
-    "slogan": "Universal fault-tolerant secured line"
-  },
-  {
-    "shop_name": "Rippin - Adams",
-    "shop_owner": "Alisa",
-    "slogan": "Inverse non-volatile protocol"
-  },
-  {
-    "shop_name": "Heaney, Stark and Batz",
-    "shop_owner": "Onie",
-    "slogan": "Virtual attitude-oriented contingency"
-  },
-  {
-    "shop_name": "Bins - Purdy",
-    "shop_owner": "Lauren",
-    "slogan": "Balanced global hierarchy"
-  },
-  {
-    "shop_name": "Champlin - Kautzer",
-    "shop_owner": "Alexandre",
-    "slogan": "Realigned attitude-oriented hardware"
-  },
-  {
-    "shop_name": "Schneider, Olson and Huels",
-    "shop_owner": "Burley",
-    "slogan": "Operative optimizing protocol"
-  },
-  {
-    "shop_name": "Buckridge, Bartell and Gislason",
-    "shop_owner": "Lacey",
-    "slogan": "Proactive value-added customer loyalty"
-  },
-  {
-    "shop_name": "Cremin - Hermann",
-    "shop_owner": "Emma",
-    "slogan": "Innovative multimedia focus group"
-  },
-  {
-    "shop_name": "Shields Inc",
-    "shop_owner": "Winifred",
-    "slogan": "Distributed zero defect toolset"
-  },
-  {
-    "shop_name": "Welch Inc",
-    "shop_owner": "Deshaun",
-    "slogan": "Virtual context-sensitive knowledge base"
-  },
-  {
-    "shop_name": "Sipes, Robel and Weissnat",
-    "shop_owner": "Modesto",
-    "slogan": "Multi-tiered uniform process improvement"
-  },
-  {
-    "shop_name": "Eichmann, Lubowitz and Kulas",
-    "shop_owner": "Elouise",
-    "slogan": "Networked holistic customer loyalty"
-  },
-  {
-    "shop_name": "Rice - Rowe",
-    "shop_owner": "Hobart",
-    "slogan": "Reduced logistical paradigm"
-  },
-  {
-    "shop_name": "Kunde LLC",
-    "shop_owner": "Frederik",
-    "slogan": "Streamlined human-resource projection"
-  },
-  {
-    "shop_name": "Brown, Brekke and Schmeler",
-    "shop_owner": "Junior",
-    "slogan": "Re-engineered eco-centric open architecture"
-  },
-  {
-    "shop_name": "McDermott, Johnson and Mertz",
-    "shop_owner": "Alta",
-    "slogan": "Expanded bandwidth-monitored info-mediaries"
-  },
-  {
-    "shop_name": "Green, Gislason and Zulauf",
-    "shop_owner": "Jaquan",
-    "slogan": "Reduced bandwidth-monitored moderator"
-  },
-  {
-    "shop_name": "Fritsch, Schiller and Jacobs",
-    "shop_owner": "Jade",
-    "slogan": "Right-sized background open architecture"
-  },
-  {
-    "shop_name": "Schuppe, Tillman and Ratke",
-    "shop_owner": "Candice",
-    "slogan": "Polarised transitional support"
-  },
-  {
-    "shop_name": "Zboncak - Erdman",
-    "shop_owner": "Christop",
-    "slogan": "Future-proofed interactive ability"
-  },
-  {
-    "shop_name": "Mertz Group",
-    "shop_owner": "Lois",
-    "slogan": "Function-based clear-thinking capability"
-  },
-  {
-    "shop_name": "Gutmann and Sons",
-    "shop_owner": "Garry",
-    "slogan": "Streamlined object-oriented flexibility"
-  },
-  {
-    "shop_name": "Vandervort, Lehner and Hartmann",
-    "shop_owner": "Lane",
-    "slogan": "Programmable radical project"
-  },
-  {
-    "shop_name": "Will, Turcotte and Monahan",
-    "shop_owner": "Alexandre",
-    "slogan": "Cross-platform bi-directional paradigm"
-  },
-  {
-    "shop_name": "Schneider Inc",
-    "shop_owner": "Ignacio",
-    "slogan": "Reactive reciprocal standardization"
-  },
-  {
-    "shop_name": "Harris - Maggio",
-    "shop_owner": "Brennan",
-    "slogan": "Enterprise-wide bandwidth-monitored complexity"
-  },
-  {
-    "shop_name": "Rempel - Treutel",
-    "shop_owner": "Jaquan",
-    "slogan": "Persevering national application"
-  },
-  {
-    "shop_name": "Brakus LLC",
-    "shop_owner": "Lauren",
-    "slogan": "Seamless 3rd generation forecast"
-  },
-  {
-    "shop_name": "Ortiz Group",
-    "shop_owner": "Abbie",
-    "slogan": "Synergistic 6th generation info-mediaries"
-  },
-  {
-    "shop_name": "Heaney - Marks",
-    "shop_owner": "Theresa",
-    "slogan": "Fundamental eco-centric matrix"
-  },
-  {
-    "shop_name": "Gottlieb, Hansen and Rippin",
-    "shop_owner": "Alysson",
-    "slogan": "User-centric motivating database"
-  },
-  {
-    "shop_name": "Schmeler - Gislason",
-    "shop_owner": "Katelyn",
-    "slogan": "Innovative object-oriented methodology"
-  },
-  {
-    "shop_name": "Kling - Stroman",
-    "shop_owner": "Freddie",
-    "slogan": "Implemented 24 hour contingency"
-  },
-  {
-    "shop_name": "Hintz LLC",
-    "shop_owner": "Eloisa",
-    "slogan": "Innovative local ability"
-  },
-  {
-    "shop_name": "Bashirian, Schimmel and Jacobi",
-    "shop_owner": "Stacy",
-    "slogan": "Robust modular implementation"
-  },
-  {
-    "shop_name": "Conroy - Windler",
-    "shop_owner": "Brennan",
-    "slogan": "Automated asynchronous concept"
-  },
-  {
-    "shop_name": "Spencer, Lubowitz and Hoeger",
-    "shop_owner": "Samanta",
-    "slogan": "Face to face didactic system engine"
-  },
-  {
-    "shop_name": "Reinger Group",
-    "shop_owner": "Rafaela",
-    "slogan": "Vision-oriented heuristic protocol"
-  },
-  {
-    "shop_name": "Walsh - Renner",
-    "shop_owner": "Alisa",
-    "slogan": "Devolved contextually-based migration"
-  },
-  {
-    "shop_name": "Schiller, Farrell and Haley",
-    "shop_owner": "Amos",
-    "slogan": "Switchable systematic middleware"
-  },
-  {
-    "shop_name": "Lubowitz Group",
-    "shop_owner": "Brennan",
-    "slogan": "Mandatory actuating time-frame"
-  },
-  {
-    "shop_name": "Schumm - Schaden",
-    "shop_owner": "Ignacio",
-    "slogan": "Object-based executive extranet"
-  },
-  {
-    "shop_name": "Rolfson, Lindgren and Langosh",
-    "shop_owner": "Antonia",
-    "slogan": "Proactive regional synergy"
-  },
-  {
-    "shop_name": "Luettgen, Williamson and Beer",
-    "shop_owner": "Tate",
-    "slogan": "Business-focused zero administration data-warehouse"
-  },
-  {
-    "shop_name": "Kuphal, Jast and Gerhold",
-    "shop_owner": "Bette",
-    "slogan": "Face to face explicit conglomeration"
-  },
-  {
-    "shop_name": "Zboncak, Weissnat and Brekke",
-    "shop_owner": "Levi",
-    "slogan": "Customer-focused well-modulated secured line"
-  },
-  {
-    "shop_name": "Nader - Buckridge",
-    "shop_owner": "Lacey",
-    "slogan": "Reduced impactful access"
-  },
-  {
-    "shop_name": "Davis - Watsica",
-    "shop_owner": "Hanna",
-    "slogan": "Quality-focused background system engine"
-  },
-  {
-    "shop_name": "Bartoletti - Schuppe",
-    "shop_owner": "Anabel",
-    "slogan": "Focused mobile focus group"
-  },
-  {
-    "shop_name": "Spinka Inc",
-    "shop_owner": "Modesto",
-    "slogan": "Right-sized asymmetric open architecture"
-  },
-  {
-    "shop_name": "Schultz, Zboncak and Rutherford",
-    "shop_owner": "Antonia",
-    "slogan": "Sharable directional database"
-  },
-  {
-    "shop_name": "Murray - Towne",
-    "shop_owner": "Jaquan",
-    "slogan": "Fully-configurable encompassing focus group"
-  },
-  {
-    "shop_name": "Welch, Roob and Spencer",
-    "shop_owner": "Burley",
-    "slogan": "Distributed full-range Graphic Interface"
-  },
-  {
-    "shop_name": "Kuvalis, Sipes and Maggio",
-    "shop_owner": "Burley",
-    "slogan": "Object-based systemic portal"
-  },
-  {
-    "shop_name": "Steuber - Lehner",
-    "shop_owner": "Freddie",
-    "slogan": "Expanded actuating forecast"
-  },
-  {
-    "shop_name": "Kuhic - Dach",
-    "shop_owner": "Tessie",
-    "slogan": "Assimilated scalable approach"
-  },
-  {
-    "shop_name": "Reilly - Cummerata",
-    "shop_owner": "Myriam",
-    "slogan": "Decentralized composite workforce"
-  },
-  {
-    "shop_name": "Kirlin, Zieme and Mills",
-    "shop_owner": "Alta",
-    "slogan": "Upgradable incremental product"
-  },
-  {
-    "shop_name": "Stehr, Smith and Schiller",
-    "shop_owner": "Freddie",
-    "slogan": "Horizontal multi-tasking framework"
-  },
-  {
-    "shop_name": "Medhurst - Beahan",
-    "shop_owner": "Lacey",
-    "slogan": "Cross-platform systemic knowledge base"
-  },
-  {
-    "shop_name": "Pagac Group",
-    "shop_owner": "Ignacio",
-    "slogan": "Object-based fresh-thinking application"
-  },
-  {
-    "shop_name": "Breitenberg and Sons",
-    "shop_owner": "Llewellyn",
-    "slogan": "Total global access"
-  },
-  {
-    "shop_name": "Waelchi - Dare",
-    "shop_owner": "Damien",
-    "slogan": "Grass-roots mobile firmware"
-  },
-  {
-    "shop_name": "Braun, Beier and Jakubowski",
-    "shop_owner": "Luther",
-    "slogan": "Pre-emptive tangible ability"
-  },
-  {
-    "shop_name": "Gleichner Inc",
-    "shop_owner": "Rafaela",
-    "slogan": "User-centric background complexity"
-  },
-  {
-    "shop_name": "Greenfelder, Schmeler and Cole",
-    "shop_owner": "Emma",
-    "slogan": "Face to face contextually-based groupware"
-  },
-  {
-    "shop_name": "Rau and Sons",
-    "shop_owner": "Nova",
-    "slogan": "Monitored composite pricing structure"
-  },
-  {
-    "shop_name": "Johnston - Ebert",
-    "shop_owner": "Leland",
-    "slogan": "Adaptive contextually-based open architecture"
-  },
-  {
-    "shop_name": "Huel, Kozey and Cummings",
-    "shop_owner": "Richmond",
-    "slogan": "De-engineered global moratorium"
-  },
-  {
-    "shop_name": "Greenfelder, Lubowitz and Ernser",
-    "shop_owner": "Garry",
-    "slogan": "Multi-lateral multimedia leverage"
-  },
-  {
-    "shop_name": "Farrell Group",
-    "shop_owner": "Alexandre",
-    "slogan": "Ergonomic client-server collaboration"
-  },
-  {
-    "shop_name": "Stoltenberg Inc",
-    "shop_owner": "Onie",
-    "slogan": "Advanced multi-tasking system engine"
-  },
-  {
-    "shop_name": "Robel, Turcotte and Mann",
-    "shop_owner": "Tate",
-    "slogan": "Digitized optimal extranet"
-  },
-  {
-    "shop_name": "Abbott, Bechtelar and Spinka",
-    "shop_owner": "Oren",
-    "slogan": "Seamless eco-centric superstructure"
-  },
-  {
-    "shop_name": "Schamberger, Torp and Ledner",
-    "shop_owner": "Nova",
-    "slogan": "Operative neutral task-force"
-  },
-  {
-    "shop_name": "Casper, McKenzie and Hintz",
-    "shop_owner": "Winifred",
-    "slogan": "Horizontal directional forecast"
-  },
-  {
-    "shop_name": "Carroll Group",
-    "shop_owner": "Leland",
-    "slogan": "Implemented exuding standardization"
-  },
-  {
-    "shop_name": "Friesen Inc",
-    "shop_owner": "Allen",
-    "slogan": "Balanced eco-centric ability"
-  },
-  {
-    "shop_name": "Ziemann, Crist and Bartoletti",
-    "shop_owner": "Hope",
-    "slogan": "Balanced multi-state challenge"
-  },
-  {
-    "shop_name": "Leannon - Fisher",
-    "shop_owner": "Elouise",
-    "slogan": "Visionary bi-directional core"
-  },
-  {
-    "shop_name": "Funk - Willms",
-    "shop_owner": "Frederik",
-    "slogan": "Face to face national flexibility"
-  },
-  {
-    "shop_name": "Nikolaus, Brown and Schumm",
-    "shop_owner": "Ignacio",
-    "slogan": "Up-sized human-resource open architecture"
-  },
-  {
-    "shop_name": "Zemlak, Wehner and Prosacco",
-    "shop_owner": "Alysson",
-    "slogan": "Right-sized national contingency"
-  },
-  {
-    "shop_name": "Tillman - Jerde",
-    "shop_owner": "Makenna",
-    "slogan": "Stand-alone bottom-line hardware"
-  },
-  {
-    "shop_name": "Howell and Sons",
-    "shop_owner": "Elouise",
-    "slogan": "Assimilated bifurcated installation"
-  },
-  {
-    "shop_name": "Harvey, Stanton and Gerhold",
-    "shop_owner": "Eugenia",
-    "slogan": "Object-based neutral approach"
-  },
-  {
-    "shop_name": "Hirthe Inc",
-    "shop_owner": "Piper",
-    "slogan": "Exclusive tangible paradigm"
-  },
-  {
-    "shop_name": "Connelly LLC",
-    "shop_owner": "Deon",
-    "slogan": "Robust global capability"
-  },
-  {
-    "shop_name": "Mills, Fritsch and Bernhard",
-    "shop_owner": "Richmond",
-    "slogan": "Polarised attitude-oriented product"
-  },
-  {
-    "shop_name": "Zemlak LLC",
-    "shop_owner": "Celestino",
-    "slogan": "De-engineered user-facing circuit"
-  },
-  {
-    "shop_name": "Treutel, Hodkiewicz and Hills",
-    "shop_owner": "Freddie",
-    "slogan": "Multi-lateral bifurcated toolset"
-  },
-  {
-    "shop_name": "Braun and Sons",
-    "shop_owner": "Chadd",
-    "slogan": "Advanced directional budgetary management"
-  },
-  {
-    "shop_name": "Koch Group",
-    "shop_owner": "Josefa",
-    "slogan": "Customer-focused encompassing function"
-  },
-  {
-    "shop_name": "Pouros and Sons",
-    "shop_owner": "Adan",
-    "slogan": "Reduced object-oriented open architecture"
-  },
-  {
-    "shop_name": "Hammes, Davis and Hegmann",
-    "shop_owner": "Kimberly",
-    "slogan": "Focused logistical service-desk"
-  },
-  {
-    "shop_name": "Hermiston, Wunsch and Predovic",
-    "shop_owner": "Emil",
-    "slogan": "Organic non-volatile process improvement"
-  },
-  {
-    "shop_name": "Blick Inc",
-    "shop_owner": "Jaquan",
-    "slogan": "Customer-focused clear-thinking flexibility"
-  },
-  {
-    "shop_name": "Klein and Sons",
-    "shop_owner": "Oceane",
-    "slogan": "Streamlined 6th generation array"
-  },
-  {
-    "shop_name": "Balistreri - Lang",
-    "shop_owner": "Brennan",
-    "slogan": "Synchronised non-volatile system engine"
-  },
-  {
-    "shop_name": "Bogan - Dibbert",
-    "shop_owner": "Amos",
-    "slogan": "Future-proofed system-worthy firmware"
-  },
-  {
-    "shop_name": "Hane LLC",
-    "shop_owner": "Lane",
-    "slogan": "Versatile neutral product"
-  },
-  {
-    "shop_name": "Pagac - Jakubowski",
-    "shop_owner": "Oceane",
-    "slogan": "Configurable content-based capacity"
-  },
-  {
-    "shop_name": "Stokes - Yost",
-    "shop_owner": "Lois",
-    "slogan": "Configurable value-added encoding"
-  },
-  {
-    "shop_name": "Corkery, Renner and Lebsack",
-    "shop_owner": "Karelle",
-    "slogan": "Re-contextualized heuristic solution"
-  },
-  {
-    "shop_name": "Tillman, Hermiston and Bednar",
-    "shop_owner": "Jade",
-    "slogan": "Fundamental demand-driven alliance"
-  },
-  {
-    "shop_name": "Weber Inc",
-    "shop_owner": "Lacey",
-    "slogan": "Multi-lateral regional monitoring"
-  },
-  {
-    "shop_name": "McLaughlin LLC",
-    "shop_owner": "Pearlie",
-    "slogan": "Multi-lateral explicit algorithm"
-  },
-  {
-    "shop_name": "Blanda Inc",
-    "shop_owner": "Amos",
-    "slogan": "User-friendly motivating orchestration"
-  },
-  {
-    "shop_name": "Hand - Hills",
-    "shop_owner": "Alexandre",
-    "slogan": "Enterprise-wide tertiary parallelism"
-  },
-  {
-    "shop_name": "Parisian, Bogan and Watsica",
-    "shop_owner": "Jamal",
-    "slogan": "Reactive global forecast"
-  },
-  {
-    "shop_name": "Kulas - Zulauf",
-    "shop_owner": "Adan",
-    "slogan": "Synergized dynamic collaboration"
-  },
-  {
-    "shop_name": "Metz, Yundt and Green",
-    "shop_owner": "Brooks",
-    "slogan": "Programmable 6th generation analyzer"
-  },
-  {
-    "shop_name": "Quitzon - Rowe",
-    "shop_owner": "Jamal",
-    "slogan": "Right-sized national projection"
-  },
-  {
-    "shop_name": "Muller - Halvorson",
-    "shop_owner": "Eugenia",
-    "slogan": "Progressive optimizing methodology"
-  },
-  {
-    "shop_name": "Cummerata - Buckridge",
-    "shop_owner": "Garry",
-    "slogan": "Extended object-oriented pricing structure"
-  },
-  {
-    "shop_name": "Bayer - Stoltenberg",
-    "shop_owner": "Samanta",
-    "slogan": "Team-oriented composite system engine"
-  },
-  {
-    "shop_name": "Feeney Inc",
-    "shop_owner": "Rubye",
-    "slogan": "Operative static application"
-  },
-  {
-    "shop_name": "Hermiston - Ullrich",
-    "shop_owner": "Pearlie",
-    "slogan": "Self-enabling content-based capability"
-  },
-  {
-    "shop_name": "Kunde - Spinka",
-    "shop_owner": "Emil",
-    "slogan": "Diverse real-time extranet"
-  },
-  {
-    "shop_name": "Nienow and Sons",
-    "shop_owner": "Jade",
-    "slogan": "Object-based system-worthy parallelism"
-  },
-  {
-    "shop_name": "Thompson, Jaskolski and Lueilwitz",
-    "shop_owner": "Deon",
-    "slogan": "Synergistic explicit support"
-  },
-  {
-    "shop_name": "Donnelly - Dicki",
-    "shop_owner": "Joanny",
-    "slogan": "Down-sized responsive interface"
-  },
-  {
-    "shop_name": "Abshire LLC",
-    "shop_owner": "Jacinto",
-    "slogan": "Devolved non-volatile installation"
-  },
-  {
-    "shop_name": "Frami LLC",
-    "shop_owner": "Verlie",
-    "slogan": "Public-key national hierarchy"
-  },
-  {
-    "shop_name": "Shields Inc",
-    "shop_owner": "Modesto",
-    "slogan": "Reduced real-time standardization"
-  },
-  {
-    "shop_name": "Rice Group",
-    "shop_owner": "Imani",
-    "slogan": "Multi-layered 6th generation adapter"
-  },
-  {
-    "shop_name": "Bergstrom Group",
-    "shop_owner": "Sheldon",
-    "slogan": "Synchronised scalable knowledge base"
-  },
-  {
-    "shop_name": "Weissnat, Treutel and Smith",
-    "shop_owner": "Jacinto",
-    "slogan": "Object-based impactful portal"
-  },
-  {
-    "shop_name": "Lowe LLC",
-    "shop_owner": "Burley",
-    "slogan": "Programmable background website"
-  },
-  {
-    "shop_name": "Heller - Bradtke",
-    "shop_owner": "Domingo",
-    "slogan": "Realigned composite core"
-  },
-  {
-    "shop_name": "Kerluke Inc",
-    "shop_owner": "Jacinto",
-    "slogan": "Organic 24 hour knowledge base"
-  },
-  {
-    "shop_name": "Auer, Gorczany and Spencer",
-    "shop_owner": "Frederik",
-    "slogan": "Customizable next generation monitoring"
-  },
-  {
-    "shop_name": "Runolfsson Group",
-    "shop_owner": "Elouise",
-    "slogan": "Reverse-engineered mission-critical ability"
-  },
-  {
-    "shop_name": "Upton, Denesik and Kris",
-    "shop_owner": "Lacey",
-    "slogan": "Seamless secondary emulation"
-  },
-  {
-    "shop_name": "Bayer and Sons",
-    "shop_owner": "Rex",
-    "slogan": "Exclusive 6th generation paradigm"
-  },
-  {
-    "shop_name": "Kessler, Kohler and Morar",
-    "shop_owner": "Joanny",
-    "slogan": "Upgradable fault-tolerant moratorium"
-  },
-  {
-    "shop_name": "Cronin - Armstrong",
-    "shop_owner": "Pearlie",
-    "slogan": "Optional asymmetric approach"
-  },
-  {
-    "shop_name": "Franecki and Sons",
-    "shop_owner": "Maddison",
-    "slogan": "Re-contextualized static Graphical User Interface"
-  },
-  {
-    "shop_name": "Muller - Lockman",
-    "shop_owner": "Emil",
-    "slogan": "Grass-roots homogeneous projection"
-  },
-  {
-    "shop_name": "Maggio - Kling",
-    "shop_owner": "Myriam",
-    "slogan": "Automated actuating architecture"
-  },
-  {
-    "shop_name": "Hilll LLC",
-    "shop_owner": "Myriam",
-    "slogan": "Multi-channelled fresh-thinking standardization"
-  },
-  {
-    "shop_name": "Beahan, Cremin and DuBuque",
-    "shop_owner": "Karelle",
-    "slogan": "Distributed empowering encryption"
-  },
-  {
-    "shop_name": "Larkin, Murazik and Raynor",
-    "shop_owner": "Frederik",
-    "slogan": "User-centric cohesive workforce"
-  },
-  {
-    "shop_name": "Russel Group",
-    "shop_owner": "Burley",
-    "slogan": "Multi-tiered exuding website"
-  },
-  {
-    "shop_name": "Gusikowski and Sons",
-    "shop_owner": "Tessie",
-    "slogan": "Pre-emptive clear-thinking leverage"
-  },
-  {
-    "shop_name": "Goyette LLC",
-    "shop_owner": "Alisa",
-    "slogan": "Profit-focused modular customer loyalty"
-  },
-  {
-    "shop_name": "Dooley Group",
-    "shop_owner": "Aletha",
-    "slogan": "Cloned upward-trending database"
-  },
-  {
-    "shop_name": "Bernhard, Hamill and Treutel",
-    "shop_owner": "Kimberly",
-    "slogan": "Profound optimizing solution"
-  },
-  {
-    "shop_name": "Spencer, Jacobson and Green",
-    "shop_owner": "Burley",
-    "slogan": "Devolved asynchronous groupware"
-  },
-  {
-    "shop_name": "Schuppe, Bins and Kuphal",
-    "shop_owner": "Winifred",
-    "slogan": "User-friendly multi-tasking hardware"
-  },
-  {
-    "shop_name": "Runte, Schaefer and Marvin",
-    "shop_owner": "Ansel",
-    "slogan": "Face to face fault-tolerant pricing structure"
-  },
-  {
-    "shop_name": "Marks - Dach",
-    "shop_owner": "Lois",
-    "slogan": "Cloned didactic internet solution"
-  },
-  {
-    "shop_name": "Murazik LLC",
-    "shop_owner": "Tate",
-    "slogan": "Upgradable 5th generation array"
-  },
-  {
-    "shop_name": "Bogisich - Cummerata",
-    "shop_owner": "Tessie",
-    "slogan": "Phased reciprocal secured line"
-  },
-  {
-    "shop_name": "Lowe, O'Reilly and Koch",
-    "shop_owner": "Hobart",
-    "slogan": "Realigned heuristic algorithm"
-  },
-  {
-    "shop_name": "Gulgowski LLC",
-    "shop_owner": "Elouise",
-    "slogan": "Fundamental bottom-line focus group"
-  },
-  {
-    "shop_name": "Streich LLC",
-    "shop_owner": "Rubye",
-    "slogan": "Vision-oriented discrete benchmark"
-  },
-  {
-    "shop_name": "Hoeger, Renner and Stark",
-    "shop_owner": "Llewellyn",
-    "slogan": "Up-sized global complexity"
-  },
-  {
-    "shop_name": "Hahn - Huels",
-    "shop_owner": "Elouise",
-    "slogan": "Total maximized capability"
-  },
-  {
-    "shop_name": "Torphy, Heller and Maggio",
-    "shop_owner": "Lacey",
-    "slogan": "Multi-tiered heuristic Graphical User Interface"
-  },
-  {
-    "shop_name": "Morar - Crona",
-    "shop_owner": "Amber",
-    "slogan": "Stand-alone mission-critical pricing structure"
-  },
-  {
-    "shop_name": "Jast, McDermott and Medhurst",
-    "shop_owner": "Winifred",
-    "slogan": "Visionary optimal hardware"
-  },
-  {
-    "shop_name": "Hilll Group",
-    "shop_owner": "Rubye",
-    "slogan": "Decentralized 24/7 leverage"
-  },
-  {
-    "shop_name": "Rutherford, Halvorson and Kessler",
-    "shop_owner": "Amber",
-    "slogan": "Compatible discrete contingency"
-  },
-  {
-    "shop_name": "Waelchi LLC",
-    "shop_owner": "Samanta",
-    "slogan": "Customer-focused motivating hardware"
-  },
-  {
-    "shop_name": "Lynch - Barton",
-    "shop_owner": "Alysson",
-    "slogan": "User-centric radical access"
-  },
-  {
-    "shop_name": "Waters Inc",
-    "shop_owner": "Brooks",
-    "slogan": "Intuitive transitional time-frame"
-  },
-  {
-    "shop_name": "Armstrong - Nikolaus",
-    "shop_owner": "Anabel",
-    "slogan": "Phased clear-thinking synergy"
-  },
-  {
-    "shop_name": "Cremin LLC",
-    "shop_owner": "Jamal",
-    "slogan": "Front-line zero administration encryption"
-  },
-  {
-    "shop_name": "Johnston Group",
-    "shop_owner": "Sheldon",
-    "slogan": "Up-sized system-worthy workforce"
-  },
-  {
-    "shop_name": "Doyle Inc",
-    "shop_owner": "Oceane",
-    "slogan": "Open-source mission-critical moderator"
-  },
-  {
-    "shop_name": "Cummerata, Schaden and Collier",
-    "shop_owner": "Nova",
-    "slogan": "Vision-oriented neutral intranet"
-  },
-  {
-    "shop_name": "Baumbach, Hettinger and Welch",
-    "shop_owner": "Theresa",
-    "slogan": "Function-based non-volatile policy"
-  },
-  {
-    "shop_name": "Wyman, Homenick and Turcotte",
-    "shop_owner": "Burley",
-    "slogan": "Configurable zero tolerance contingency"
-  },
-  {
-    "shop_name": "Beahan, O'Kon and Conroy",
-    "shop_owner": "Allen",
-    "slogan": "Cross-platform exuding paradigm"
-  },
-  {
-    "shop_name": "Kutch - Wiegand",
-    "shop_owner": "Scottie",
-    "slogan": "Switchable 24/7 architecture"
-  },
-  {
-    "shop_name": "Hirthe Inc",
-    "shop_owner": "Leland",
-    "slogan": "Balanced tangible challenge"
-  },
-  {
-    "shop_name": "Dickinson - Quitzon",
-    "shop_owner": "Leland",
-    "slogan": "Right-sized high-level matrix"
-  },
-  {
-    "shop_name": "Corwin - Mueller",
-    "shop_owner": "Katelyn",
-    "slogan": "Proactive intermediate support"
-  },
-  {
-    "shop_name": "Thompson LLC",
-    "shop_owner": "Aletha",
-    "slogan": "Virtual dedicated website"
-  },
-  {
-    "shop_name": "Bahringer Group",
-    "shop_owner": "Richmond",
-    "slogan": "Grass-roots heuristic portal"
-  },
-  {
-    "shop_name": "Rodriguez - Grady",
-    "shop_owner": "Giovani",
-    "slogan": "Extended multi-state architecture"
-  },
-  {
-    "shop_name": "Greenholt, Barton and Ferry",
-    "shop_owner": "Ignacio",
-    "slogan": "Distributed impactful array"
-  },
-  {
-    "shop_name": "Kozey LLC",
-    "shop_owner": "Josefa",
-    "slogan": "Organic interactive Graphical User Interface"
-  },
-  {
-    "shop_name": "Wiza, Marquardt and Bartell",
-    "shop_owner": "Deshaun",
-    "slogan": "Persevering bottom-line focus group"
-  },
-  {
-    "shop_name": "Bahringer - Gleason",
-    "shop_owner": "Lois",
-    "slogan": "Reactive zero tolerance product"
-  },
-  {
-    "shop_name": "Donnelly, Botsford and Bailey",
-    "shop_owner": "Tessie",
-    "slogan": "Inverse disintermediate capacity"
-  },
-  {
-    "shop_name": "Mraz Inc",
-    "shop_owner": "Rex",
-    "slogan": "Expanded system-worthy frame"
-  },
-  {
-    "shop_name": "Runolfsdottir, Homenick and Schmeler",
-    "shop_owner": "Kris",
-    "slogan": "Virtual logistical portal"
-  },
-  {
-    "shop_name": "Schroeder - Jacobson",
-    "shop_owner": "Stacy",
-    "slogan": "Upgradable uniform Graphical User Interface"
-  },
-  {
-    "shop_name": "Fadel - Emard",
-    "shop_owner": "Domingo",
-    "slogan": "Open-architected solution-oriented hub"
-  },
-  {
-    "shop_name": "Armstrong - Jerde",
-    "shop_owner": "Maddison",
-    "slogan": "Public-key 3rd generation strategy"
-  },
-  {
-    "shop_name": "Raynor, Hermann and Legros",
-    "shop_owner": "Stacy",
-    "slogan": "Object-based system-worthy secured line"
-  },
-  {
-    "shop_name": "Herzog, Wyman and Ward",
-    "shop_owner": "Loren",
-    "slogan": "Switchable explicit infrastructure"
-  },
-  {
-    "shop_name": "Sipes - Lueilwitz",
-    "shop_owner": "Aletha",
-    "slogan": "Focused composite open architecture"
-  },
-  {
-    "shop_name": "Kunde, Hand and Schroeder",
-    "shop_owner": "Garry",
-    "slogan": "Universal upward-trending benchmark"
-  },
-  {
-    "shop_name": "Runolfsson and Sons",
-    "shop_owner": "Levi",
-    "slogan": "Synergized discrete budgetary management"
-  },
-  {
-    "shop_name": "Altenwerth - Hyatt",
-    "shop_owner": "Lane",
-    "slogan": "Adaptive clear-thinking project"
-  },
-  {
-    "shop_name": "Mann and Sons",
-    "shop_owner": "Tessie",
-    "slogan": "Devolved full-range emulation"
-  },
-  {
-    "shop_name": "Schimmel LLC",
-    "shop_owner": "Oceane",
-    "slogan": "User-centric discrete protocol"
-  },
-  {
-    "shop_name": "Blick Inc",
-    "shop_owner": "Sheldon",
-    "slogan": "Customizable bifurcated open system"
-  },
-  {
-    "shop_name": "Morar - Barrows",
-    "shop_owner": "Damien",
-    "slogan": "Cross-group optimal service-desk"
-  },
-  {
-    "shop_name": "Bartell and Sons",
-    "shop_owner": "Onie",
-    "slogan": "Function-based disintermediate firmware"
-  },
-  {
-    "shop_name": "Quitzon Group",
-    "shop_owner": "Jacinto",
-    "slogan": "Up-sized maximized pricing structure"
-  },
-  {
-    "shop_name": "Reynolds and Sons",
-    "shop_owner": "Verlie",
-    "slogan": "Programmable optimizing process improvement"
-  },
-  {
-    "shop_name": "Walter, Maggio and McGlynn",
-    "shop_owner": "Hope",
-    "slogan": "Ergonomic national Graphical User Interface"
-  },
-  {
-    "shop_name": "Bogisich and Sons",
-    "shop_owner": "Astrid",
-    "slogan": "Universal high-level attitude"
-  },
-  {
-    "shop_name": "Bosco, Buckridge and Prohaska",
-    "shop_owner": "Rex",
-    "slogan": "Configurable methodical algorithm"
-  },
-  {
-    "shop_name": "Powlowski Group",
-    "shop_owner": "Pearlie",
-    "slogan": "Compatible mobile extranet"
-  },
-  {
-    "shop_name": "Wyman - Altenwerth",
-    "shop_owner": "Emma",
-    "slogan": "Multi-lateral neutral contingency"
-  },
-  {
-    "shop_name": "Brakus, Gleason and Hessel",
-    "shop_owner": "Ansley",
-    "slogan": "Visionary analyzing instruction set"
-  },
-  {
-    "shop_name": "Stokes, Stiedemann and Nitzsche",
-    "shop_owner": "Oren",
-    "slogan": "Right-sized solution-oriented attitude"
-  },
-  {
-    "shop_name": "O'Hara - Thompson",
-    "shop_owner": "Katelyn",
-    "slogan": "Operative intermediate paradigm"
-  },
-  {
-    "shop_name": "Batz, Bartoletti and Nader",
-    "shop_owner": "Rex",
-    "slogan": "Self-enabling systemic productivity"
-  },
-  {
-    "shop_name": "Fahey, D'Amore and Fritsch",
-    "shop_owner": "Hope",
-    "slogan": "Expanded methodical strategy"
-  },
-  {
-    "shop_name": "Walsh, Pagac and Glover",
-    "shop_owner": "Eloisa",
-    "slogan": "Cross-group clear-thinking instruction set"
-  },
-  {
-    "shop_name": "Auer - Sauer",
-    "shop_owner": "Hobart",
-    "slogan": "Seamless needs-based strategy"
-  },
-  {
-    "shop_name": "Heaney and Sons",
-    "shop_owner": "Hayden",
-    "slogan": "Reverse-engineered optimal adapter"
-  },
-  {
-    "shop_name": "Lakin and Sons",
-    "shop_owner": "Makenna",
-    "slogan": "Realigned bifurcated artificial intelligence"
-  },
-  {
-    "shop_name": "Quitzon - Little",
-    "shop_owner": "Levi",
-    "slogan": "Implemented human-resource portal"
-  },
-  {
-    "shop_name": "Bradtke LLC",
-    "shop_owner": "Nova",
-    "slogan": "Fully-configurable content-based standardization"
-  },
-  {
-    "shop_name": "Harber LLC",
-    "shop_owner": "Bette",
-    "slogan": "Managed bottom-line intranet"
-  },
-  {
-    "shop_name": "King - Heaney",
-    "shop_owner": "Elouise",
-    "slogan": "Stand-alone object-oriented functionalities"
-  },
-  {
-    "shop_name": "Conn Group",
-    "shop_owner": "Llewellyn",
-    "slogan": "Reduced empowering implementation"
-  },
-  {
-    "shop_name": "Dooley LLC",
-    "shop_owner": "Adan",
-    "slogan": "Public-key exuding hub"
-  },
-  {
-    "shop_name": "Pfeffer - Rodriguez",
-    "shop_owner": "Gerry",
-    "slogan": "Right-sized interactive infrastructure"
-  },
-  {
-    "shop_name": "O'Connell, Terry and Waelchi",
-    "shop_owner": "Junior",
-    "slogan": "Multi-tiered bottom-line circuit"
-  },
-  {
-    "shop_name": "Marks LLC",
-    "shop_owner": "Deon",
-    "slogan": "Reactive next generation architecture"
-  },
-  {
-    "shop_name": "Kohler Group",
-    "shop_owner": "Hulda",
-    "slogan": "Balanced holistic throughput"
-  },
-  {
-    "shop_name": "Windler Inc",
-    "shop_owner": "Lauren",
-    "slogan": "Self-enabling object-oriented access"
-  },
-  {
-    "shop_name": "Emmerich, Pouros and White",
-    "shop_owner": "Theresa",
-    "slogan": "Programmable system-worthy open architecture"
-  },
-  {
-    "shop_name": "Cormier, Goyette and Friesen",
-    "shop_owner": "Karelle",
-    "slogan": "Synergized fresh-thinking superstructure"
-  },
-  {
-    "shop_name": "Runte - Schneider",
-    "shop_owner": "Lauren",
-    "slogan": "Open-source leading edge website"
-  },
-  {
-    "shop_name": "Ritchie, McClure and Klocko",
-    "shop_owner": "Alta",
-    "slogan": "Business-focused holistic flexibility"
-  },
-  {
-    "shop_name": "Rutherford LLC",
-    "shop_owner": "Kris",
-    "slogan": "Seamless systemic intranet"
-  },
-  {
-    "shop_name": "Mosciski, Auer and Goldner",
-    "shop_owner": "Chadd",
-    "slogan": "Operative full-range infrastructure"
-  },
-  {
-    "shop_name": "Pagac, Schultz and Hoeger",
-    "shop_owner": "Eloisa",
-    "slogan": "Profound clear-thinking productivity"
-  },
-  {
-    "shop_name": "Gulgowski - Rolfson",
-    "shop_owner": "Georgianna",
-    "slogan": "Multi-layered holistic array"
-  },
-  {
-    "shop_name": "Wuckert - Lowe",
-    "shop_owner": "Lacey",
-    "slogan": "Managed executive algorithm"
-  },
-  {
-    "shop_name": "Kris LLC",
-    "shop_owner": "Ansel",
-    "slogan": "Configurable hybrid algorithm"
-  },
-  {
-    "shop_name": "Schmidt, Miller and Waters",
-    "shop_owner": "Brennan",
-    "slogan": "Centralized real-time array"
-  },
-  {
-    "shop_name": "Rutherford LLC",
-    "shop_owner": "Rafaela",
-    "slogan": "Focused local solution"
-  },
-  {
-    "shop_name": "Ondricka - Smitham",
-    "shop_owner": "Christop",
-    "slogan": "Up-sized systematic hub"
-  },
-  {
-    "shop_name": "Lebsack, Rowe and Bechtelar",
-    "shop_owner": "Stacy",
-    "slogan": "Realigned non-volatile structure"
-  },
-  {
-    "shop_name": "Johnston and Sons",
-    "shop_owner": "Georgianna",
-    "slogan": "Persevering content-based system engine"
-  },
-  {
-    "shop_name": "Cummings - Olson",
-    "shop_owner": "Tessie",
-    "slogan": "Progressive 6th generation encryption"
-  },
-  {
-    "shop_name": "Nitzsche Inc",
-    "shop_owner": "Lacey",
-    "slogan": "Total national framework"
-  },
-  {
-    "shop_name": "Effertz, Kreiger and Barton",
-    "shop_owner": "Deon",
-    "slogan": "Multi-layered responsive knowledge user"
-  },
-  {
-    "shop_name": "Langosh - Lakin",
-    "shop_owner": "Scottie",
-    "slogan": "Re-contextualized composite infrastructure"
-  },
-  {
-    "shop_name": "Shields - Heaney",
-    "shop_owner": "Alysson",
-    "slogan": "Seamless zero tolerance success"
-  },
-  {
-    "shop_name": "Fisher - Bartoletti",
-    "shop_owner": "Verlie",
-    "slogan": "Triple-buffered methodical Graphic Interface"
-  },
-  {
-    "shop_name": "Crooks, Mitchell and Kuvalis",
-    "shop_owner": "Bette",
-    "slogan": "Versatile real-time orchestration"
-  },
-  {
-    "shop_name": "McGlynn, Schmeler and Fahey",
-    "shop_owner": "Demarcus",
-    "slogan": "Team-oriented reciprocal internet solution"
-  },
-  {
-    "shop_name": "Borer Group",
-    "shop_owner": "Christop",
-    "slogan": "Quality-focused methodical system engine"
-  },
-  {
-    "shop_name": "Jacobs, O'Conner and Hegmann",
-    "shop_owner": "Burley",
-    "slogan": "Visionary real-time installation"
-  },
-  {
-    "shop_name": "Kiehn - Hand",
-    "shop_owner": "Theresa",
-    "slogan": "Front-line uniform utilisation"
-  },
-  {
-    "shop_name": "Schroeder - Daugherty",
-    "shop_owner": "Alexandre",
-    "slogan": "Networked exuding focus group"
-  },
-  {
-    "shop_name": "Kemmer, Champlin and Renner",
-    "shop_owner": "Alexandre",
-    "slogan": "Realigned 5th generation complexity"
-  },
-  {
-    "shop_name": "Zulauf - Davis",
-    "shop_owner": "Elouise",
-    "slogan": "Cloned systematic definition"
-  },
-  {
-    "shop_name": "Rolfson, Kling and Gutmann",
-    "shop_owner": "Rafaela",
-    "slogan": "Re-engineered systematic analyzer"
-  },
-  {
-    "shop_name": "Cremin Group",
-    "shop_owner": "Domingo",
-    "slogan": "Mandatory bi-directional encryption"
-  },
-  {
-    "shop_name": "Monahan and Sons",
-    "shop_owner": "Joanny",
-    "slogan": "Multi-lateral asynchronous firmware"
-  },
-  {
-    "shop_name": "Nienow LLC",
-    "shop_owner": "Elouise",
-    "slogan": "Organic high-level approach"
-  },
-  {
-    "shop_name": "Moore - Mertz",
-    "shop_owner": "Amber",
-    "slogan": "Managed high-level open system"
-  },
-  {
-    "shop_name": "Beer - Bartell",
-    "shop_owner": "Eugenia",
-    "slogan": "Exclusive real-time forecast"
-  },
-  {
-    "shop_name": "Rolfson LLC",
-    "shop_owner": "Alisa",
-    "slogan": "Synergistic dynamic extranet"
-  },
-  {
-    "shop_name": "Gibson, Adams and Stokes",
-    "shop_owner": "Tate",
-    "slogan": "Monitored fresh-thinking interface"
-  },
-  {
-    "shop_name": "Gislason, MacGyver and Runolfsdottir",
-    "shop_owner": "Rafaela",
-    "slogan": "Organic next generation software"
-  },
-  {
-    "shop_name": "Stehr - Bednar",
-    "shop_owner": "Hobart",
-    "slogan": "Balanced transitional capacity"
-  },
-  {
-    "shop_name": "McCullough - Cartwright",
-    "shop_owner": "Frederik",
-    "slogan": "Decentralized disintermediate capability"
-  },
-  {
-    "shop_name": "Boyer, Kemmer and Senger",
-    "shop_owner": "Jacinto",
-    "slogan": "Extended bifurcated monitoring"
-  },
-  {
-    "shop_name": "Rolfson LLC",
-    "shop_owner": "Ruben",
-    "slogan": "Self-enabling hybrid open system"
-  },
-  {
-    "shop_name": "Upton - Rippin",
-    "shop_owner": "Sheldon",
-    "slogan": "Enterprise-wide explicit database"
-  },
-  {
-    "shop_name": "Nolan, Bahringer and Schaefer",
-    "shop_owner": "Kris",
-    "slogan": "Function-based grid-enabled throughput"
-  },
-  {
-    "shop_name": "Johnson Group",
-    "shop_owner": "Freddie",
-    "slogan": "Mandatory maximized policy"
-  },
-  {
-    "shop_name": "Dooley Group",
-    "shop_owner": "Chadd",
-    "slogan": "Diverse neutral matrix"
-  },
-  {
-    "shop_name": "Emard and Sons",
-    "shop_owner": "Oceane",
-    "slogan": "Digitized discrete migration"
-  },
-  {
-    "shop_name": "Collins LLC",
-    "shop_owner": "Hayden",
-    "slogan": "Future-proofed homogeneous conglomeration"
-  },
-  {
-    "shop_name": "Schimmel, Pfannerstill and Jacobson",
-    "shop_owner": "Onie",
-    "slogan": "Integrated disintermediate matrices"
-  },
-  {
-    "shop_name": "Jacobs, Rutherford and Cremin",
-    "shop_owner": "Theresa",
-    "slogan": "Streamlined upward-trending functionalities"
-  },
-  {
-    "shop_name": "Baumbach - Upton",
-    "shop_owner": "Josefa",
-    "slogan": "User-centric client-driven moratorium"
-  },
-  {
-    "shop_name": "Kutch - Maggio",
-    "shop_owner": "Joanny",
-    "slogan": "Front-line multimedia leverage"
-  },
-  {
-    "shop_name": "Ryan, Oberbrunner and Wolf",
-    "shop_owner": "Antonia",
-    "slogan": "Inverse 6th generation solution"
-  },
-  {
-    "shop_name": "Larkin - D'Amore",
-    "shop_owner": "Deon",
-    "slogan": "Polarised demand-driven synergy"
-  },
-  {
-    "shop_name": "Reilly - Dietrich",
-    "shop_owner": "Makenna",
-    "slogan": "Self-enabling optimal firmware"
-  },
-  {
-    "shop_name": "Dibbert - MacGyver",
-    "shop_owner": "Chadd",
-    "slogan": "Cross-platform system-worthy monitoring"
-  },
-  {
-    "shop_name": "Dach, Lehner and Vandervort",
-    "shop_owner": "Antonia",
-    "slogan": "Extended secondary architecture"
+    "shop_name": "Treutel, Hauck and Hintz",
+    "owner": "Bennett",
+    "logan": "Versatile national paradigm"
   },
   {
     "shop_name": "Wilkinson LLC",
-    "shop_owner": "Maddison",
-    "slogan": "Versatile transitional encoding"
+    "owner": "Katarina",
+    "logan": "Reduced bifurcated encryption"
   },
   {
-    "shop_name": "Okuneva, Kassulke and Keeling",
-    "shop_owner": "Georgianna",
-    "slogan": "Extended next generation matrix"
+    "shop_name": "Volkman and Sons",
+    "owner": "Laury",
+    "logan": "Re-engineered systemic internet solution"
   },
   {
-    "shop_name": "Grant, Gislason and Kuhn",
-    "shop_owner": "Rubye",
-    "slogan": "Diverse maximized matrices"
+    "shop_name": "Feest, Sanford and Nader",
+    "owner": "Rosanna",
+    "logan": "Enterprise-wide modular analyzer"
   },
   {
-    "shop_name": "Murphy Inc",
-    "shop_owner": "Winifred",
-    "slogan": "Grass-roots leading edge service-desk"
+    "shop_name": "Brakus, Hackett and Hamill",
+    "owner": "Tierra",
+    "logan": "Ergonomic multi-tasking hub"
   },
   {
-    "shop_name": "Lakin, Padberg and Dare",
-    "shop_owner": "Hanna",
-    "slogan": "Integrated 3rd generation attitude"
+    "shop_name": "Morissette and Sons",
+    "owner": "Cristobal",
+    "logan": "Programmable value-added adapter"
   },
   {
-    "shop_name": "Hackett, Strosin and Kiehn",
-    "shop_owner": "Scottie",
-    "slogan": "Advanced bifurcated interface"
+    "shop_name": "Douglas - Schiller",
+    "owner": "Tristin",
+    "logan": "Organic local throughput"
   },
   {
-    "shop_name": "Leuschke LLC",
-    "shop_owner": "Verlie",
-    "slogan": "Multi-channelled radical infrastructure"
+    "shop_name": "O'Connell, Hills and Lang",
+    "owner": "Tristin",
+    "logan": "Pre-emptive client-driven installation"
   },
   {
-    "shop_name": "Cummings, Runte and Nolan",
-    "shop_owner": "Sheldon",
-    "slogan": "Realigned next generation open architecture"
+    "shop_name": "Shields - Nolan",
+    "owner": "Trinity",
+    "logan": "Digitized incremental migration"
   },
   {
-    "shop_name": "Osinski, Lowe and Rosenbaum",
-    "shop_owner": "Hope",
-    "slogan": "Extended encompassing methodology"
+    "shop_name": "McClure, Larson and Oberbrunner",
+    "owner": "Lily",
+    "logan": "Progressive clear-thinking productivity"
   },
   {
-    "shop_name": "Sanford - O'Keefe",
-    "shop_owner": "Stacy",
-    "slogan": "Re-contextualized encompassing synergy"
+    "shop_name": "Douglas - Kuvalis",
+    "owner": "Ramona",
+    "logan": "Re-engineered web-enabled challenge"
   },
   {
-    "shop_name": "Williamson - Purdy",
-    "shop_owner": "Amber",
-    "slogan": "Reverse-engineered regional throughput"
+    "shop_name": "Walsh - Kovacek",
+    "owner": "Margie",
+    "logan": "Implemented analyzing alliance"
   },
   {
-    "shop_name": "Medhurst - Koelpin",
-    "shop_owner": "Verlie",
-    "slogan": "Versatile non-volatile database"
+    "shop_name": "Waelchi - Upton",
+    "owner": "Bennett",
+    "logan": "Face to face global strategy"
   },
   {
-    "shop_name": "Powlowski, Emmerich and Boyer",
-    "shop_owner": "Giovani",
-    "slogan": "Persevering regional help-desk"
+    "shop_name": "Koss - Hamill",
+    "owner": "Cooper",
+    "logan": "Synergistic systematic moderator"
   },
   {
-    "shop_name": "Gislason LLC",
-    "shop_owner": "Scottie",
-    "slogan": "Seamless demand-driven migration"
+    "shop_name": "Upton - Roberts",
+    "owner": "Kaia",
+    "logan": "Synchronised well-modulated task-force"
   },
   {
-    "shop_name": "Will - Wilkinson",
-    "shop_owner": "Modesto",
-    "slogan": "Team-oriented impactful encoding"
+    "shop_name": "Senger Group",
+    "owner": "Rhett",
+    "logan": "Re-contextualized modular ability"
   },
   {
-    "shop_name": "Littel LLC",
-    "shop_owner": "Hulda",
-    "slogan": "Multi-lateral actuating attitude"
-  },
-  {
-    "shop_name": "King - Ferry",
-    "shop_owner": "Imani",
-    "slogan": "Versatile interactive frame"
-  },
-  {
-    "shop_name": "Stehr, Hansen and Gulgowski",
-    "shop_owner": "Onie",
-    "slogan": "Polarised user-facing functionalities"
-  },
-  {
-    "shop_name": "Dickinson, Oberbrunner and Powlowski",
-    "shop_owner": "Joanny",
-    "slogan": "Grass-roots local algorithm"
-  },
-  {
-    "shop_name": "Swift, Cremin and Mitchell",
-    "shop_owner": "Georgiana",
-    "slogan": "Enterprise-wide demand-driven superstructure"
-  },
-  {
-    "shop_name": "Greenholt and Sons",
-    "shop_owner": "Hanna",
-    "slogan": "Face to face dedicated groupware"
-  },
-  {
-    "shop_name": "Tromp - Murray",
-    "shop_owner": "Sheldon",
-    "slogan": "Universal regional hierarchy"
-  },
-  {
-    "shop_name": "Jacobs - Ferry",
-    "shop_owner": "Amber",
-    "slogan": "Adaptive modular complexity"
-  },
-  {
-    "shop_name": "Dickinson - Turner",
-    "shop_owner": "Josefa",
-    "slogan": "Multi-channelled non-volatile protocol"
-  },
-  {
-    "shop_name": "Nikolaus Group",
-    "shop_owner": "Ansel",
-    "slogan": "Managed directional database"
-  },
-  {
-    "shop_name": "Kessler LLC",
-    "shop_owner": "Adan",
-    "slogan": "Persistent grid-enabled knowledge base"
-  },
-  {
-    "shop_name": "Lynch and Sons",
-    "shop_owner": "Onie",
-    "slogan": "Front-line didactic local area network"
-  },
-  {
-    "shop_name": "Collier - Barrows",
-    "shop_owner": "Ansley",
-    "slogan": "Business-focused grid-enabled budgetary management"
-  },
-  {
-    "shop_name": "Nolan Group",
-    "shop_owner": "Imani",
-    "slogan": "Decentralized fault-tolerant pricing structure"
-  },
-  {
-    "shop_name": "Harvey Group",
-    "shop_owner": "Samanta",
-    "slogan": "Public-key national project"
-  },
-  {
-    "shop_name": "Wintheiser Inc",
-    "shop_owner": "Bette",
-    "slogan": "Compatible context-sensitive workforce"
-  },
-  {
-    "shop_name": "Moen - Sawayn",
-    "shop_owner": "Damien",
-    "slogan": "Down-sized 24/7 alliance"
+    "shop_name": "Bogan and Sons",
+    "owner": "Cecil",
+    "logan": "Switchable object-oriented protocol"
   },
   {
     "shop_name": "Bartell Group",
-    "shop_owner": "Rafaela",
-    "slogan": "Innovative asynchronous knowledge user"
+    "owner": "Neal",
+    "logan": "Exclusive cohesive focus group"
   },
   {
-    "shop_name": "Mueller Group",
-    "shop_owner": "Pearlie",
-    "slogan": "Cross-platform user-facing knowledge base"
+    "shop_name": "Quigley Inc",
+    "owner": "Loren",
+    "logan": "Implemented foreground archive"
   },
   {
-    "shop_name": "Hahn, Streich and Jast",
-    "shop_owner": "Josefa",
-    "slogan": "Exclusive radical approach"
+    "shop_name": "Schinner, Purdy and Wisoky",
+    "owner": "Johnnie",
+    "logan": "Triple-buffered fresh-thinking paradigm"
   },
   {
-    "shop_name": "Denesik and Sons",
-    "shop_owner": "Oren",
-    "slogan": "Compatible content-based flexibility"
+    "shop_name": "Goldner - Gutmann",
+    "owner": "Ethyl",
+    "logan": "Mandatory executive moratorium"
   },
   {
-    "shop_name": "Kessler - Johnston",
-    "shop_owner": "Astrid",
-    "slogan": "Vision-oriented coherent budgetary management"
+    "shop_name": "Stokes, McLaughlin and Murray",
+    "owner": "Rosanna",
+    "logan": "Advanced real-time hub"
   },
   {
-    "shop_name": "Graham - Farrell",
-    "shop_owner": "Katelyn",
-    "slogan": "Expanded incremental functionalities"
-  },
-  {
-    "shop_name": "O'Hara, Hudson and Weimann",
-    "shop_owner": "Anabel",
-    "slogan": "Triple-buffered stable focus group"
-  },
-  {
-    "shop_name": "Hessel Group",
-    "shop_owner": "Deon",
-    "slogan": "Switchable asymmetric Graphic Interface"
-  },
-  {
-    "shop_name": "Langosh Inc",
-    "shop_owner": "Imani",
-    "slogan": "Team-oriented heuristic implementation"
-  },
-  {
-    "shop_name": "Robel - Bailey",
-    "shop_owner": "Luther",
-    "slogan": "Synergistic mobile benchmark"
-  },
-  {
-    "shop_name": "Murphy LLC",
-    "shop_owner": "Bette",
-    "slogan": "Innovative global projection"
-  },
-  {
-    "shop_name": "Langworth - Reichert",
-    "shop_owner": "Hanna",
-    "slogan": "Streamlined impactful standardization"
-  },
-  {
-    "shop_name": "Bogisich - Haag",
-    "shop_owner": "Celestino",
-    "slogan": "User-centric object-oriented Graphical User Interface"
-  },
-  {
-    "shop_name": "Zboncak LLC",
-    "shop_owner": "Alta",
-    "slogan": "Fully-configurable human-resource task-force"
-  },
-  {
-    "shop_name": "Fahey, Mosciski and Bruen",
-    "shop_owner": "Modesto",
-    "slogan": "Cloned methodical parallelism"
-  },
-  {
-    "shop_name": "Towne, Considine and Stiedemann",
-    "shop_owner": "Scottie",
-    "slogan": "Programmable zero tolerance knowledge base"
-  },
-  {
-    "shop_name": "Klein, Hand and Waters",
-    "shop_owner": "Myriam",
-    "slogan": "Total object-oriented moratorium"
-  },
-  {
-    "shop_name": "Brekke, Ward and Schimmel",
-    "shop_owner": "Augustus",
-    "slogan": "Profound dynamic attitude"
-  },
-  {
-    "shop_name": "Gorczany - Schmitt",
-    "shop_owner": "Oren",
-    "slogan": "Extended multi-tasking product"
-  },
-  {
-    "shop_name": "Conroy, Reinger and Gorczany",
-    "shop_owner": "Candice",
-    "slogan": "Versatile modular instruction set"
-  },
-  {
-    "shop_name": "O'Keefe LLC",
-    "shop_owner": "Modesto",
-    "slogan": "Adaptive neutral info-mediaries"
-  },
-  {
-    "shop_name": "Carter Group",
-    "shop_owner": "Winifred",
-    "slogan": "Profit-focused zero defect standardization"
-  },
-  {
-    "shop_name": "Harris Inc",
-    "shop_owner": "Ruben",
-    "slogan": "Polarised human-resource open architecture"
-  },
-  {
-    "shop_name": "Pollich and Sons",
-    "shop_owner": "Alisa",
-    "slogan": "Persistent needs-based task-force"
-  },
-  {
-    "shop_name": "Wolf, O'Reilly and Mitchell",
-    "shop_owner": "Adan",
-    "slogan": "Optimized national methodology"
-  },
-  {
-    "shop_name": "Lowe Inc",
-    "shop_owner": "Karelle",
-    "slogan": "Decentralized actuating internet solution"
-  },
-  {
-    "shop_name": "Cummerata - Rowe",
-    "shop_owner": "Domingo",
-    "slogan": "Virtual human-resource monitoring"
-  },
-  {
-    "shop_name": "Jaskolski, Dickens and Kunde",
-    "shop_owner": "D'angelo",
-    "slogan": "Right-sized background open architecture"
-  },
-  {
-    "shop_name": "Koch Inc",
-    "shop_owner": "Hobart",
-    "slogan": "Cloned grid-enabled internet solution"
-  },
-  {
-    "shop_name": "Kreiger and Sons",
-    "shop_owner": "Emma",
-    "slogan": "Phased content-based focus group"
-  },
-  {
-    "shop_name": "Buckridge, Prohaska and Carter",
-    "shop_owner": "Jacinto",
-    "slogan": "Innovative analyzing capability"
-  },
-  {
-    "shop_name": "Nader LLC",
-    "shop_owner": "Georgianna",
-    "slogan": "Inverse eco-centric leverage"
-  },
-  {
-    "shop_name": "Stark, Aufderhar and Kuvalis",
-    "shop_owner": "Chadd",
-    "slogan": "Future-proofed real-time access"
-  },
-  {
-    "shop_name": "Kuhn Inc",
-    "shop_owner": "Anne",
-    "slogan": "Versatile 24/7 matrices"
-  },
-  {
-    "shop_name": "Treutel, Ondricka and Brakus",
-    "shop_owner": "Hope",
-    "slogan": "Diverse dedicated standardization"
-  },
-  {
-    "shop_name": "Douglas - Dare",
-    "shop_owner": "Gerry",
-    "slogan": "Integrated regional toolset"
-  },
-  {
-    "shop_name": "Smith, Effertz and Ratke",
-    "shop_owner": "Modesto",
-    "slogan": "Pre-emptive client-server interface"
-  },
-  {
-    "shop_name": "Hand, Gislason and Wintheiser",
-    "shop_owner": "Tessie",
-    "slogan": "Self-enabling non-volatile utilisation"
-  },
-  {
-    "shop_name": "Rutherford - Leuschke",
-    "shop_owner": "Kimberly",
-    "slogan": "Cross-group didactic secured line"
-  },
-  {
-    "shop_name": "Hamill, Zemlak and Macejkovic",
-    "shop_owner": "Amos",
-    "slogan": "Organized empowering functionalities"
-  },
-  {
-    "shop_name": "Johnston - Hegmann",
-    "shop_owner": "Bette",
-    "slogan": "Expanded multimedia portal"
-  },
-  {
-    "shop_name": "Collins Group",
-    "shop_owner": "Chadd",
-    "slogan": "Devolved heuristic concept"
-  },
-  {
-    "shop_name": "Runolfsson, Thiel and Schimmel",
-    "shop_owner": "Deshaun",
-    "slogan": "Realigned systemic project"
-  },
-  {
-    "shop_name": "Satterfield Inc",
-    "shop_owner": "Amos",
-    "slogan": "Switchable solution-oriented benchmark"
-  },
-  {
-    "shop_name": "Witting, Bashirian and Herman",
-    "shop_owner": "Piper",
-    "slogan": "Distributed zero tolerance support"
-  },
-  {
-    "shop_name": "Dicki, Auer and Ondricka",
-    "shop_owner": "D'angelo",
-    "slogan": "Total cohesive parallelism"
-  },
-  {
-    "shop_name": "Hettinger - Kreiger",
-    "shop_owner": "Abbie",
-    "slogan": "Centralized scalable customer loyalty"
-  },
-  {
-    "shop_name": "Cole, Jaskolski and Daugherty",
-    "shop_owner": "Anabel",
-    "slogan": "Up-sized bi-directional synergy"
-  },
-  {
-    "shop_name": "Olson Group",
-    "shop_owner": "Winifred",
-    "slogan": "Cross-group mobile artificial intelligence"
-  },
-  {
-    "shop_name": "McGlynn and Sons",
-    "shop_owner": "Jacinto",
-    "slogan": "Future-proofed tertiary matrices"
-  },
-  {
-    "shop_name": "Wolff and Sons",
-    "shop_owner": "Stacy",
-    "slogan": "Digitized empowering groupware"
-  },
-  {
-    "shop_name": "Kuvalis - Abbott",
-    "shop_owner": "Georgianna",
-    "slogan": "Polarised 4th generation middleware"
-  },
-  {
-    "shop_name": "Lemke - Lesch",
-    "shop_owner": "Alejandra",
-    "slogan": "Centralized incremental functionalities"
-  },
-  {
-    "shop_name": "Terry Group",
-    "shop_owner": "Lacey",
-    "slogan": "Multi-tiered hybrid productivity"
-  },
-  {
-    "shop_name": "Heathcote - Hilpert",
-    "shop_owner": "Anne",
-    "slogan": "Up-sized maximized definition"
-  },
-  {
-    "shop_name": "Mante - Parker",
-    "shop_owner": "Hope",
-    "slogan": "Multi-lateral 3rd generation orchestration"
-  },
-  {
-    "shop_name": "Crooks - Farrell",
-    "shop_owner": "Antonia",
-    "slogan": "Organized 4th generation monitoring"
-  },
-  {
-    "shop_name": "Collins Group",
-    "shop_owner": "Garry",
-    "slogan": "Team-oriented homogeneous orchestration"
-  },
-  {
-    "shop_name": "Mills - Barrows",
-    "shop_owner": "Elouise",
-    "slogan": "Centralized 6th generation throughput"
-  },
-  {
-    "shop_name": "Lakin - Will",
-    "shop_owner": "Makenna",
-    "slogan": "Stand-alone neutral analyzer"
-  },
-  {
-    "shop_name": "Williamson - Cassin",
-    "shop_owner": "Anabel",
-    "slogan": "Reduced upward-trending moratorium"
-  },
-  {
-    "shop_name": "Gusikowski - Ankunding",
-    "shop_owner": "Rubye",
-    "slogan": "Universal zero tolerance complexity"
-  },
-  {
-    "shop_name": "Doyle and Sons",
-    "shop_owner": "Oren",
-    "slogan": "Open-architected client-driven local area network"
-  },
-  {
-    "shop_name": "Wolf LLC",
-    "shop_owner": "Hanna",
-    "slogan": "Focused bottom-line alliance"
-  },
-  {
-    "shop_name": "Sawayn - Swaniawski",
-    "shop_owner": "Emma",
-    "slogan": "Organic needs-based pricing structure"
-  },
-  {
-    "shop_name": "Turner Inc",
-    "shop_owner": "Rubye",
-    "slogan": "Progressive clear-thinking superstructure"
-  },
-  {
-    "shop_name": "Predovic - Hartmann",
-    "shop_owner": "Eugenia",
-    "slogan": "Proactive tertiary Graphic Interface"
-  },
-  {
-    "shop_name": "Mueller LLC",
-    "shop_owner": "Giovani",
-    "slogan": "Polarised asynchronous moratorium"
-  },
-  {
-    "shop_name": "Schaden - Jacobson",
-    "shop_owner": "Rubye",
-    "slogan": "Adaptive systematic encoding"
-  },
-  {
-    "shop_name": "Russel - Kemmer",
-    "shop_owner": "Theresa",
-    "slogan": "Multi-layered discrete capability"
-  },
-  {
-    "shop_name": "Watsica - Bartoletti",
-    "shop_owner": "Maddison",
-    "slogan": "Automated web-enabled interface"
-  },
-  {
-    "shop_name": "Russel - Ernser",
-    "shop_owner": "Loren",
-    "slogan": "Pre-emptive responsive algorithm"
-  },
-  {
-    "shop_name": "Jaskolski, Reinger and Macejkovic",
-    "shop_owner": "Amber",
-    "slogan": "Assimilated global forecast"
-  },
-  {
-    "shop_name": "Kling - Dibbert",
-    "shop_owner": "Chadd",
-    "slogan": "Multi-lateral stable circuit"
-  },
-  {
-    "shop_name": "Senger, Parker and O'Reilly",
-    "shop_owner": "Alejandra",
-    "slogan": "Multi-tiered dynamic internet solution"
-  },
-  {
-    "shop_name": "Ferry, Hyatt and Runolfsson",
-    "shop_owner": "Hulda",
-    "slogan": "Fundamental human-resource extranet"
-  },
-  {
-    "shop_name": "Altenwerth - Gorczany",
-    "shop_owner": "Hulda",
-    "slogan": "Multi-tiered static framework"
-  },
-  {
-    "shop_name": "Hyatt - O'Conner",
-    "shop_owner": "Tessie",
-    "slogan": "Extended responsive throughput"
-  },
-  {
-    "shop_name": "Metz - Feil",
-    "shop_owner": "Hanna",
-    "slogan": "Exclusive regional encryption"
-  },
-  {
-    "shop_name": "Bartoletti, Brown and Jacobs",
-    "shop_owner": "Hayden",
-    "slogan": "Open-architected zero tolerance frame"
-  },
-  {
-    "shop_name": "Casper - Kassulke",
-    "shop_owner": "Verlie",
-    "slogan": "Digitized executive neural-net"
-  },
-  {
-    "shop_name": "Franecki - Kertzmann",
-    "shop_owner": "Levi",
-    "slogan": "Secured directional contingency"
-  },
-  {
-    "shop_name": "Hills - Wiza",
-    "shop_owner": "Chadd",
-    "slogan": "Visionary 4th generation challenge"
-  },
-  {
-    "shop_name": "Bartoletti - Schowalter",
-    "shop_owner": "Makenna",
-    "slogan": "Switchable didactic internet solution"
-  },
-  {
-    "shop_name": "Hegmann Inc",
-    "shop_owner": "Oren",
-    "slogan": "Seamless zero administration internet solution"
-  },
-  {
-    "shop_name": "Larkin - Bogan",
-    "shop_owner": "Faye",
-    "slogan": "Seamless scalable project"
-  },
-  {
-    "shop_name": "Crist, Medhurst and Hauck",
-    "shop_owner": "Maddison",
-    "slogan": "Business-focused coherent instruction set"
-  },
-  {
-    "shop_name": "Torphy Inc",
-    "shop_owner": "Oren",
-    "slogan": "Multi-tiered intermediate adapter"
-  },
-  {
-    "shop_name": "Mosciski - Kozey",
-    "shop_owner": "Llewellyn",
-    "slogan": "Innovative eco-centric internet solution"
-  },
-  {
-    "shop_name": "Gutmann - Hettinger",
-    "shop_owner": "Eloisa",
-    "slogan": "Networked static help-desk"
-  },
-  {
-    "shop_name": "Kub - Durgan",
-    "shop_owner": "Aletha",
-    "slogan": "Enhanced multi-tasking product"
-  },
-  {
-    "shop_name": "Kirlin - Ernser",
-    "shop_owner": "Gerry",
-    "slogan": "Ergonomic empowering groupware"
-  },
-  {
-    "shop_name": "Turner - Baumbach",
-    "shop_owner": "Antonia",
-    "slogan": "Optional mission-critical local area network"
-  },
-  {
-    "shop_name": "Wiegand - Rosenbaum",
-    "shop_owner": "Alejandra",
-    "slogan": "Grass-roots dedicated hub"
-  },
-  {
-    "shop_name": "Predovic and Sons",
-    "shop_owner": "Jaquan",
-    "slogan": "Secured global process improvement"
-  },
-  {
-    "shop_name": "Hagenes Group",
-    "shop_owner": "Alexandrea",
-    "slogan": "Team-oriented multimedia model"
-  },
-  {
-    "shop_name": "O'Conner, Wisoky and Predovic",
-    "shop_owner": "Burley",
-    "slogan": "Right-sized needs-based archive"
-  },
-  {
-    "shop_name": "Harber Inc",
-    "shop_owner": "Rubye",
-    "slogan": "Customer-focused bottom-line synergy"
-  },
-  {
-    "shop_name": "Price, Dare and Bahringer",
-    "shop_owner": "Theresa",
-    "slogan": "Fundamental content-based adapter"
-  },
-  {
-    "shop_name": "Lehner, Considine and Orn",
-    "shop_owner": "Hayden",
-    "slogan": "Devolved methodical attitude"
-  },
-  {
-    "shop_name": "Frami Group",
-    "shop_owner": "Katelyn",
-    "slogan": "Balanced 4th generation forecast"
-  },
-  {
-    "shop_name": "Prohaska, Borer and Toy",
-    "shop_owner": "Gerry",
-    "slogan": "Reduced maximized definition"
-  },
-  {
-    "shop_name": "Kiehn - Jerde",
-    "shop_owner": "Elouise",
-    "slogan": "Extended even-keeled firmware"
-  },
-  {
-    "shop_name": "Schmeler - Rosenbaum",
-    "shop_owner": "Theresa",
-    "slogan": "Universal attitude-oriented forecast"
-  },
-  {
-    "shop_name": "Murazik - Corkery",
-    "shop_owner": "Allen",
-    "slogan": "Ameliorated non-volatile knowledge user"
-  },
-  {
-    "shop_name": "Jacobson, Leuschke and Gerlach",
-    "shop_owner": "Makenna",
-    "slogan": "Digitized reciprocal capacity"
-  },
-  {
-    "shop_name": "Brakus, Harber and Hagenes",
-    "shop_owner": "Sheldon",
-    "slogan": "Operative didactic utilisation"
-  },
-  {
-    "shop_name": "Gusikowski Inc",
-    "shop_owner": "Lauren",
-    "slogan": "Ergonomic uniform functionalities"
-  },
-  {
-    "shop_name": "Hilll - Zboncak",
-    "shop_owner": "Karelle",
-    "slogan": "Robust exuding data-warehouse"
-  },
-  {
-    "shop_name": "Zboncak, Kuhn and Bahringer",
-    "shop_owner": "Burley",
-    "slogan": "Horizontal explicit infrastructure"
-  },
-  {
-    "shop_name": "Gleason - Moore",
-    "shop_owner": "Kimberly",
-    "slogan": "Right-sized client-driven access"
-  },
-  {
-    "shop_name": "Kessler Group",
-    "shop_owner": "Kimberly",
-    "slogan": "Optional systematic archive"
-  },
-  {
-    "shop_name": "Watsica Group",
-    "shop_owner": "Christop",
-    "slogan": "Organic intangible leverage"
-  },
-  {
-    "shop_name": "Ryan, Marquardt and McClure",
-    "shop_owner": "Ruben",
-    "slogan": "Up-sized systemic adapter"
-  },
-  {
-    "shop_name": "Brown LLC",
-    "shop_owner": "Elouise",
-    "slogan": "Advanced tertiary local area network"
-  },
-  {
-    "shop_name": "Herman, O'Keefe and Veum",
-    "shop_owner": "Astrid",
-    "slogan": "Reverse-engineered 24 hour emulation"
-  },
-  {
-    "shop_name": "Cronin LLC",
-    "shop_owner": "Freddie",
-    "slogan": "Face to face user-facing internet solution"
-  },
-  {
-    "shop_name": "D'Amore, Kling and O'Hara",
-    "shop_owner": "Sheldon",
-    "slogan": "Vision-oriented multimedia toolset"
-  },
-  {
-    "shop_name": "Bosco Inc",
-    "shop_owner": "Allen",
-    "slogan": "Business-focused needs-based knowledge user"
-  },
-  {
-    "shop_name": "Bartoletti, Williamson and Powlowski",
-    "shop_owner": "Richmond",
-    "slogan": "Enterprise-wide zero defect function"
-  },
-  {
-    "shop_name": "Greenholt - D'Amore",
-    "shop_owner": "Modesto",
-    "slogan": "Innovative exuding project"
-  },
-  {
-    "shop_name": "Ruecker and Sons",
-    "shop_owner": "Imani",
-    "slogan": "Networked eco-centric superstructure"
-  },
-  {
-    "shop_name": "Wolf and Sons",
-    "shop_owner": "Hulda",
-    "slogan": "Realigned non-volatile open system"
-  },
-  {
-    "shop_name": "Cremin and Sons",
-    "shop_owner": "Kris",
-    "slogan": "Profit-focused client-driven hardware"
-  },
-  {
-    "shop_name": "Barton - Fritsch",
-    "shop_owner": "Onie",
-    "slogan": "Pre-emptive bi-directional circuit"
-  },
-  {
-    "shop_name": "Lowe, Strosin and Green",
-    "shop_owner": "Rubye",
-    "slogan": "Team-oriented incremental service-desk"
-  },
-  {
-    "shop_name": "Morissette, Pouros and Hoeger",
-    "shop_owner": "Loren",
-    "slogan": "Managed leading edge knowledge base"
-  },
-  {
-    "shop_name": "Murazik LLC",
-    "shop_owner": "Onie",
-    "slogan": "Managed demand-driven emulation"
-  },
-  {
-    "shop_name": "Haag Group",
-    "shop_owner": "Rubye",
-    "slogan": "Re-engineered fault-tolerant website"
-  },
-  {
-    "shop_name": "Jast, Runolfsson and Macejkovic",
-    "shop_owner": "Joanny",
-    "slogan": "Extended maximized utilisation"
-  },
-  {
-    "shop_name": "Ebert LLC",
-    "shop_owner": "Giovani",
-    "slogan": "Ergonomic coherent portal"
-  },
-  {
-    "shop_name": "Macejkovic, Barton and Boehm",
-    "shop_owner": "Karelle",
-    "slogan": "Monitored dedicated solution"
-  },
-  {
-    "shop_name": "Buckridge - Leuschke",
-    "shop_owner": "Alta",
-    "slogan": "Multi-layered optimal knowledge user"
-  },
-  {
-    "shop_name": "Larkin - Robel",
-    "shop_owner": "Alta",
-    "slogan": "Phased holistic encoding"
-  },
-  {
-    "shop_name": "Keebler - Jacobs",
-    "shop_owner": "Elouise",
-    "slogan": "Focused reciprocal intranet"
-  },
-  {
-    "shop_name": "Dibbert - Auer",
-    "shop_owner": "Ruben",
-    "slogan": "Implemented bifurcated functionalities"
-  },
-  {
-    "shop_name": "Anderson - Stracke",
-    "shop_owner": "Demarcus",
-    "slogan": "Upgradable bottom-line initiative"
-  },
-  {
-    "shop_name": "Dicki LLC",
-    "shop_owner": "Alexandrea",
-    "slogan": "Expanded fault-tolerant projection"
-  },
-  {
-    "shop_name": "Christiansen, Franecki and Will",
-    "shop_owner": "Sheldon",
-    "slogan": "Cloned zero defect extranet"
-  },
-  {
-    "shop_name": "Kihn Group",
-    "shop_owner": "Oceane",
-    "slogan": "Networked multi-state middleware"
-  },
-  {
-    "shop_name": "McGlynn, Boehm and Schiller",
-    "shop_owner": "Lacey",
-    "slogan": "Cross-group value-added matrices"
-  },
-  {
-    "shop_name": "Wolff, Schmitt and Boyer",
-    "shop_owner": "Jade",
-    "slogan": "Multi-lateral demand-driven strategy"
-  },
-  {
-    "shop_name": "Abernathy, Klocko and Wiegand",
-    "shop_owner": "Lacey",
-    "slogan": "Focused multi-state moratorium"
-  },
-  {
-    "shop_name": "Schaden, Harber and Pacocha",
-    "shop_owner": "Eugenia",
-    "slogan": "Object-based modular focus group"
-  },
-  {
-    "shop_name": "Torphy LLC",
-    "shop_owner": "Tate",
-    "slogan": "Programmable multi-state hub"
-  },
-  {
-    "shop_name": "Rutherford, Kessler and Nienow",
-    "shop_owner": "Jacinto",
-    "slogan": "Visionary directional capacity"
-  },
-  {
-    "shop_name": "Dietrich, Volkman and Nienow",
-    "shop_owner": "Frederik",
-    "slogan": "Self-enabling demand-driven support"
-  },
-  {
-    "shop_name": "Lindgren, Daugherty and Tremblay",
-    "shop_owner": "Alisa",
-    "slogan": "Integrated analyzing encryption"
-  },
-  {
-    "shop_name": "Cole - Blanda",
-    "shop_owner": "Deon",
-    "slogan": "Organized intangible capability"
-  },
-  {
-    "shop_name": "Lakin, Haag and Swift",
-    "shop_owner": "Imani",
-    "slogan": "Monitored fresh-thinking workforce"
-  },
-  {
-    "shop_name": "Monahan, Dooley and Fisher",
-    "shop_owner": "Nova",
-    "slogan": "Function-based responsive superstructure"
-  },
-  {
-    "shop_name": "Heidenreich, Kerluke and Wilderman",
-    "shop_owner": "Pearlie",
-    "slogan": "Inverse full-range benchmark"
-  },
-  {
-    "shop_name": "McClure, Balistreri and Welch",
-    "shop_owner": "Aletha",
-    "slogan": "Multi-channelled zero administration budgetary management"
-  },
-  {
-    "shop_name": "Borer - Hauck",
-    "shop_owner": "Deon",
-    "slogan": "Expanded clear-thinking policy"
-  },
-  {
-    "shop_name": "Legros - Kuhic",
-    "shop_owner": "Garry",
-    "slogan": "Progressive motivating middleware"
-  },
-  {
-    "shop_name": "Adams Group",
-    "shop_owner": "Jaquan",
-    "slogan": "De-engineered full-range task-force"
-  },
-  {
-    "shop_name": "Towne - Green",
-    "shop_owner": "Nova",
-    "slogan": "Grass-roots bifurcated circuit"
-  },
-  {
-    "shop_name": "Pfeffer - Tillman",
-    "shop_owner": "Katelyn",
-    "slogan": "Secured secondary adapter"
-  },
-  {
-    "shop_name": "Weissnat, Bergstrom and Swaniawski",
-    "shop_owner": "Faye",
-    "slogan": "Fundamental bi-directional focus group"
-  },
-  {
-    "shop_name": "Hettinger, Zboncak and Kemmer",
-    "shop_owner": "Lois",
-    "slogan": "Sharable interactive analyzer"
-  },
-  {
-    "shop_name": "Bayer Group",
-    "shop_owner": "Candice",
-    "slogan": "Proactive impactful website"
-  },
-  {
-    "shop_name": "Adams - Dooley",
-    "shop_owner": "Emma",
-    "slogan": "Proactive composite productivity"
-  },
-  {
-    "shop_name": "Wisozk - Kshlerin",
-    "shop_owner": "Alexandrea",
-    "slogan": "Intuitive intermediate initiative"
-  },
-  {
-    "shop_name": "Dickinson, Runte and Johnston",
-    "shop_owner": "Frederik",
-    "slogan": "Implemented static parallelism"
-  },
-  {
-    "shop_name": "Hane Group",
-    "shop_owner": "Brooks",
-    "slogan": "Mandatory transitional challenge"
-  },
-  {
-    "shop_name": "Franecki, McClure and Eichmann",
-    "shop_owner": "Ignacio",
-    "slogan": "Robust foreground adapter"
-  },
-  {
-    "shop_name": "Hintz LLC",
-    "shop_owner": "Gerry",
-    "slogan": "Organic dedicated contingency"
-  },
-  {
-    "shop_name": "Treutel - Rohan",
-    "shop_owner": "Deon",
-    "slogan": "Quality-focused even-keeled leverage"
-  },
-  {
-    "shop_name": "Powlowski and Sons",
-    "shop_owner": "Kris",
-    "slogan": "Multi-tiered web-enabled circuit"
-  },
-  {
-    "shop_name": "Eichmann, Kirlin and Mosciski",
-    "shop_owner": "Allen",
-    "slogan": "Polarised mission-critical neural-net"
-  },
-  {
-    "shop_name": "Becker - Powlowski",
-    "shop_owner": "Demarcus",
-    "slogan": "Automated optimal throughput"
-  },
-  {
-    "shop_name": "McGlynn Inc",
-    "shop_owner": "Amos",
-    "slogan": "Seamless solution-oriented throughput"
-  },
-  {
-    "shop_name": "Lowe Inc",
-    "shop_owner": "Tessie",
-    "slogan": "Innovative well-modulated firmware"
-  },
-  {
-    "shop_name": "Lynch, Leannon and Daniel",
-    "shop_owner": "Ignacio",
-    "slogan": "Polarised 24/7 knowledge base"
-  },
-  {
-    "shop_name": "Champlin, Ankunding and Berge",
-    "shop_owner": "Allen",
-    "slogan": "Persistent homogeneous strategy"
-  },
-  {
-    "shop_name": "Quitzon and Sons",
-    "shop_owner": "Richmond",
-    "slogan": "Team-oriented non-volatile orchestration"
-  },
-  {
-    "shop_name": "Prohaska - Pacocha",
-    "shop_owner": "Burley",
-    "slogan": "Object-based intangible intranet"
-  },
-  {
-    "shop_name": "Steuber, Becker and Rowe",
-    "shop_owner": "Richmond",
-    "slogan": "Visionary heuristic groupware"
-  },
-  {
-    "shop_name": "Howell, Becker and Baumbach",
-    "shop_owner": "Sheldon",
-    "slogan": "Centralized system-worthy portal"
-  },
-  {
-    "shop_name": "Kerluke - Dickinson",
-    "shop_owner": "Llewellyn",
-    "slogan": "Total uniform open system"
-  },
-  {
-    "shop_name": "Bernier, Wolff and Windler",
-    "shop_owner": "Hope",
-    "slogan": "Organized bottom-line circuit"
-  },
-  {
-    "shop_name": "McGlynn LLC",
-    "shop_owner": "Lauren",
-    "slogan": "Implemented demand-driven monitoring"
+    "shop_name": "Fay - Kautzer",
+    "owner": "Bobbie",
+    "logan": "Integrated interactive knowledge base"
   },
   {
     "shop_name": "O'Keefe Group",
-    "shop_owner": "Alexandrea",
-    "slogan": "Cross-platform maximized firmware"
+    "owner": "Monserrate",
+    "logan": "Synchronised systemic hardware"
   },
   {
-    "shop_name": "Zieme Inc",
-    "shop_owner": "Stacy",
-    "slogan": "Fully-configurable discrete workforce"
+    "shop_name": "Ondricka Group",
+    "owner": "Phoebe",
+    "logan": "Profit-focused systematic workforce"
   },
   {
-    "shop_name": "Bahringer Inc",
-    "shop_owner": "Oren",
-    "slogan": "Extended scalable implementation"
+    "shop_name": "Kris - Kessler",
+    "owner": "Bert",
+    "logan": "Face to face logistical encryption"
   },
   {
-    "shop_name": "Tremblay, Cole and Johnston",
-    "shop_owner": "Llewellyn",
-    "slogan": "Reduced intermediate collaboration"
+    "shop_name": "Reynolds and Sons",
+    "owner": "Savannah",
+    "logan": "Reverse-engineered tertiary core"
   },
   {
-    "shop_name": "Gerhold, Sipes and Turcotte",
-    "shop_owner": "Hulda",
-    "slogan": "Distributed eco-centric archive"
+    "shop_name": "Stiedemann, Williamson and Aufderhar",
+    "owner": "Cleo",
+    "logan": "Configurable regional artificial intelligence"
   },
   {
-    "shop_name": "Braun, Schmitt and Dach",
-    "shop_owner": "Christop",
-    "slogan": "Face to face stable projection"
+    "shop_name": "Casper Inc",
+    "owner": "Curtis",
+    "logan": "Multi-lateral regional portal"
   },
   {
-    "shop_name": "Schowalter, Mohr and Steuber",
-    "shop_owner": "Alejandra",
-    "slogan": "Multi-channelled impactful local area network"
+    "shop_name": "Murray LLC",
+    "owner": "Cecil",
+    "logan": "Expanded explicit support"
   },
   {
-    "shop_name": "Wuckert - Raynor",
-    "shop_owner": "Josefa",
-    "slogan": "Managed grid-enabled service-desk"
+    "shop_name": "Zemlak - Zboncak",
+    "owner": "Mable",
+    "logan": "User-centric fresh-thinking open system"
   },
   {
-    "shop_name": "Considine LLC",
-    "shop_owner": "Demarcus",
-    "slogan": "Up-sized eco-centric interface"
+    "shop_name": "Gislason, Schumm and Mraz",
+    "owner": "Otto",
+    "logan": "Phased holistic info-mediaries"
   },
   {
-    "shop_name": "Gaylord, Runolfsson and Gutkowski",
-    "shop_owner": "Freddie",
-    "slogan": "Visionary systemic benchmark"
+    "shop_name": "Conroy, Abernathy and Greenfelder",
+    "owner": "Pansy",
+    "logan": "Multi-tiered upward-trending approach"
   },
   {
-    "shop_name": "Wiegand - Hand",
-    "shop_owner": "Emil",
-    "slogan": "Adaptive asymmetric open system"
+    "shop_name": "Bosco - Koch",
+    "owner": "Ethyl",
+    "logan": "Reduced client-server hub"
   },
   {
-    "shop_name": "Hartmann Group",
-    "shop_owner": "Kris",
-    "slogan": "Managed holistic interface"
+    "shop_name": "Tromp - Connelly",
+    "owner": "Greyson",
+    "logan": "Vision-oriented disintermediate knowledge base"
   },
   {
-    "shop_name": "Nitzsche Group",
-    "shop_owner": "Anne",
-    "slogan": "Public-key scalable matrix"
+    "shop_name": "Ebert Group",
+    "owner": "Cleo",
+    "logan": "Devolved systematic matrices"
   },
   {
-    "shop_name": "Dooley, Mertz and Hand",
-    "shop_owner": "Levi",
-    "slogan": "Reactive dedicated project"
+    "shop_name": "Hilpert, Schaefer and Bernier",
+    "owner": "Savannah",
+    "logan": "Inverse web-enabled portal"
   },
   {
-    "shop_name": "Eichmann - Hodkiewicz",
-    "shop_owner": "Ansley",
-    "slogan": "Intuitive optimizing encoding"
+    "shop_name": "Emard - Marvin",
+    "owner": "Greyson",
+    "logan": "Customizable motivating encryption"
   },
   {
-    "shop_name": "White - Trantow",
-    "shop_owner": "Chadd",
-    "slogan": "Compatible leading edge time-frame"
+    "shop_name": "Senger - Schmidt",
+    "owner": "Bobbie",
+    "logan": "Synergistic non-volatile productivity"
   },
   {
-    "shop_name": "Schowalter, Herman and Murray",
-    "shop_owner": "Georgianna",
-    "slogan": "Expanded content-based database"
+    "shop_name": "Jast - Armstrong",
+    "owner": "Maxwell",
+    "logan": "Streamlined solution-oriented secured line"
   },
   {
-    "shop_name": "Reichel, Goodwin and Hermann",
-    "shop_owner": "Candice",
-    "slogan": "Inverse secondary challenge"
+    "shop_name": "Stamm Group",
+    "owner": "Ramona",
+    "logan": "Versatile bottom-line software"
   },
   {
-    "shop_name": "Rolfson, Hayes and Rippin",
-    "shop_owner": "Jacinto",
-    "slogan": "Distributed human-resource database"
+    "shop_name": "Sanford, Kerluke and Corkery",
+    "owner": "Raven",
+    "logan": "Quality-focused next generation focus group"
   },
   {
-    "shop_name": "Bahringer, Auer and McCullough",
-    "shop_owner": "D'angelo",
-    "slogan": "Monitored empowering intranet"
+    "shop_name": "Feil, Bartoletti and Leuschke",
+    "owner": "Uriel",
+    "logan": "Self-enabling cohesive installation"
   },
   {
-    "shop_name": "Fahey - Little",
-    "shop_owner": "Piper",
-    "slogan": "Phased intermediate focus group"
+    "shop_name": "Goodwin - Feeney",
+    "owner": "Shakira",
+    "logan": "Right-sized coherent structure"
   },
   {
-    "shop_name": "Kessler - Lehner",
-    "shop_owner": "Ansel",
-    "slogan": "Down-sized heuristic model"
+    "shop_name": "Trantow - Herzog",
+    "owner": "Camren",
+    "logan": "Open-source maximized flexibility"
   },
   {
-    "shop_name": "Walker, Deckow and Gulgowski",
-    "shop_owner": "Garry",
-    "slogan": "Re-engineered context-sensitive help-desk"
+    "shop_name": "Heaney, Bradtke and Nitzsche",
+    "owner": "Cindy",
+    "logan": "Balanced modular customer loyalty"
   },
   {
-    "shop_name": "Kautzer LLC",
-    "shop_owner": "Adan",
-    "slogan": "Persevering intangible task-force"
+    "shop_name": "Cruickshank - Mraz",
+    "owner": "Katarina",
+    "logan": "Grass-roots global projection"
   },
   {
-    "shop_name": "Gottlieb - Vandervort",
-    "shop_owner": "Alta",
-    "slogan": "Ameliorated composite Graphical User Interface"
+    "shop_name": "O'Keefe, Jast and McDermott",
+    "owner": "Dashawn",
+    "logan": "Profound solution-oriented instruction set"
   },
   {
-    "shop_name": "Bradtke - Keebler",
-    "shop_owner": "Lane",
-    "slogan": "Switchable grid-enabled Graphic Interface"
+    "shop_name": "Parisian, Sawayn and Prohaska",
+    "owner": "Rhea",
+    "logan": "Vision-oriented dynamic support"
   },
   {
-    "shop_name": "Eichmann - Muller",
-    "shop_owner": "Burley",
-    "slogan": "Mandatory optimizing interface"
+    "shop_name": "Aufderhar - Zieme",
+    "owner": "Cristobal",
+    "logan": "Compatible clear-thinking service-desk"
   },
   {
-    "shop_name": "Turcotte - Gulgowski",
-    "shop_owner": "Oren",
-    "slogan": "Decentralized zero tolerance local area network"
+    "shop_name": "Cremin and Sons",
+    "owner": "Candida",
+    "logan": "Open-source modular core"
   },
   {
-    "shop_name": "Strosin - Jacobi",
-    "shop_owner": "Loren",
-    "slogan": "Decentralized holistic firmware"
+    "shop_name": "Ernser, Hilpert and Glover",
+    "owner": "Gerda",
+    "logan": "Optional impactful challenge"
   },
   {
-    "shop_name": "Welch Group",
-    "shop_owner": "Xzavier",
-    "slogan": "Cloned client-server capability"
+    "shop_name": "Ratke, Hintz and Lind",
+    "owner": "Idella",
+    "logan": "Innovative intangible open architecture"
   },
   {
-    "shop_name": "Witting, Langosh and Champlin",
-    "shop_owner": "Makenna",
-    "slogan": "Exclusive dynamic Graphic Interface"
+    "shop_name": "Grady - Gleason",
+    "owner": "Bobbie",
+    "logan": "Right-sized executive standardization"
   },
   {
-    "shop_name": "Haag - Christiansen",
-    "shop_owner": "Brennan",
-    "slogan": "Organized foreground methodology"
+    "shop_name": "McDermott, Wintheiser and White",
+    "owner": "Cecil",
+    "logan": "Polarised mission-critical system engine"
   },
   {
-    "shop_name": "Reichert LLC",
-    "shop_owner": "Piper",
-    "slogan": "Self-enabling analyzing software"
+    "shop_name": "Lakin - Gleichner",
+    "owner": "Savannah",
+    "logan": "Business-focused composite functionalities"
   },
   {
-    "shop_name": "Swift Group",
-    "shop_owner": "Piper",
-    "slogan": "Cloned value-added focus group"
+    "shop_name": "Howe, Balistreri and Daugherty",
+    "owner": "Richie",
+    "logan": "Business-focused reciprocal local area network"
   },
   {
-    "shop_name": "Huel Group",
-    "shop_owner": "Kris",
-    "slogan": "Automated coherent toolset"
+    "shop_name": "Jacobi - Parker",
+    "owner": "Monserrate",
+    "logan": "Integrated human-resource function"
   },
   {
-    "shop_name": "Roberts, Prosacco and Mertz",
-    "shop_owner": "Ansley",
-    "slogan": "Operative 4th generation model"
+    "shop_name": "Will, Roberts and Buckridge",
+    "owner": "Ethyl",
+    "logan": "Organized multi-state access"
   },
   {
-    "shop_name": "Bashirian - Kris",
-    "shop_owner": "Garry",
-    "slogan": "Synchronised systematic access"
+    "shop_name": "Williamson Group",
+    "owner": "Dena",
+    "logan": "Public-key fresh-thinking functionalities"
   },
   {
-    "shop_name": "Gerlach - Stokes",
-    "shop_owner": "Bette",
-    "slogan": "Expanded client-server customer loyalty"
+    "shop_name": "Weber, Jacobson and Reichert",
+    "owner": "Ethyl",
+    "logan": "Optimized interactive budgetary management"
   },
   {
-    "shop_name": "Weber - Lindgren",
-    "shop_owner": "Deon",
-    "slogan": "Diverse empowering secured line"
+    "shop_name": "Kris, Herzog and Homenick",
+    "owner": "Ida",
+    "logan": "Visionary solution-oriented portal"
   },
   {
-    "shop_name": "Schumm - Schowalter",
-    "shop_owner": "Amos",
-    "slogan": "Function-based system-worthy methodology"
+    "shop_name": "Gerhold - Lesch",
+    "owner": "Roel",
+    "logan": "Object-based fresh-thinking benchmark"
   },
   {
-    "shop_name": "Kilback Inc",
-    "shop_owner": "Brennan",
-    "slogan": "Monitored bandwidth-monitored throughput"
+    "shop_name": "Trantow - Greenholt",
+    "owner": "Cecil",
+    "logan": "Stand-alone stable definition"
   },
   {
-    "shop_name": "Watsica - Hahn",
-    "shop_owner": "Jacinto",
-    "slogan": "Secured uniform superstructure"
+    "shop_name": "Rath Inc",
+    "owner": "Gerald",
+    "logan": "Reduced object-oriented hardware"
   },
   {
-    "shop_name": "Parker, Swift and Hermiston",
-    "shop_owner": "Antonia",
-    "slogan": "Realigned modular orchestration"
+    "shop_name": "Pfeffer, Botsford and Lind",
+    "owner": "Dylan",
+    "logan": "Ergonomic even-keeled methodology"
   },
   {
-    "shop_name": "Altenwerth - Feeney",
-    "shop_owner": "Garry",
-    "slogan": "Public-key 6th generation moderator"
+    "shop_name": "Wolf and Sons",
+    "owner": "Cecil",
+    "logan": "Front-line bi-directional website"
   },
   {
-    "shop_name": "Hayes Group",
-    "shop_owner": "Brooks",
-    "slogan": "Re-contextualized tangible conglomeration"
+    "shop_name": "Pacocha Inc",
+    "owner": "Cooper",
+    "logan": "Inverse stable secured line"
   },
   {
-    "shop_name": "Corwin, Blick and Rosenbaum",
-    "shop_owner": "Brooks",
-    "slogan": "Multi-lateral hybrid moderator"
+    "shop_name": "Lesch, Swaniawski and Heathcote",
+    "owner": "Madge",
+    "logan": "Decentralized 3rd generation website"
   },
   {
-    "shop_name": "Carroll - Rohan",
-    "shop_owner": "Richmond",
-    "slogan": "Managed foreground policy"
+    "shop_name": "Bode LLC",
+    "owner": "Hilario",
+    "logan": "Polarised contextually-based focus group"
   },
   {
-    "shop_name": "Kertzmann - Brakus",
-    "shop_owner": "Theresa",
-    "slogan": "Reverse-engineered zero defect attitude"
+    "shop_name": "Franecki, Johnston and Bashirian",
+    "owner": "Skye",
+    "logan": "Secured asymmetric framework"
   },
   {
-    "shop_name": "Swaniawski, Effertz and Bashirian",
-    "shop_owner": "Ansley",
-    "slogan": "Upgradable zero administration function"
+    "shop_name": "Konopelski - Rolfson",
+    "owner": "Fidel",
+    "logan": "Face to face mobile ability"
   },
   {
-    "shop_name": "Stanton - Beahan",
-    "shop_owner": "Ansel",
-    "slogan": "Visionary intangible utilisation"
+    "shop_name": "Gorczany, Yundt and Kovacek",
+    "owner": "Anabelle",
+    "logan": "Grass-roots optimizing extranet"
   },
   {
-    "shop_name": "Quitzon - Hessel",
-    "shop_owner": "Anne",
-    "slogan": "Pre-emptive didactic benchmark"
+    "shop_name": "Hilll, Schuster and Bailey",
+    "owner": "Helmer",
+    "logan": "Polarised mission-critical migration"
   },
   {
-    "shop_name": "Bode and Sons",
-    "shop_owner": "Junior",
-    "slogan": "Down-sized value-added knowledge user"
+    "shop_name": "Stiedemann - Marvin",
+    "owner": "Nona",
+    "logan": "Organic secondary focus group"
   },
   {
-    "shop_name": "Jacobi Inc",
-    "shop_owner": "Alexandre",
-    "slogan": "De-engineered content-based productivity"
+    "shop_name": "Harris, Kunze and Dibbert",
+    "owner": "Dandre",
+    "logan": "Progressive content-based system engine"
   },
   {
-    "shop_name": "Lockman Inc",
-    "shop_owner": "Hulda",
-    "slogan": "Synergized needs-based policy"
+    "shop_name": "Grady Inc",
+    "owner": "Mable",
+    "logan": "Ameliorated zero defect instruction set"
   },
   {
-    "shop_name": "Dare LLC",
-    "shop_owner": "Luther",
-    "slogan": "Advanced exuding challenge"
+    "shop_name": "Bashirian, Abernathy and Carroll",
+    "owner": "Mable",
+    "logan": "Assimilated client-driven productivity"
   },
   {
-    "shop_name": "Abshire, Hyatt and Hyatt",
-    "shop_owner": "Jamal",
-    "slogan": "Virtual modular utilisation"
+    "shop_name": "D'Amore - Mraz",
+    "owner": "Ansel",
+    "logan": "Optional encompassing toolset"
   },
   {
-    "shop_name": "MacGyver, Strosin and Muller",
-    "shop_owner": "Jade",
-    "slogan": "Seamless mobile moratorium"
+    "shop_name": "Fadel Group",
+    "owner": "Candida",
+    "logan": "Compatible tangible productivity"
   },
   {
-    "shop_name": "Hintz - Cummings",
-    "shop_owner": "Nova",
-    "slogan": "Quality-focused hybrid hub"
+    "shop_name": "Gutkowski - Paucek",
+    "owner": "Destini",
+    "logan": "Down-sized leading edge encoding"
   },
   {
-    "shop_name": "Lockman LLC",
-    "shop_owner": "Alexandre",
-    "slogan": "Mandatory 5th generation infrastructure"
+    "shop_name": "Auer, Luettgen and Greenholt",
+    "owner": "Trinity",
+    "logan": "Sharable asynchronous forecast"
   },
   {
-    "shop_name": "Mosciski LLC",
-    "shop_owner": "Imani",
-    "slogan": "Multi-layered radical capacity"
+    "shop_name": "Corwin, Murray and Hirthe",
+    "owner": "Shakira",
+    "logan": "Seamless encompassing open system"
   },
   {
-    "shop_name": "Medhurst, Pagac and Upton",
-    "shop_owner": "Ignacio",
-    "slogan": "Down-sized stable local area network"
+    "shop_name": "Auer, Moore and Vandervort",
+    "owner": "Johnnie",
+    "logan": "Self-enabling bottom-line software"
   },
   {
-    "shop_name": "Hayes - Schultz",
-    "shop_owner": "Kris",
-    "slogan": "Ameliorated multi-tasking help-desk"
+    "shop_name": "Flatley Group",
+    "owner": "Ethyl",
+    "logan": "Cross-group tangible pricing structure"
   },
   {
-    "shop_name": "Schamberger LLC",
-    "shop_owner": "Alisa",
-    "slogan": "Expanded upward-trending software"
+    "shop_name": "Haley and Sons",
+    "owner": "Dena",
+    "logan": "Multi-layered optimizing superstructure"
   },
   {
-    "shop_name": "Jaskolski - Bogan",
-    "shop_owner": "Oceane",
-    "slogan": "Public-key high-level info-mediaries"
+    "shop_name": "Paucek, Fritsch and Cormier",
+    "owner": "Madge",
+    "logan": "Compatible radical strategy"
   },
   {
-    "shop_name": "Will and Sons",
-    "shop_owner": "Adan",
-    "slogan": "Synergistic tangible Graphical User Interface"
+    "shop_name": "Greenfelder Group",
+    "owner": "Ansel",
+    "logan": "User-centric multimedia system engine"
   },
   {
-    "shop_name": "Frami LLC",
-    "shop_owner": "Domingo",
-    "slogan": "Configurable heuristic implementation"
+    "shop_name": "Kerluke, Weber and King",
+    "owner": "Gerhard",
+    "logan": "Up-sized 3rd generation migration"
   },
   {
-    "shop_name": "Price LLC",
-    "shop_owner": "Emma",
-    "slogan": "Persevering user-facing system engine"
+    "shop_name": "Mayert, Ryan and Steuber",
+    "owner": "Rhea",
+    "logan": "Upgradable bi-directional intranet"
+  },
+  {
+    "shop_name": "Altenwerth Inc",
+    "owner": "Alycia",
+    "logan": "Up-sized cohesive collaboration"
+  },
+  {
+    "shop_name": "Dickinson, Simonis and Metz",
+    "owner": "Vicky",
+    "logan": "Seamless multimedia circuit"
+  },
+  {
+    "shop_name": "Kuhn - Zieme",
+    "owner": "Kaia",
+    "logan": "Enterprise-wide explicit model"
+  },
+  {
+    "shop_name": "Smitham and Sons",
+    "owner": "Bobbie",
+    "logan": "Extended radical parallelism"
+  },
+  {
+    "shop_name": "Hane Group",
+    "owner": "Monserrate",
+    "logan": "Horizontal value-added circuit"
+  },
+  {
+    "shop_name": "Kassulke, Lueilwitz and Kuphal",
+    "owner": "Hilario",
+    "logan": "Automated 5th generation success"
+  },
+  {
+    "shop_name": "Gerlach - Kirlin",
+    "owner": "Watson",
+    "logan": "Reduced bottom-line knowledge base"
+  },
+  {
+    "shop_name": "Hickle, Labadie and Bartoletti",
+    "owner": "Cody",
+    "logan": "Innovative user-facing capacity"
+  },
+  {
+    "shop_name": "Jaskolski, Blanda and Baumbach",
+    "owner": "Stuart",
+    "logan": "Stand-alone modular approach"
+  },
+  {
+    "shop_name": "Ortiz Group",
+    "owner": "Maverick",
+    "logan": "Realigned maximized synergy"
+  },
+  {
+    "shop_name": "Jenkins, Lueilwitz and Luettgen",
+    "owner": "Nyah",
+    "logan": "Universal fresh-thinking approach"
+  },
+  {
+    "shop_name": "Medhurst and Sons",
+    "owner": "Watson",
+    "logan": "Realigned 24/7 framework"
+  },
+  {
+    "shop_name": "Abbott Inc",
+    "owner": "Jacinthe",
+    "logan": "Reduced didactic paradigm"
+  },
+  {
+    "shop_name": "Quigley Group",
+    "owner": "Otto",
+    "logan": "Automated contextually-based success"
+  },
+  {
+    "shop_name": "Labadie - Kemmer",
+    "owner": "Gerda",
+    "logan": "Up-sized background archive"
+  },
+  {
+    "shop_name": "King Inc",
+    "owner": "Skye",
+    "logan": "Operative bifurcated monitoring"
+  },
+  {
+    "shop_name": "Streich and Sons",
+    "owner": "Otto",
+    "logan": "Upgradable optimizing service-desk"
+  },
+  {
+    "shop_name": "Dickinson, Stanton and Davis",
+    "owner": "Skye",
+    "logan": "Synergistic interactive intranet"
+  },
+  {
+    "shop_name": "Daugherty, Wintheiser and Morissette",
+    "owner": "Dandre",
+    "logan": "Grass-roots grid-enabled access"
+  },
+  {
+    "shop_name": "Wisoky Inc",
+    "owner": "Juston",
+    "logan": "Face to face 3rd generation success"
+  },
+  {
+    "shop_name": "Terry - Schimmel",
+    "owner": "Savannah",
+    "logan": "Face to face bi-directional workforce"
+  },
+  {
+    "shop_name": "Pfannerstill - Bernhard",
+    "owner": "Savannah",
+    "logan": "User-friendly motivating local area network"
+  },
+  {
+    "shop_name": "Blick - Gottlieb",
+    "owner": "Jacinthe",
+    "logan": "Organized neutral benchmark"
+  },
+  {
+    "shop_name": "Leuschke, Wisozk and Rodriguez",
+    "owner": "Johnnie",
+    "logan": "Expanded reciprocal hardware"
+  },
+  {
+    "shop_name": "Abbott and Sons",
+    "owner": "Luella",
+    "logan": "Ameliorated uniform array"
+  },
+  {
+    "shop_name": "Anderson - Schneider",
+    "owner": "Dylan",
+    "logan": "Seamless homogeneous throughput"
+  },
+  {
+    "shop_name": "Douglas, Haag and Heidenreich",
+    "owner": "Celestino",
+    "logan": "Sharable real-time access"
+  },
+  {
+    "shop_name": "Nitzsche - Towne",
+    "owner": "Sylvester",
+    "logan": "Versatile multimedia internet solution"
+  },
+  {
+    "shop_name": "Rolfson - Stamm",
+    "owner": "Cindy",
+    "logan": "Implemented motivating implementation"
+  },
+  {
+    "shop_name": "Walker, Kuhic and Bauch",
+    "owner": "Rex",
+    "logan": "Extended modular projection"
+  },
+  {
+    "shop_name": "Beatty - Pollich",
+    "owner": "Vicky",
+    "logan": "Multi-tiered eco-centric software"
+  },
+  {
+    "shop_name": "Block - Treutel",
+    "owner": "Shanelle",
+    "logan": "Open-source scalable time-frame"
+  },
+  {
+    "shop_name": "Balistreri - Huel",
+    "owner": "Uriel",
+    "logan": "Function-based user-facing matrices"
+  },
+  {
+    "shop_name": "Lockman, Rippin and Stehr",
+    "owner": "Nyah",
+    "logan": "Re-contextualized well-modulated installation"
+  },
+  {
+    "shop_name": "Macejkovic - Quitzon",
+    "owner": "Hilario",
+    "logan": "Universal transitional intranet"
+  },
+  {
+    "shop_name": "Blick, Weimann and Hermiston",
+    "owner": "Jacinthe",
+    "logan": "Virtual even-keeled open system"
+  },
+  {
+    "shop_name": "Weber, Kirlin and Schoen",
+    "owner": "Tristin",
+    "logan": "Automated radical service-desk"
+  },
+  {
+    "shop_name": "Johnson - Prohaska",
+    "owner": "Tristin",
+    "logan": "Distributed bandwidth-monitored artificial intelligence"
+  },
+  {
+    "shop_name": "Kunze, Tromp and Herzog",
+    "owner": "Gerald",
+    "logan": "Object-based transitional throughput"
+  },
+  {
+    "shop_name": "Effertz and Sons",
+    "owner": "Curtis",
+    "logan": "Implemented intangible secured line"
+  },
+  {
+    "shop_name": "Cremin - Smitham",
+    "owner": "Ryder",
+    "logan": "Compatible heuristic archive"
+  },
+  {
+    "shop_name": "Nicolas - Sanford",
+    "owner": "Luella",
+    "logan": "Multi-channelled dynamic hardware"
+  },
+  {
+    "shop_name": "Zemlak Group",
+    "owner": "Bobbie",
+    "logan": "Down-sized client-driven alliance"
+  },
+  {
+    "shop_name": "Spinka, Turcotte and Smitham",
+    "owner": "Mathias",
+    "logan": "Distributed responsive attitude"
+  },
+  {
+    "shop_name": "Boyle LLC",
+    "owner": "Celestino",
+    "logan": "Balanced disintermediate access"
+  },
+  {
+    "shop_name": "Donnelly, Buckridge and Steuber",
+    "owner": "Cooper",
+    "logan": "Organized 5th generation focus group"
+  },
+  {
+    "shop_name": "Lockman, Hermiston and D'Amore",
+    "owner": "Gerhard",
+    "logan": "Managed 4th generation hierarchy"
+  },
+  {
+    "shop_name": "Hodkiewicz Group",
+    "owner": "Uriel",
+    "logan": "Phased reciprocal service-desk"
+  },
+  {
+    "shop_name": "Grant - O'Connell",
+    "owner": "Gerhard",
+    "logan": "Progressive impactful hardware"
+  },
+  {
+    "shop_name": "Kihn - Treutel",
+    "owner": "Maverick",
+    "logan": "Quality-focused optimizing instruction set"
+  },
+  {
+    "shop_name": "Kiehn Group",
+    "owner": "Kaia",
+    "logan": "Assimilated optimal customer loyalty"
+  },
+  {
+    "shop_name": "Dickinson - Blanda",
+    "owner": "Celestino",
+    "logan": "Customizable neutral internet solution"
+  },
+  {
+    "shop_name": "Effertz LLC",
+    "owner": "Cristal",
+    "logan": "Secured 24 hour frame"
+  },
+  {
+    "shop_name": "Stamm, Rowe and Swift",
+    "owner": "Mable",
+    "logan": "Balanced 24/7 project"
+  },
+  {
+    "shop_name": "Wunsch - Grady",
+    "owner": "Luella",
+    "logan": "Persevering background migration"
+  },
+  {
+    "shop_name": "Nitzsche, Lubowitz and Davis",
+    "owner": "Shakira",
+    "logan": "Customizable heuristic functionalities"
+  },
+  {
+    "shop_name": "Wilderman, Rice and Grady",
+    "owner": "Mathias",
+    "logan": "Ergonomic explicit database"
+  },
+  {
+    "shop_name": "Dietrich Group",
+    "owner": "Cooper",
+    "logan": "Open-architected eco-centric flexibility"
+  },
+  {
+    "shop_name": "Hermiston - Shields",
+    "owner": "Juston",
+    "logan": "Horizontal motivating firmware"
+  },
+  {
+    "shop_name": "Wiza - McLaughlin",
+    "owner": "Ena",
+    "logan": "Down-sized 24/7 service-desk"
+  },
+  {
+    "shop_name": "Hegmann Inc",
+    "owner": "Alycia",
+    "logan": "Seamless clear-thinking system engine"
+  },
+  {
+    "shop_name": "Pfeffer - Cartwright",
+    "owner": "Gerson",
+    "logan": "Up-sized exuding local area network"
+  },
+  {
+    "shop_name": "O'Reilly - Lueilwitz",
+    "owner": "Roel",
+    "logan": "Quality-focused regional product"
+  },
+  {
+    "shop_name": "Hirthe - Quigley",
+    "owner": "Cindy",
+    "logan": "Operative composite leverage"
+  },
+  {
+    "shop_name": "Watsica, Ankunding and Kemmer",
+    "owner": "Sylvester",
+    "logan": "Innovative next generation toolset"
+  },
+  {
+    "shop_name": "Ryan LLC",
+    "owner": "Johann",
+    "logan": "Cloned regional knowledge user"
+  },
+  {
+    "shop_name": "Walsh - Graham",
+    "owner": "Gerda",
+    "logan": "Triple-buffered asynchronous matrix"
+  },
+  {
+    "shop_name": "Larson LLC",
+    "owner": "Gerald",
+    "logan": "Exclusive client-server throughput"
+  },
+  {
+    "shop_name": "Tromp - Lakin",
+    "owner": "Dashawn",
+    "logan": "Digitized object-oriented forecast"
+  },
+  {
+    "shop_name": "Gutmann, Steuber and Cassin",
+    "owner": "Hilario",
+    "logan": "Total clear-thinking capacity"
+  },
+  {
+    "shop_name": "Kirlin - Miller",
+    "owner": "Curtis",
+    "logan": "Expanded analyzing instruction set"
+  },
+  {
+    "shop_name": "Ritchie, Reichel and Halvorson",
+    "owner": "Katarina",
+    "logan": "Advanced value-added hardware"
+  },
+  {
+    "shop_name": "Reichel Inc",
+    "owner": "Mathias",
+    "logan": "Multi-tiered user-facing info-mediaries"
+  },
+  {
+    "shop_name": "Lindgren Inc",
+    "owner": "Vicky",
+    "logan": "Customizable methodical contingency"
+  },
+  {
+    "shop_name": "Bauch, Rippin and Mann",
+    "owner": "Gerda",
+    "logan": "Phased empowering monitoring"
   },
   {
     "shop_name": "Kuvalis LLC",
-    "shop_owner": "Amos",
-    "slogan": "Reverse-engineered 3rd generation matrices"
+    "owner": "Trinity",
+    "logan": "Polarised full-range structure"
   },
   {
-    "shop_name": "Koss Inc",
-    "shop_owner": "Emma",
-    "slogan": "Virtual non-volatile customer loyalty"
+    "shop_name": "Wiegand and Sons",
+    "owner": "Sylvester",
+    "logan": "Adaptive bifurcated parallelism"
   },
   {
-    "shop_name": "Feeney, Kshlerin and Reichel",
-    "shop_owner": "Hulda",
-    "slogan": "Multi-tiered national application"
+    "shop_name": "Feeney, Douglas and Mosciski",
+    "owner": "Uriel",
+    "logan": "Customizable multi-tasking hardware"
   },
   {
-    "shop_name": "Blanda - McKenzie",
-    "shop_owner": "Lacey",
-    "slogan": "Fully-configurable discrete firmware"
+    "shop_name": "Kshlerin LLC",
+    "owner": "Rosanna",
+    "logan": "Cloned systematic moderator"
   },
   {
-    "shop_name": "Rolfson LLC",
-    "shop_owner": "Xzavier",
-    "slogan": "Reverse-engineered didactic framework"
+    "shop_name": "Witting, Schiller and Greenholt",
+    "owner": "Gerald",
+    "logan": "Synchronised grid-enabled interface"
   },
   {
-    "shop_name": "Von - Yost",
-    "shop_owner": "Domingo",
-    "slogan": "Quality-focused client-driven synergy"
+    "shop_name": "Huels, Wyman and Little",
+    "owner": "Cecil",
+    "logan": "Mandatory tangible benchmark"
   },
   {
-    "shop_name": "Hirthe - Johnson",
-    "shop_owner": "Faye",
-    "slogan": "De-engineered 24 hour functionalities"
+    "shop_name": "Keebler LLC",
+    "owner": "Savannah",
+    "logan": "Progressive bifurcated Graphical User Interface"
   },
   {
-    "shop_name": "Schinner - Kilback",
-    "shop_owner": "Chadd",
-    "slogan": "Adaptive exuding task-force"
+    "shop_name": "Schulist - Wehner",
+    "owner": "Helmer",
+    "logan": "Implemented composite architecture"
   },
   {
-    "shop_name": "DuBuque, Botsford and Schmidt",
-    "shop_owner": "Katelyn",
-    "slogan": "Programmable fault-tolerant emulation"
+    "shop_name": "Johns, Bogan and Ondricka",
+    "owner": "Watson",
+    "logan": "Intuitive optimal neural-net"
   },
   {
-    "shop_name": "Luettgen Group",
-    "shop_owner": "Amber",
-    "slogan": "Organic static throughput"
+    "shop_name": "Hodkiewicz, Upton and Ratke",
+    "owner": "Stuart",
+    "logan": "Customer-focused grid-enabled initiative"
   },
   {
-    "shop_name": "Koelpin, Marvin and Renner",
-    "shop_owner": "Alexandre",
-    "slogan": "Up-sized actuating productivity"
+    "shop_name": "Keebler, Schulist and Kshlerin",
+    "owner": "Cody",
+    "logan": "Multi-tiered asynchronous circuit"
   },
   {
-    "shop_name": "Jacobs, Moen and Bode",
-    "shop_owner": "Junior",
-    "slogan": "Object-based hybrid budgetary management"
+    "shop_name": "Rowe - Swift",
+    "owner": "Mathias",
+    "logan": "Cloned demand-driven local area network"
   },
   {
-    "shop_name": "Schneider Group",
-    "shop_owner": "Lois",
-    "slogan": "Re-engineered secondary complexity"
+    "shop_name": "Harber - Monahan",
+    "owner": "Jaylin",
+    "logan": "Cloned bi-directional complexity"
   },
   {
-    "shop_name": "Funk, Kertzmann and King",
-    "shop_owner": "Onie",
-    "slogan": "Seamless multi-state customer loyalty"
+    "shop_name": "Morissette Group",
+    "owner": "Maverick",
+    "logan": "Fundamental full-range infrastructure"
   },
   {
-    "shop_name": "Braun Group",
-    "shop_owner": "Adan",
-    "slogan": "Customer-focused even-keeled parallelism"
+    "shop_name": "Emmerich - Homenick",
+    "owner": "Roel",
+    "logan": "Digitized static approach"
   },
   {
-    "shop_name": "Towne, Aufderhar and Murray",
-    "shop_owner": "Emil",
-    "slogan": "Assimilated 3rd generation benchmark"
+    "shop_name": "Kihn LLC",
+    "owner": "Roel",
+    "logan": "Balanced user-facing support"
   },
   {
-    "shop_name": "Dietrich - Armstrong",
-    "shop_owner": "Brennan",
-    "slogan": "Synchronised 3rd generation support"
+    "shop_name": "Doyle - Paucek",
+    "owner": "Lorenz",
+    "logan": "Expanded uniform local area network"
   },
   {
-    "shop_name": "Mohr - Collins",
-    "shop_owner": "Lauren",
-    "slogan": "Stand-alone systematic moderator"
+    "shop_name": "Brekke, O'Reilly and Schowalter",
+    "owner": "Dylan",
+    "logan": "Polarised non-volatile customer loyalty"
   },
   {
-    "shop_name": "Koss - Dooley",
-    "shop_owner": "Tate",
-    "slogan": "Progressive web-enabled process improvement"
+    "shop_name": "Moen and Sons",
+    "owner": "Dena",
+    "logan": "Networked client-server concept"
   },
   {
-    "shop_name": "Hilpert Group",
-    "shop_owner": "Jaquan",
-    "slogan": "Distributed actuating neural-net"
+    "shop_name": "Hackett and Sons",
+    "owner": "Dandre",
+    "logan": "Upgradable transitional pricing structure"
+  },
+  {
+    "shop_name": "Trantow, Ebert and Zemlak",
+    "owner": "Phoebe",
+    "logan": "Triple-buffered 4th generation middleware"
+  },
+  {
+    "shop_name": "Greenholt, Stanton and Treutel",
+    "owner": "Adolph",
+    "logan": "Organized maximized collaboration"
+  },
+  {
+    "shop_name": "Sanford Group",
+    "owner": "Daniella",
+    "logan": "Implemented web-enabled orchestration"
+  },
+  {
+    "shop_name": "Pouros - Boehm",
+    "owner": "Gerhard",
+    "logan": "Multi-lateral methodical artificial intelligence"
+  },
+  {
+    "shop_name": "Rolfson - Gutkowski",
+    "owner": "Juston",
+    "logan": "Re-contextualized solution-oriented system engine"
+  },
+  {
+    "shop_name": "Gutkowski - Shanahan",
+    "owner": "Johnnie",
+    "logan": "Open-source national installation"
+  },
+  {
+    "shop_name": "Labadie, Berge and Bauch",
+    "owner": "Skye",
+    "logan": "Extended holistic algorithm"
+  },
+  {
+    "shop_name": "Windler, Yundt and Feeney",
+    "owner": "Ryder",
+    "logan": "Persistent web-enabled software"
+  },
+  {
+    "shop_name": "Zulauf - Corkery",
+    "owner": "Nyah",
+    "logan": "Organized high-level framework"
+  },
+  {
+    "shop_name": "Bechtelar Group",
+    "owner": "Rhea",
+    "logan": "Front-line mission-critical time-frame"
+  },
+  {
+    "shop_name": "Mayert - Walker",
+    "owner": "Jamil",
+    "logan": "Cloned neutral definition"
+  },
+  {
+    "shop_name": "Stark LLC",
+    "owner": "Katarina",
+    "logan": "Vision-oriented system-worthy capability"
+  },
+  {
+    "shop_name": "Kuhlman, Tillman and Abernathy",
+    "owner": "Dandre",
+    "logan": "Diverse multi-tasking core"
+  },
+  {
+    "shop_name": "Hermiston, Ondricka and Beer",
+    "owner": "Jacinthe",
+    "logan": "Organized 6th generation monitoring"
+  },
+  {
+    "shop_name": "O'Conner, Schmidt and Watsica",
+    "owner": "Theo",
+    "logan": "Total clear-thinking secured line"
+  },
+  {
+    "shop_name": "Tromp - Goldner",
+    "owner": "Rex",
+    "logan": "Total transitional internet solution"
+  },
+  {
+    "shop_name": "Kovacek - Muller",
+    "owner": "Trinity",
+    "logan": "Diverse foreground moderator"
+  },
+  {
+    "shop_name": "Rath, Nolan and Nicolas",
+    "owner": "Dandre",
+    "logan": "Devolved upward-trending frame"
+  },
+  {
+    "shop_name": "O'Keefe, Hauck and Berge",
+    "owner": "Sylvester",
+    "logan": "Fundamental modular adapter"
+  },
+  {
+    "shop_name": "Halvorson, Kuhic and Blick",
+    "owner": "Cindy",
+    "logan": "Optimized client-server attitude"
+  },
+  {
+    "shop_name": "Crist - Luettgen",
+    "owner": "Kaia",
+    "logan": "Reverse-engineered systematic encryption"
+  },
+  {
+    "shop_name": "Eichmann, Senger and O'Reilly",
+    "owner": "Icie",
+    "logan": "Programmable client-server function"
+  },
+  {
+    "shop_name": "Collier, Emard and Kihn",
+    "owner": "Katarina",
+    "logan": "Advanced 4th generation hub"
+  },
+  {
+    "shop_name": "O'Connell Group",
+    "owner": "Jaylin",
+    "logan": "Inverse intermediate Graphical User Interface"
+  },
+  {
+    "shop_name": "Schoen and Sons",
+    "owner": "Jaylin",
+    "logan": "Cross-platform client-driven application"
+  },
+  {
+    "shop_name": "Koelpin - Heidenreich",
+    "owner": "Stephan",
+    "logan": "Operative hybrid application"
+  },
+  {
+    "shop_name": "Schuppe Group",
+    "owner": "Kelly",
+    "logan": "Stand-alone tangible benchmark"
+  },
+  {
+    "shop_name": "Stiedemann, Wolff and Bartoletti",
+    "owner": "Margie",
+    "logan": "Inverse tangible firmware"
+  },
+  {
+    "shop_name": "Ullrich - Kozey",
+    "owner": "Dwight",
+    "logan": "Mandatory well-modulated ability"
+  },
+  {
+    "shop_name": "Stamm, Effertz and Osinski",
+    "owner": "Dena",
+    "logan": "Persevering fault-tolerant array"
+  },
+  {
+    "shop_name": "Steuber Group",
+    "owner": "Juston",
+    "logan": "Front-line leading edge system engine"
+  },
+  {
+    "shop_name": "Mertz, Gorczany and Mills",
+    "owner": "Dashawn",
+    "logan": "Monitored asymmetric parallelism"
+  },
+  {
+    "shop_name": "Nolan - Ryan",
+    "owner": "Curtis",
+    "logan": "Function-based disintermediate infrastructure"
+  },
+  {
+    "shop_name": "Doyle - Nolan",
+    "owner": "Nona",
+    "logan": "Optional heuristic pricing structure"
+  },
+  {
+    "shop_name": "Trantow, Reichel and Cummerata",
+    "owner": "Margie",
+    "logan": "Future-proofed neutral solution"
+  },
+  {
+    "shop_name": "Klocko - Erdman",
+    "owner": "Stuart",
+    "logan": "Multi-tiered tertiary throughput"
+  },
+  {
+    "shop_name": "Runolfsdottir - Lubowitz",
+    "owner": "Ansel",
+    "logan": "Centralized global methodology"
+  },
+  {
+    "shop_name": "Jacobs and Sons",
+    "owner": "Camren",
+    "logan": "Re-contextualized 5th generation internet solution"
+  },
+  {
+    "shop_name": "Borer Inc",
+    "owner": "Ena",
+    "logan": "Down-sized background open architecture"
+  },
+  {
+    "shop_name": "Quitzon - Leffler",
+    "owner": "Greyson",
+    "logan": "Function-based clear-thinking core"
+  },
+  {
+    "shop_name": "Dicki, Dibbert and Mayer",
+    "owner": "Jaylin",
+    "logan": "Grass-roots incremental task-force"
+  },
+  {
+    "shop_name": "Hodkiewicz LLC",
+    "owner": "Rhea",
+    "logan": "Customizable analyzing info-mediaries"
+  },
+  {
+    "shop_name": "Lockman Inc",
+    "owner": "Shanelle",
+    "logan": "Inverse zero administration superstructure"
+  },
+  {
+    "shop_name": "Feeney - Metz",
+    "owner": "Margie",
+    "logan": "Sharable uniform help-desk"
+  },
+  {
+    "shop_name": "Simonis - D'Amore",
+    "owner": "Rhea",
+    "logan": "Diverse heuristic moratorium"
+  },
+  {
+    "shop_name": "Konopelski, Hessel and Skiles",
+    "owner": "Skye",
+    "logan": "Phased intermediate database"
+  },
+  {
+    "shop_name": "Littel - Mohr",
+    "owner": "Cindy",
+    "logan": "Adaptive optimal attitude"
+  },
+  {
+    "shop_name": "McLaughlin, Konopelski and Kuvalis",
+    "owner": "Lily",
+    "logan": "Ergonomic systemic encryption"
+  },
+  {
+    "shop_name": "Donnelly, Yundt and Quitzon",
+    "owner": "Otto",
+    "logan": "Multi-tiered methodical monitoring"
+  },
+  {
+    "shop_name": "Bernier, Hermiston and Stark",
+    "owner": "Destini",
+    "logan": "Expanded real-time pricing structure"
+  },
+  {
+    "shop_name": "O'Reilly, Nitzsche and Marks",
+    "owner": "Ena",
+    "logan": "Multi-lateral regional intranet"
+  },
+  {
+    "shop_name": "DuBuque, Jerde and Donnelly",
+    "owner": "Mable",
+    "logan": "Profit-focused uniform paradigm"
+  },
+  {
+    "shop_name": "Donnelly - Spencer",
+    "owner": "Maxwell",
+    "logan": "Vision-oriented 24/7 access"
+  },
+  {
+    "shop_name": "Labadie, Cassin and Wilkinson",
+    "owner": "Johann",
+    "logan": "Decentralized upward-trending monitoring"
+  },
+  {
+    "shop_name": "Goldner Group",
+    "owner": "Cindy",
+    "logan": "Pre-emptive bi-directional customer loyalty"
+  },
+  {
+    "shop_name": "Reichert - Tremblay",
+    "owner": "Kaia",
+    "logan": "Streamlined bifurcated analyzer"
+  },
+  {
+    "shop_name": "Collins - Bergnaum",
+    "owner": "Pansy",
+    "logan": "Total composite system engine"
+  },
+  {
+    "shop_name": "Rolfson and Sons",
+    "owner": "Pansy",
+    "logan": "Multi-layered zero tolerance Graphic Interface"
+  },
+  {
+    "shop_name": "Waelchi LLC",
+    "owner": "Pansy",
+    "logan": "Re-engineered hybrid customer loyalty"
+  },
+  {
+    "shop_name": "Oberbrunner LLC",
+    "owner": "Nyah",
+    "logan": "Object-based holistic monitoring"
+  },
+  {
+    "shop_name": "Harvey - Swaniawski",
+    "owner": "Kenyatta",
+    "logan": "Integrated human-resource core"
+  },
+  {
+    "shop_name": "Volkman - Stroman",
+    "owner": "Anabelle",
+    "logan": "Reduced bi-directional workforce"
+  },
+  {
+    "shop_name": "Quigley, Stracke and Streich",
+    "owner": "Dwight",
+    "logan": "Total intermediate hub"
+  },
+  {
+    "shop_name": "Brakus - Towne",
+    "owner": "Genevieve",
+    "logan": "Phased fresh-thinking artificial intelligence"
+  },
+  {
+    "shop_name": "Mosciski - Beier",
+    "owner": "Phoebe",
+    "logan": "Universal 4th generation methodology"
+  },
+  {
+    "shop_name": "Williamson, Schaefer and Becker",
+    "owner": "Johnnie",
+    "logan": "Extended grid-enabled internet solution"
+  },
+  {
+    "shop_name": "Hackett, Willms and Gutkowski",
+    "owner": "Sidney",
+    "logan": "Reduced human-resource framework"
+  },
+  {
+    "shop_name": "Fadel - Fay",
+    "owner": "Sammy",
+    "logan": "Synergistic transitional leverage"
+  },
+  {
+    "shop_name": "West, Sanford and Rath",
+    "owner": "Rhea",
+    "logan": "Face to face bottom-line success"
+  },
+  {
+    "shop_name": "Nienow - Brown",
+    "owner": "Shakira",
+    "logan": "Stand-alone methodical flexibility"
+  },
+  {
+    "shop_name": "Jakubowski - Ratke",
+    "owner": "Queenie",
+    "logan": "Integrated incremental knowledge user"
+  },
+  {
+    "shop_name": "Jenkins, Hoeger and Paucek",
+    "owner": "Vicky",
+    "logan": "Fully-configurable transitional knowledge user"
+  },
+  {
+    "shop_name": "Kreiger, Rutherford and Rolfson",
+    "owner": "Ryder",
+    "logan": "De-engineered transitional local area network"
+  },
+  {
+    "shop_name": "Heathcote - Mitchell",
+    "owner": "Margie",
+    "logan": "Quality-focused foreground instruction set"
+  },
+  {
+    "shop_name": "Hackett, Monahan and Murphy",
+    "owner": "Vicky",
+    "logan": "Synchronised optimal concept"
+  },
+  {
+    "shop_name": "Bogan LLC",
+    "owner": "Kim",
+    "logan": "Enterprise-wide multimedia definition"
+  },
+  {
+    "shop_name": "Davis, Tromp and Schuppe",
+    "owner": "Ansel",
+    "logan": "Customizable user-facing infrastructure"
+  },
+  {
+    "shop_name": "Hills, Leannon and Stark",
+    "owner": "Ryder",
+    "logan": "Adaptive motivating workforce"
+  },
+  {
+    "shop_name": "Goldner, Flatley and Lowe",
+    "owner": "Cooper",
+    "logan": "Persistent local orchestration"
+  },
+  {
+    "shop_name": "Keebler and Sons",
+    "owner": "Curtis",
+    "logan": "Devolved multi-state system engine"
+  },
+  {
+    "shop_name": "Treutel Group",
+    "owner": "Dylan",
+    "logan": "Open-source interactive conglomeration"
+  },
+  {
+    "shop_name": "Wiegand, Brekke and Mitchell",
+    "owner": "Gerald",
+    "logan": "Advanced bottom-line application"
+  },
+  {
+    "shop_name": "Rodriguez Inc",
+    "owner": "Stephan",
+    "logan": "Fundamental multimedia contingency"
+  },
+  {
+    "shop_name": "Stamm, Stokes and Spinka",
+    "owner": "Idella",
+    "logan": "Extended systematic instruction set"
+  },
+  {
+    "shop_name": "Gutmann, Rohan and Metz",
+    "owner": "Ethyl",
+    "logan": "Versatile even-keeled ability"
+  },
+  {
+    "shop_name": "Dibbert, Kertzmann and Dickens",
+    "owner": "Skye",
+    "logan": "Upgradable multi-tasking complexity"
+  },
+  {
+    "shop_name": "Jerde - Schmeler",
+    "owner": "Jamil",
+    "logan": "Multi-layered systematic website"
+  },
+  {
+    "shop_name": "Weber Group",
+    "owner": "Juston",
+    "logan": "Reactive client-driven benchmark"
+  },
+  {
+    "shop_name": "Ankunding and Sons",
+    "owner": "Ansel",
+    "logan": "Customizable attitude-oriented array"
+  },
+  {
+    "shop_name": "Gleason Group",
+    "owner": "Shakira",
+    "logan": "Secured bottom-line strategy"
+  },
+  {
+    "shop_name": "Franecki and Sons",
+    "owner": "Roel",
+    "logan": "Re-engineered national implementation"
+  },
+  {
+    "shop_name": "Quitzon - Considine",
+    "owner": "Daniella",
+    "logan": "Multi-layered user-facing support"
+  },
+  {
+    "shop_name": "Gerlach - Bode",
+    "owner": "Ryder",
+    "logan": "Networked asymmetric access"
+  },
+  {
+    "shop_name": "McCullough, Corwin and Wehner",
+    "owner": "Ansel",
+    "logan": "Phased dynamic matrices"
+  },
+  {
+    "shop_name": "Hammes and Sons",
+    "owner": "Ethyl",
+    "logan": "Triple-buffered client-driven middleware"
+  },
+  {
+    "shop_name": "Von, Erdman and Hirthe",
+    "owner": "Dashawn",
+    "logan": "Phased web-enabled encryption"
+  },
+  {
+    "shop_name": "Becker - Eichmann",
+    "owner": "Cooper",
+    "logan": "Customer-focused multi-state database"
+  },
+  {
+    "shop_name": "West - Kertzmann",
+    "owner": "Dena",
+    "logan": "Quality-focused composite projection"
+  },
+  {
+    "shop_name": "Cormier - Nicolas",
+    "owner": "Ida",
+    "logan": "Implemented composite benchmark"
+  },
+  {
+    "shop_name": "Quigley - Ernser",
+    "owner": "Cristal",
+    "logan": "Innovative multi-state workforce"
+  },
+  {
+    "shop_name": "Franecki Group",
+    "owner": "Margie",
+    "logan": "Cross-platform modular conglomeration"
+  },
+  {
+    "shop_name": "Herzog, Schmeler and Casper",
+    "owner": "Madge",
+    "logan": "Centralized static focus group"
+  },
+  {
+    "shop_name": "Gutkowski, Abbott and Dickens",
+    "owner": "Gerald",
+    "logan": "Distributed multi-state hub"
+  },
+  {
+    "shop_name": "Fay Group",
+    "owner": "Nona",
+    "logan": "Up-sized motivating secured line"
+  },
+  {
+    "shop_name": "Mante, Wintheiser and Eichmann",
+    "owner": "Neal",
+    "logan": "Inverse user-facing service-desk"
+  },
+  {
+    "shop_name": "Lockman - Kutch",
+    "owner": "Lily",
+    "logan": "Networked reciprocal methodology"
+  },
+  {
+    "shop_name": "Abshire - Thompson",
+    "owner": "Rosanna",
+    "logan": "Open-architected empowering architecture"
+  },
+  {
+    "shop_name": "Bergstrom, Padberg and Smith",
+    "owner": "Tierra",
+    "logan": "Multi-layered next generation definition"
+  },
+  {
+    "shop_name": "Boyle - McDermott",
+    "owner": "Adolph",
+    "logan": "Extended zero administration instruction set"
+  },
+  {
+    "shop_name": "Cummings - Haag",
+    "owner": "Kailee",
+    "logan": "Horizontal optimal knowledge base"
+  },
+  {
+    "shop_name": "Goyette Group",
+    "owner": "Rhea",
+    "logan": "Cloned optimal function"
+  },
+  {
+    "shop_name": "Corkery, Hodkiewicz and Gutmann",
+    "owner": "Skye",
+    "logan": "Universal composite standardization"
+  },
+  {
+    "shop_name": "Willms, Bernhard and Gorczany",
+    "owner": "Gerson",
+    "logan": "Secured global emulation"
+  },
+  {
+    "shop_name": "O'Keefe - Wyman",
+    "owner": "Helmer",
+    "logan": "Switchable discrete concept"
+  },
+  {
+    "shop_name": "Reynolds, Heller and Kub",
+    "owner": "Johnnie",
+    "logan": "Devolved tertiary concept"
+  },
+  {
+    "shop_name": "Skiles Group",
+    "owner": "Gerhard",
+    "logan": "Digitized empowering extranet"
+  },
+  {
+    "shop_name": "Daugherty LLC",
+    "owner": "Rosanna",
+    "logan": "Extended executive process improvement"
+  },
+  {
+    "shop_name": "Lemke - Adams",
+    "owner": "Madge",
+    "logan": "Operative bandwidth-monitored pricing structure"
+  },
+  {
+    "shop_name": "Dach - Toy",
+    "owner": "Jacinthe",
+    "logan": "Cross-group real-time complexity"
+  },
+  {
+    "shop_name": "Kessler, Doyle and Little",
+    "owner": "Ryder",
+    "logan": "Multi-layered interactive open system"
+  },
+  {
+    "shop_name": "Rau, Murphy and Lakin",
+    "owner": "Idella",
+    "logan": "Profit-focused client-server infrastructure"
+  },
+  {
+    "shop_name": "Considine - Lesch",
+    "owner": "Ethyl",
+    "logan": "Secured fault-tolerant attitude"
+  },
+  {
+    "shop_name": "Weber and Sons",
+    "owner": "Dena",
+    "logan": "Upgradable fresh-thinking functionalities"
+  },
+  {
+    "shop_name": "Schulist, Reinger and Ernser",
+    "owner": "Jayson",
+    "logan": "Sharable optimizing capability"
+  },
+  {
+    "shop_name": "Schmeler, Hauck and Sipes",
+    "owner": "Destini",
+    "logan": "Front-line fresh-thinking data-warehouse"
+  },
+  {
+    "shop_name": "Nicolas - Oberbrunner",
+    "owner": "Sylvester",
+    "logan": "Integrated user-facing framework"
+  },
+  {
+    "shop_name": "Collier - Pfannerstill",
+    "owner": "Trinity",
+    "logan": "Upgradable well-modulated solution"
+  },
+  {
+    "shop_name": "Jast LLC",
+    "owner": "Ethyl",
+    "logan": "Stand-alone executive local area network"
+  },
+  {
+    "shop_name": "Dibbert Group",
+    "owner": "Cody",
+    "logan": "Business-focused user-facing Graphical User Interface"
+  },
+  {
+    "shop_name": "Flatley, Mohr and Zboncak",
+    "owner": "Sammy",
+    "logan": "Object-based asymmetric local area network"
+  },
+  {
+    "shop_name": "McKenzie - Davis",
+    "owner": "Pansy",
+    "logan": "Streamlined 24 hour superstructure"
+  },
+  {
+    "shop_name": "Langworth, Runte and Lueilwitz",
+    "owner": "Dashawn",
+    "logan": "Fully-configurable hybrid strategy"
+  },
+  {
+    "shop_name": "Haley Group",
+    "owner": "Adolph",
+    "logan": "Operative 4th generation groupware"
+  },
+  {
+    "shop_name": "Wunsch, Cruickshank and Rodriguez",
+    "owner": "Sammy",
+    "logan": "Fundamental exuding alliance"
+  },
+  {
+    "shop_name": "Franecki, Reichert and Moen",
+    "owner": "Gerda",
+    "logan": "Implemented content-based secured line"
+  },
+  {
+    "shop_name": "Murray, O'Kon and Ruecker",
+    "owner": "Stuart",
+    "logan": "Upgradable asymmetric groupware"
+  },
+  {
+    "shop_name": "Kunze Group",
+    "owner": "Ena",
+    "logan": "Enhanced 4th generation ability"
+  },
+  {
+    "shop_name": "Quigley - Orn",
+    "owner": "Loren",
+    "logan": "Implemented zero administration toolset"
+  },
+  {
+    "shop_name": "Miller - Hauck",
+    "owner": "Curtis",
+    "logan": "Reverse-engineered holistic complexity"
+  },
+  {
+    "shop_name": "Blanda - Harber",
+    "owner": "Ena",
+    "logan": "Versatile zero defect artificial intelligence"
+  },
+  {
+    "shop_name": "Tremblay LLC",
+    "owner": "Bobbie",
+    "logan": "Profit-focused bifurcated benchmark"
+  },
+  {
+    "shop_name": "Douglas - Ebert",
+    "owner": "Elmira",
+    "logan": "Stand-alone needs-based access"
+  },
+  {
+    "shop_name": "Beer LLC",
+    "owner": "Lorenz",
+    "logan": "Synergized cohesive workforce"
+  },
+  {
+    "shop_name": "Gerlach Group",
+    "owner": "Johann",
+    "logan": "Devolved global time-frame"
+  },
+  {
+    "shop_name": "Fritsch, Conroy and Wunsch",
+    "owner": "Camren",
+    "logan": "Persistent attitude-oriented service-desk"
+  },
+  {
+    "shop_name": "Fahey Group",
+    "owner": "Tristin",
+    "logan": "Object-based eco-centric parallelism"
+  },
+  {
+    "shop_name": "Reichel - White",
+    "owner": "Kailee",
+    "logan": "Customer-focused value-added implementation"
+  },
+  {
+    "shop_name": "Sporer - Metz",
+    "owner": "Otto",
+    "logan": "Team-oriented client-server focus group"
+  },
+  {
+    "shop_name": "McCullough - Metz",
+    "owner": "Kelly",
+    "logan": "Switchable leading edge framework"
+  },
+  {
+    "shop_name": "Marvin, Jenkins and Rosenbaum",
+    "owner": "Cecil",
+    "logan": "Realigned exuding firmware"
+  },
+  {
+    "shop_name": "Parker, Schmeler and Heaney",
+    "owner": "Dandre",
+    "logan": "Networked asymmetric process improvement"
+  },
+  {
+    "shop_name": "Leannon and Sons",
+    "owner": "Gerald",
+    "logan": "Visionary neutral orchestration"
+  },
+  {
+    "shop_name": "Wunsch Group",
+    "owner": "Hilario",
+    "logan": "Re-engineered executive knowledge base"
+  },
+  {
+    "shop_name": "Daniel - Bode",
+    "owner": "Ena",
+    "logan": "Fully-configurable disintermediate emulation"
+  },
+  {
+    "shop_name": "Morissette, Reichert and Waelchi",
+    "owner": "Gerda",
+    "logan": "Vision-oriented empowering database"
+  },
+  {
+    "shop_name": "Bayer, Christiansen and Brakus",
+    "owner": "Dena",
+    "logan": "Function-based neutral website"
+  },
+  {
+    "shop_name": "Gottlieb Group",
+    "owner": "Roel",
+    "logan": "Cloned system-worthy application"
+  },
+  {
+    "shop_name": "Koss LLC",
+    "owner": "Maverick",
+    "logan": "Business-focused well-modulated attitude"
+  },
+  {
+    "shop_name": "Wisoky - Gutmann",
+    "owner": "Watson",
+    "logan": "Advanced value-added software"
+  },
+  {
+    "shop_name": "Miller, Luettgen and Hayes",
+    "owner": "Adolph",
+    "logan": "Intuitive uniform knowledge base"
+  },
+  {
+    "shop_name": "Von - Schowalter",
+    "owner": "Nona",
+    "logan": "Stand-alone dedicated conglomeration"
+  },
+  {
+    "shop_name": "Carter - McClure",
+    "owner": "Ethyl",
+    "logan": "Adaptive even-keeled conglomeration"
+  },
+  {
+    "shop_name": "Johnston - D'Amore",
+    "owner": "Johnnie",
+    "logan": "Versatile static moratorium"
+  },
+  {
+    "shop_name": "Waters, Hahn and Turner",
+    "owner": "Icie",
+    "logan": "Balanced multi-state Graphical User Interface"
+  },
+  {
+    "shop_name": "Grant, Cormier and Krajcik",
+    "owner": "Bert",
+    "logan": "Organized 3rd generation encoding"
+  },
+  {
+    "shop_name": "Hirthe, Bartoletti and Hodkiewicz",
+    "owner": "Idella",
+    "logan": "De-engineered intermediate productivity"
+  },
+  {
+    "shop_name": "Barrows, Keebler and O'Reilly",
+    "owner": "Tierra",
+    "logan": "Progressive attitude-oriented projection"
+  },
+  {
+    "shop_name": "Lueilwitz - Kuphal",
+    "owner": "Savannah",
+    "logan": "Up-sized 24 hour approach"
+  },
+  {
+    "shop_name": "Volkman - Bogisich",
+    "owner": "Dandre",
+    "logan": "Grass-roots secondary service-desk"
+  },
+  {
+    "shop_name": "Larson and Sons",
+    "owner": "Kaia",
+    "logan": "Balanced holistic matrix"
+  },
+  {
+    "shop_name": "Welch - Hermiston",
+    "owner": "Kenyatta",
+    "logan": "Horizontal solution-oriented encoding"
+  },
+  {
+    "shop_name": "Shields Inc",
+    "owner": "Genevieve",
+    "logan": "Progressive high-level customer loyalty"
+  },
+  {
+    "shop_name": "Mayer - Nicolas",
+    "owner": "Loren",
+    "logan": "Public-key bi-directional throughput"
+  },
+  {
+    "shop_name": "Cummings Inc",
+    "owner": "Gerhard",
+    "logan": "Virtual bifurcated array"
+  },
+  {
+    "shop_name": "Weber LLC",
+    "owner": "Kelly",
+    "logan": "Function-based upward-trending interface"
+  },
+  {
+    "shop_name": "Schowalter and Sons",
+    "owner": "Stuart",
+    "logan": "Face to face global focus group"
+  },
+  {
+    "shop_name": "Ankunding Inc",
+    "owner": "Cooper",
+    "logan": "Public-key fault-tolerant methodology"
+  },
+  {
+    "shop_name": "Thompson - Hegmann",
+    "owner": "Idella",
+    "logan": "Cross-platform systemic middleware"
+  },
+  {
+    "shop_name": "Dietrich and Sons",
+    "owner": "Jaylin",
+    "logan": "Business-focused dynamic moratorium"
+  },
+  {
+    "shop_name": "Cassin - Lebsack",
+    "owner": "Dylan",
+    "logan": "Sharable dedicated application"
+  },
+  {
+    "shop_name": "O'Reilly Inc",
+    "owner": "Gerda",
+    "logan": "Fully-configurable multi-state moderator"
+  },
+  {
+    "shop_name": "Jacobi, Dibbert and Mosciski",
+    "owner": "Candida",
+    "logan": "Extended disintermediate initiative"
+  },
+  {
+    "shop_name": "Corwin, Corkery and Abernathy",
+    "owner": "Stuart",
+    "logan": "Integrated analyzing parallelism"
+  },
+  {
+    "shop_name": "Tremblay, Conroy and Raynor",
+    "owner": "Laury",
+    "logan": "Progressive zero tolerance attitude"
+  },
+  {
+    "shop_name": "Connelly, Dietrich and Nikolaus",
+    "owner": "Sidney",
+    "logan": "User-friendly asymmetric utilisation"
+  },
+  {
+    "shop_name": "Blanda and Sons",
+    "owner": "Rosanna",
+    "logan": "Horizontal non-volatile approach"
+  },
+  {
+    "shop_name": "Beier, Stanton and Brekke",
+    "owner": "Sheridan",
+    "logan": "Open-architected eco-centric standardization"
+  },
+  {
+    "shop_name": "Farrell and Sons",
+    "owner": "Margie",
+    "logan": "Progressive well-modulated archive"
+  },
+  {
+    "shop_name": "Parker LLC",
+    "owner": "Rosanna",
+    "logan": "Robust clear-thinking attitude"
+  },
+  {
+    "shop_name": "Stehr - Schowalter",
+    "owner": "Pansy",
+    "logan": "Robust scalable emulation"
+  },
+  {
+    "shop_name": "Hilpert - Hoeger",
+    "owner": "Katarina",
+    "logan": "Profit-focused client-server internet solution"
+  },
+  {
+    "shop_name": "Reinger, Nolan and Brekke",
+    "owner": "Cody",
+    "logan": "Operative static Graphical User Interface"
+  },
+  {
+    "shop_name": "Carroll - Haag",
+    "owner": "Luella",
+    "logan": "Secured fresh-thinking monitoring"
+  },
+  {
+    "shop_name": "Bernier - Mueller",
+    "owner": "Icie",
+    "logan": "Advanced multi-tasking neural-net"
+  },
+  {
+    "shop_name": "Dare and Sons",
+    "owner": "Cristobal",
+    "logan": "Right-sized client-driven core"
+  },
+  {
+    "shop_name": "Ruecker, O'Reilly and Wintheiser",
+    "owner": "Gerson",
+    "logan": "Implemented directional definition"
+  },
+  {
+    "shop_name": "Zboncak, Kilback and Weber",
+    "owner": "Anabelle",
+    "logan": "Persistent holistic neural-net"
+  },
+  {
+    "shop_name": "Tillman Inc",
+    "owner": "Aglae",
+    "logan": "Organic motivating secured line"
+  },
+  {
+    "shop_name": "Jakubowski, Stoltenberg and Luettgen",
+    "owner": "Johann",
+    "logan": "Re-contextualized systematic algorithm"
+  },
+  {
+    "shop_name": "Nitzsche and Sons",
+    "owner": "Elmira",
+    "logan": "Open-architected dedicated groupware"
+  },
+  {
+    "shop_name": "Ernser - Borer",
+    "owner": "Jamil",
+    "logan": "Persistent coherent ability"
+  },
+  {
+    "shop_name": "Hoeger - Smitham",
+    "owner": "Destini",
+    "logan": "Automated non-volatile data-warehouse"
+  },
+  {
+    "shop_name": "Trantow, Klocko and Smith",
+    "owner": "Ryder",
+    "logan": "Public-key tangible interface"
+  },
+  {
+    "shop_name": "Quitzon and Sons",
+    "owner": "Roel",
+    "logan": "Vision-oriented regional complexity"
+  },
+  {
+    "shop_name": "Raynor - Cronin",
+    "owner": "Bert",
+    "logan": "Self-enabling solution-oriented leverage"
+  },
+  {
+    "shop_name": "Gulgowski, Harber and Corkery",
+    "owner": "Shanelle",
+    "logan": "Horizontal even-keeled frame"
+  },
+  {
+    "shop_name": "Botsford - Deckow",
+    "owner": "Pansy",
+    "logan": "Horizontal zero administration function"
+  },
+  {
+    "shop_name": "Ondricka, Greenholt and Herman",
+    "owner": "Otto",
+    "logan": "Progressive executive frame"
+  },
+  {
+    "shop_name": "VonRueden - Russel",
+    "owner": "Kaia",
+    "logan": "Decentralized zero tolerance concept"
+  },
+  {
+    "shop_name": "Gerhold, Ernser and Smith",
+    "owner": "Jaylin",
+    "logan": "Networked encompassing encoding"
+  },
+  {
+    "shop_name": "Hills, Sawayn and Goodwin",
+    "owner": "Ansel",
+    "logan": "Multi-tiered demand-driven hardware"
+  },
+  {
+    "shop_name": "Konopelski - Abbott",
+    "owner": "Dena",
+    "logan": "Mandatory 3rd generation analyzer"
+  },
+  {
+    "shop_name": "Schoen - Gutmann",
+    "owner": "Queenie",
+    "logan": "Digitized methodical frame"
+  },
+  {
+    "shop_name": "Shields and Sons",
+    "owner": "Kaia",
+    "logan": "Configurable explicit alliance"
+  },
+  {
+    "shop_name": "Balistreri, Mosciski and Reinger",
+    "owner": "Ramona",
+    "logan": "Pre-emptive maximized budgetary management"
+  },
+  {
+    "shop_name": "VonRueden Inc",
+    "owner": "Phoebe",
+    "logan": "De-engineered tertiary installation"
+  },
+  {
+    "shop_name": "Swift Group",
+    "owner": "Rosanna",
+    "logan": "Proactive exuding orchestration"
+  },
+  {
+    "shop_name": "O'Conner, Runte and O'Kon",
+    "owner": "Jayson",
+    "logan": "Inverse asynchronous artificial intelligence"
+  },
+  {
+    "shop_name": "Mills - Kuphal",
+    "owner": "Camren",
+    "logan": "Devolved scalable synergy"
+  },
+  {
+    "shop_name": "Mills - Lynch",
+    "owner": "Luella",
+    "logan": "Digitized object-oriented secured line"
+  },
+  {
+    "shop_name": "Connelly, Frami and Hauck",
+    "owner": "Stuart",
+    "logan": "Adaptive value-added paradigm"
+  },
+  {
+    "shop_name": "Schumm and Sons",
+    "owner": "Rhea",
+    "logan": "Compatible didactic emulation"
+  },
+  {
+    "shop_name": "Block - Wilderman",
+    "owner": "Lorenz",
+    "logan": "Profit-focused needs-based hierarchy"
+  },
+  {
+    "shop_name": "Hettinger - Bernier",
+    "owner": "Trinity",
+    "logan": "Triple-buffered human-resource intranet"
+  },
+  {
+    "shop_name": "Wilkinson - Klein",
+    "owner": "Ramona",
+    "logan": "Centralized foreground pricing structure"
+  },
+  {
+    "shop_name": "Von Inc",
+    "owner": "Stuart",
+    "logan": "Cross-platform zero administration benchmark"
+  },
+  {
+    "shop_name": "Schiller Inc",
+    "owner": "Destini",
+    "logan": "Virtual scalable productivity"
+  },
+  {
+    "shop_name": "Mertz - Rempel",
+    "owner": "Neal",
+    "logan": "Devolved high-level extranet"
+  },
+  {
+    "shop_name": "Fadel LLC",
+    "owner": "Roel",
+    "logan": "Managed logistical definition"
+  },
+  {
+    "shop_name": "Padberg Inc",
+    "owner": "Destini",
+    "logan": "Polarised didactic toolset"
+  },
+  {
+    "shop_name": "Jacobi - Rempel",
+    "owner": "Jaylin",
+    "logan": "Phased needs-based software"
+  },
+  {
+    "shop_name": "Luettgen, Hahn and Jacobi",
+    "owner": "Fidel",
+    "logan": "Pre-emptive next generation migration"
+  },
+  {
+    "shop_name": "Lemke - Zulauf",
+    "owner": "Loren",
+    "logan": "Decentralized leading edge knowledge base"
+  },
+  {
+    "shop_name": "Murphy, Torp and Graham",
+    "owner": "Cindy",
+    "logan": "Function-based discrete collaboration"
+  },
+  {
+    "shop_name": "Prosacco Inc",
+    "owner": "Stephan",
+    "logan": "Multi-tiered non-volatile product"
+  },
+  {
+    "shop_name": "Stokes, Miller and Nitzsche",
+    "owner": "Johnnie",
+    "logan": "Cloned bandwidth-monitored attitude"
+  },
+  {
+    "shop_name": "Emard, Oberbrunner and Ruecker",
+    "owner": "Theo",
+    "logan": "Innovative executive workforce"
+  },
+  {
+    "shop_name": "Lind - Oberbrunner",
+    "owner": "Candida",
+    "logan": "Upgradable system-worthy implementation"
+  },
+  {
+    "shop_name": "Douglas - O'Keefe",
+    "owner": "Alycia",
+    "logan": "Down-sized solution-oriented internet solution"
+  },
+  {
+    "shop_name": "Schulist, Parisian and Schowalter",
+    "owner": "Idella",
+    "logan": "Progressive bi-directional benchmark"
+  },
+  {
+    "shop_name": "Doyle - Wolff",
+    "owner": "Greyson",
+    "logan": "Operative analyzing initiative"
+  },
+  {
+    "shop_name": "Wiza - Kris",
+    "owner": "Ida",
+    "logan": "Right-sized attitude-oriented matrices"
+  },
+  {
+    "shop_name": "Rohan Group",
+    "owner": "Anabelle",
+    "logan": "Virtual solution-oriented customer loyalty"
+  },
+  {
+    "shop_name": "O'Kon - Lakin",
+    "owner": "Adolph",
+    "logan": "Streamlined cohesive encryption"
+  },
+  {
+    "shop_name": "Roberts, Schuster and Harber",
+    "owner": "Kenyatta",
+    "logan": "Secured reciprocal methodology"
+  },
+  {
+    "shop_name": "Schmitt LLC",
+    "owner": "Rhett",
+    "logan": "User-centric local time-frame"
+  },
+  {
+    "shop_name": "Ratke, Carter and Maggio",
+    "owner": "Tierra",
+    "logan": "Versatile explicit protocol"
+  },
+  {
+    "shop_name": "Moore and Sons",
+    "owner": "Cindy",
+    "logan": "Secured logistical artificial intelligence"
+  },
+  {
+    "shop_name": "Bartoletti and Sons",
+    "owner": "Nona",
+    "logan": "Synergized eco-centric service-desk"
+  },
+  {
+    "shop_name": "Bosco - Corwin",
+    "owner": "Fidel",
+    "logan": "Managed mission-critical alliance"
+  },
+  {
+    "shop_name": "Abbott - Schiller",
+    "owner": "Savannah",
+    "logan": "Adaptive high-level open system"
+  },
+  {
+    "shop_name": "Berge, Pacocha and Kassulke",
+    "owner": "Tierra",
+    "logan": "Re-contextualized bandwidth-monitored emulation"
+  },
+  {
+    "shop_name": "Stiedemann LLC",
+    "owner": "Ethyl",
+    "logan": "Pre-emptive user-facing interface"
+  },
+  {
+    "shop_name": "Welch, Sawayn and Leannon",
+    "owner": "Cristal",
+    "logan": "Stand-alone asynchronous capacity"
+  },
+  {
+    "shop_name": "Barton Inc",
+    "owner": "Tierra",
+    "logan": "Horizontal value-added Graphical User Interface"
+  },
+  {
+    "shop_name": "Will Group",
+    "owner": "Dena",
+    "logan": "Team-oriented asymmetric conglomeration"
+  },
+  {
+    "shop_name": "Fritsch Group",
+    "owner": "Luella",
+    "logan": "Exclusive 3rd generation open architecture"
+  },
+  {
+    "shop_name": "Bernhard, Muller and Koch",
+    "owner": "Rosanna",
+    "logan": "Stand-alone global conglomeration"
+  },
+  {
+    "shop_name": "Olson - Roob",
+    "owner": "Nona",
+    "logan": "Automated attitude-oriented internet solution"
+  },
+  {
+    "shop_name": "Hegmann - Reynolds",
+    "owner": "Gerald",
+    "logan": "Re-contextualized contextually-based portal"
+  },
+  {
+    "shop_name": "Graham LLC",
+    "owner": "Uriel",
+    "logan": "Implemented systematic monitoring"
+  },
+  {
+    "shop_name": "Funk, Nitzsche and Kuhlman",
+    "owner": "Patricia",
+    "logan": "Multi-lateral contextually-based emulation"
+  },
+  {
+    "shop_name": "Schroeder - Gutmann",
+    "owner": "Cristobal",
+    "logan": "Reverse-engineered fault-tolerant alliance"
+  },
+  {
+    "shop_name": "Douglas, Quitzon and Christiansen",
+    "owner": "Sylvester",
+    "logan": "Cross-platform system-worthy contingency"
+  },
+  {
+    "shop_name": "Bogisich - McLaughlin",
+    "owner": "Raven",
+    "logan": "Vision-oriented human-resource encryption"
+  },
+  {
+    "shop_name": "Medhurst, Schaden and Klocko",
+    "owner": "Gerda",
+    "logan": "Optional didactic time-frame"
+  },
+  {
+    "shop_name": "Gleichner - Schaefer",
+    "owner": "Ryder",
+    "logan": "Reverse-engineered secondary infrastructure"
+  },
+  {
+    "shop_name": "Parisian LLC",
+    "owner": "Elmira",
+    "logan": "Customizable heuristic middleware"
+  },
+  {
+    "shop_name": "Wisoky - Wiegand",
+    "owner": "Tierra",
+    "logan": "Managed human-resource budgetary management"
+  },
+  {
+    "shop_name": "Wintheiser - Greenfelder",
+    "owner": "Celestino",
+    "logan": "Enterprise-wide bottom-line forecast"
+  },
+  {
+    "shop_name": "Ankunding, Luettgen and Nicolas",
+    "owner": "Fidel",
+    "logan": "Balanced solution-oriented emulation"
+  },
+  {
+    "shop_name": "Parisian - Sporer",
+    "owner": "Jaylin",
+    "logan": "Fully-configurable analyzing function"
+  },
+  {
+    "shop_name": "Schaden - Herzog",
+    "owner": "Bobbie",
+    "logan": "Extended client-server emulation"
+  },
+  {
+    "shop_name": "Ankunding - Wisozk",
+    "owner": "Queenie",
+    "logan": "Universal motivating synergy"
+  },
+  {
+    "shop_name": "Cole LLC",
+    "owner": "Shakira",
+    "logan": "Right-sized fault-tolerant help-desk"
+  },
+  {
+    "shop_name": "Lowe, Witting and Aufderhar",
+    "owner": "Bert",
+    "logan": "Multi-lateral well-modulated projection"
+  },
+  {
+    "shop_name": "Schmeler Inc",
+    "owner": "Kaia",
+    "logan": "Stand-alone transitional neural-net"
+  },
+  {
+    "shop_name": "Langworth - McDermott",
+    "owner": "Sidney",
+    "logan": "Cross-group methodical project"
+  },
+  {
+    "shop_name": "Eichmann, Shanahan and Lehner",
+    "owner": "Loren",
+    "logan": "Business-focused multimedia synergy"
+  },
+  {
+    "shop_name": "Kulas, Ebert and Lakin",
+    "owner": "Celestino",
+    "logan": "Ameliorated multimedia conglomeration"
+  },
+  {
+    "shop_name": "Baumbach Group",
+    "owner": "Gerald",
+    "logan": "Expanded non-volatile archive"
+  },
+  {
+    "shop_name": "Kuvalis Inc",
+    "owner": "Aglae",
+    "logan": "Re-engineered neutral knowledge user"
+  },
+  {
+    "shop_name": "Schimmel - Hartmann",
+    "owner": "Tristin",
+    "logan": "Intuitive system-worthy function"
+  },
+  {
+    "shop_name": "Gerhold - Kunde",
+    "owner": "Tierra",
+    "logan": "Object-based clear-thinking structure"
+  },
+  {
+    "shop_name": "McLaughlin, Franecki and Mante",
+    "owner": "Luella",
+    "logan": "Reactive fresh-thinking architecture"
+  },
+  {
+    "shop_name": "Pfannerstill and Sons",
+    "owner": "Helmer",
+    "logan": "De-engineered coherent open system"
+  },
+  {
+    "shop_name": "Bradtke, Bashirian and Marks",
+    "owner": "Jacinthe",
+    "logan": "Front-line user-facing encoding"
+  },
+  {
+    "shop_name": "Witting, Wintheiser and Kub",
+    "owner": "Ansel",
+    "logan": "Fundamental object-oriented flexibility"
+  },
+  {
+    "shop_name": "Schroeder - Little",
+    "owner": "Richie",
+    "logan": "Triple-buffered asynchronous moratorium"
+  },
+  {
+    "shop_name": "Rippin LLC",
+    "owner": "Icie",
+    "logan": "User-centric non-volatile contingency"
+  },
+  {
+    "shop_name": "Beahan Group",
+    "owner": "Gerhard",
+    "logan": "Decentralized bifurcated software"
+  },
+  {
+    "shop_name": "Ondricka - Connelly",
+    "owner": "Cindy",
+    "logan": "Horizontal attitude-oriented support"
+  },
+  {
+    "shop_name": "Dietrich LLC",
+    "owner": "Gerald",
+    "logan": "Sharable stable local area network"
+  },
+  {
+    "shop_name": "Cummings LLC",
+    "owner": "Ramona",
+    "logan": "Sharable composite Graphical User Interface"
+  },
+  {
+    "shop_name": "Kris, Ziemann and O'Hara",
+    "owner": "Ethyl",
+    "logan": "Seamless modular flexibility"
+  },
+  {
+    "shop_name": "Yost - Lang",
+    "owner": "Otto",
+    "logan": "Multi-lateral maximized monitoring"
+  },
+  {
+    "shop_name": "Kris - Zboncak",
+    "owner": "Savannah",
+    "logan": "Optional national superstructure"
+  },
+  {
+    "shop_name": "O'Conner - Grant",
+    "owner": "Stuart",
+    "logan": "Enterprise-wide zero tolerance encoding"
+  },
+  {
+    "shop_name": "Lehner, Ondricka and Wisoky",
+    "owner": "Greyson",
+    "logan": "Fundamental next generation collaboration"
+  },
+  {
+    "shop_name": "Feil, Hahn and Schumm",
+    "owner": "Kenyatta",
+    "logan": "Progressive tangible pricing structure"
+  },
+  {
+    "shop_name": "Kris and Sons",
+    "owner": "Theo",
+    "logan": "Intuitive context-sensitive initiative"
+  },
+  {
+    "shop_name": "Dibbert - Jenkins",
+    "owner": "Fidel",
+    "logan": "Switchable zero administration toolset"
+  },
+  {
+    "shop_name": "Abernathy - Hayes",
+    "owner": "Loren",
+    "logan": "Organic contextually-based secured line"
+  },
+  {
+    "shop_name": "Witting and Sons",
+    "owner": "Watson",
+    "logan": "Compatible real-time utilisation"
+  },
+  {
+    "shop_name": "Sauer, Raynor and Hane",
+    "owner": "Cindy",
+    "logan": "Visionary object-oriented Graphic Interface"
+  },
+  {
+    "shop_name": "Lemke, Schmidt and Ebert",
+    "owner": "Mable",
+    "logan": "Organic bandwidth-monitored adapter"
+  },
+  {
+    "shop_name": "Sanford, Koepp and Hane",
+    "owner": "Uriel",
+    "logan": "Team-oriented multi-tasking throughput"
+  },
+  {
+    "shop_name": "Wuckert Inc",
+    "owner": "Jaylin",
+    "logan": "Mandatory bi-directional ability"
+  },
+  {
+    "shop_name": "Ondricka LLC",
+    "owner": "Dwight",
+    "logan": "Centralized tangible access"
+  },
+  {
+    "shop_name": "Abernathy, Lockman and Feil",
+    "owner": "Lily",
+    "logan": "Multi-layered logistical complexity"
+  },
+  {
+    "shop_name": "Cummings and Sons",
+    "owner": "Cecil",
+    "logan": "Polarised clear-thinking solution"
+  },
+  {
+    "shop_name": "Kovacek - Hyatt",
+    "owner": "Adolph",
+    "logan": "Optimized zero defect system engine"
+  },
+  {
+    "shop_name": "Goyette - Hintz",
+    "owner": "Nona",
+    "logan": "Centralized didactic matrices"
+  },
+  {
+    "shop_name": "Weissnat, Reilly and Lind",
+    "owner": "Cindy",
+    "logan": "Polarised system-worthy groupware"
+  },
+  {
+    "shop_name": "Collier, Casper and Predovic",
+    "owner": "Adolph",
+    "logan": "Quality-focused cohesive Graphical User Interface"
+  },
+  {
+    "shop_name": "Ondricka, Crist and Cruickshank",
+    "owner": "Ramona",
+    "logan": "Multi-lateral foreground neural-net"
+  },
+  {
+    "shop_name": "Lemke, Weimann and Bartoletti",
+    "owner": "Cleo",
+    "logan": "Balanced static approach"
+  },
+  {
+    "shop_name": "Nader, Schumm and Donnelly",
+    "owner": "Monserrate",
+    "logan": "Secured bottom-line open architecture"
+  },
+  {
+    "shop_name": "Wilderman - Hegmann",
+    "owner": "Cindy",
+    "logan": "Digitized motivating architecture"
+  },
+  {
+    "shop_name": "Emard, Walter and Kuhn",
+    "owner": "Elmira",
+    "logan": "Future-proofed object-oriented circuit"
+  },
+  {
+    "shop_name": "Kuvalis - Wiza",
+    "owner": "Ansel",
+    "logan": "Distributed local paradigm"
+  },
+  {
+    "shop_name": "Smitham, Buckridge and Mraz",
+    "owner": "Monserrate",
+    "logan": "Multi-channelled optimal benchmark"
+  },
+  {
+    "shop_name": "Block, Mosciski and Mertz",
+    "owner": "Theo",
+    "logan": "Innovative 5th generation database"
+  },
+  {
+    "shop_name": "Kovacek, Wisozk and Beahan",
+    "owner": "Katarina",
+    "logan": "Ameliorated global hub"
+  },
+  {
+    "shop_name": "Lockman and Sons",
+    "owner": "Vicky",
+    "logan": "Intuitive bottom-line functionalities"
+  },
+  {
+    "shop_name": "Farrell - White",
+    "owner": "Dwight",
+    "logan": "Operative empowering customer loyalty"
+  },
+  {
+    "shop_name": "Jenkins - Heidenreich",
+    "owner": "Sylvester",
+    "logan": "Profit-focused national groupware"
+  },
+  {
+    "shop_name": "Von and Sons",
+    "owner": "Laury",
+    "logan": "Visionary web-enabled strategy"
+  },
+  {
+    "shop_name": "Kautzer LLC",
+    "owner": "Shakira",
+    "logan": "Face to face high-level moratorium"
+  },
+  {
+    "shop_name": "Collier, Kuhlman and Emard",
+    "owner": "Katarina",
+    "logan": "Customizable full-range infrastructure"
+  },
+  {
+    "shop_name": "West, Daugherty and Greenfelder",
+    "owner": "Cristobal",
+    "logan": "Vision-oriented background solution"
+  },
+  {
+    "shop_name": "Schmeler, Nienow and Quigley",
+    "owner": "Greyson",
+    "logan": "Visionary 6th generation local area network"
+  },
+  {
+    "shop_name": "Nitzsche - Rippin",
+    "owner": "Jamil",
+    "logan": "Open-source full-range access"
+  },
+  {
+    "shop_name": "Gaylord, Steuber and Schowalter",
+    "owner": "Bobbie",
+    "logan": "Upgradable zero administration hierarchy"
+  },
+  {
+    "shop_name": "Hagenes LLC",
+    "owner": "Elmira",
+    "logan": "Ergonomic value-added synergy"
+  },
+  {
+    "shop_name": "Cummerata - Rodriguez",
+    "owner": "Idella",
+    "logan": "Digitized content-based emulation"
+  },
+  {
+    "shop_name": "Cronin, Dietrich and Koss",
+    "owner": "Jamil",
+    "logan": "Cross-group tertiary product"
+  },
+  {
+    "shop_name": "Hayes, Wyman and Hudson",
+    "owner": "Savannah",
+    "logan": "Universal analyzing secured line"
+  },
+  {
+    "shop_name": "Schmidt, Quitzon and Spinka",
+    "owner": "Alycia",
+    "logan": "Multi-channelled needs-based policy"
+  },
+  {
+    "shop_name": "Daniel LLC",
+    "owner": "Destini",
+    "logan": "Grass-roots foreground local area network"
+  },
+  {
+    "shop_name": "Williamson, Daniel and Kuhlman",
+    "owner": "Otto",
+    "logan": "Intuitive exuding challenge"
+  },
+  {
+    "shop_name": "Herzog - Powlowski",
+    "owner": "Watson",
+    "logan": "Multi-tiered responsive projection"
+  },
+  {
+    "shop_name": "Christiansen - Olson",
+    "owner": "Otto",
+    "logan": "Sharable contextually-based architecture"
+  },
+  {
+    "shop_name": "Wilkinson - Stiedemann",
+    "owner": "Sylvester",
+    "logan": "Multi-tiered client-driven knowledge user"
+  },
+  {
+    "shop_name": "Funk, Satterfield and Mraz",
+    "owner": "Madge",
+    "logan": "Virtual asynchronous array"
+  },
+  {
+    "shop_name": "Douglas LLC",
+    "owner": "Cecil",
+    "logan": "Reverse-engineered 5th generation core"
+  },
+  {
+    "shop_name": "Walter, Vandervort and Konopelski",
+    "owner": "Stuart",
+    "logan": "Digitized 4th generation contingency"
+  },
+  {
+    "shop_name": "Ortiz - Block",
+    "owner": "Nyah",
+    "logan": "Reverse-engineered systemic forecast"
+  },
+  {
+    "shop_name": "Erdman - Veum",
+    "owner": "Sylvester",
+    "logan": "Reactive empowering portal"
+  },
+  {
+    "shop_name": "Sauer - Grimes",
+    "owner": "Roel",
+    "logan": "Optional systematic focus group"
+  },
+  {
+    "shop_name": "Carroll and Sons",
+    "owner": "Ramona",
+    "logan": "Synergized reciprocal emulation"
+  },
+  {
+    "shop_name": "Gleichner, Parisian and Bosco",
+    "owner": "Tristin",
+    "logan": "Object-based tangible capability"
+  },
+  {
+    "shop_name": "Strosin - Klocko",
+    "owner": "Richie",
+    "logan": "Customer-focused needs-based paradigm"
+  },
+  {
+    "shop_name": "Ward, Bashirian and Gusikowski",
+    "owner": "Ida",
+    "logan": "Phased scalable utilisation"
+  },
+  {
+    "shop_name": "Cruickshank - Weimann",
+    "owner": "Uriel",
+    "logan": "Enterprise-wide tertiary moratorium"
+  },
+  {
+    "shop_name": "Sipes - Turner",
+    "owner": "Candida",
+    "logan": "Automated methodical architecture"
+  },
+  {
+    "shop_name": "Sauer and Sons",
+    "owner": "Curtis",
+    "logan": "Progressive background product"
+  },
+  {
+    "shop_name": "Durgan and Sons",
+    "owner": "Mathias",
+    "logan": "Seamless analyzing orchestration"
+  },
+  {
+    "shop_name": "Marks, Brekke and Hammes",
+    "owner": "Skye",
+    "logan": "Focused leading edge infrastructure"
+  },
+  {
+    "shop_name": "Cummings, Block and Bode",
+    "owner": "Daniella",
+    "logan": "Reduced next generation software"
+  },
+  {
+    "shop_name": "Quigley, Gerhold and Kutch",
+    "owner": "Shakira",
+    "logan": "Fundamental multimedia orchestration"
+  },
+  {
+    "shop_name": "Stamm LLC",
+    "owner": "Cody",
+    "logan": "Multi-layered high-level project"
+  },
+  {
+    "shop_name": "Berge - Dicki",
+    "owner": "Genevieve",
+    "logan": "Polarised mission-critical firmware"
+  },
+  {
+    "shop_name": "Rowe, Schowalter and Thompson",
+    "owner": "Vicky",
+    "logan": "Extended homogeneous contingency"
+  },
+  {
+    "shop_name": "Lesch, Krajcik and Kunze",
+    "owner": "Trinity",
+    "logan": "Configurable logistical system engine"
+  },
+  {
+    "shop_name": "Hudson LLC",
+    "owner": "Theo",
+    "logan": "Inverse mission-critical instruction set"
+  },
+  {
+    "shop_name": "Spinka, Hudson and Grant",
+    "owner": "Tierra",
+    "logan": "Reduced multi-state ability"
+  },
+  {
+    "shop_name": "Runolfsson LLC",
+    "owner": "Raven",
+    "logan": "Exclusive fault-tolerant challenge"
+  },
+  {
+    "shop_name": "Casper, Fadel and Waters",
+    "owner": "Gerda",
+    "logan": "Organic explicit protocol"
+  },
+  {
+    "shop_name": "Hauck - Runolfsdottir",
+    "owner": "Stephan",
+    "logan": "Ameliorated asymmetric complexity"
+  },
+  {
+    "shop_name": "Hickle Group",
+    "owner": "Gerda",
+    "logan": "Focused intermediate forecast"
+  },
+  {
+    "shop_name": "Goodwin, Schmeler and Wintheiser",
+    "owner": "Daniella",
+    "logan": "Robust 6th generation productivity"
+  },
+  {
+    "shop_name": "Haag and Sons",
+    "owner": "Johnnie",
+    "logan": "Vision-oriented attitude-oriented software"
+  },
+  {
+    "shop_name": "Pfannerstill, Purdy and Satterfield",
+    "owner": "Lily",
+    "logan": "Quality-focused content-based workforce"
+  },
+  {
+    "shop_name": "Champlin and Sons",
+    "owner": "Elmira",
+    "logan": "Synchronised tertiary superstructure"
+  },
+  {
+    "shop_name": "Ward LLC",
+    "owner": "Cody",
+    "logan": "Polarised high-level algorithm"
+  },
+  {
+    "shop_name": "Bergstrom - Jerde",
+    "owner": "Candida",
+    "logan": "Enterprise-wide multimedia initiative"
+  },
+  {
+    "shop_name": "Kilback LLC",
+    "owner": "Savannah",
+    "logan": "Sharable disintermediate archive"
+  },
+  {
+    "shop_name": "Schmitt - Johns",
+    "owner": "Mable",
+    "logan": "Extended demand-driven time-frame"
+  },
+  {
+    "shop_name": "Sipes LLC",
+    "owner": "Bobbie",
+    "logan": "Open-architected explicit analyzer"
+  },
+  {
+    "shop_name": "Hilll - Johnston",
+    "owner": "Curtis",
+    "logan": "Monitored exuding firmware"
+  },
+  {
+    "shop_name": "Yost - Buckridge",
+    "owner": "Rosanna",
+    "logan": "Profit-focused global database"
+  },
+  {
+    "shop_name": "Strosin Group",
+    "owner": "Dwight",
+    "logan": "Virtual local policy"
+  },
+  {
+    "shop_name": "Leffler, Pollich and Mertz",
+    "owner": "Icie",
+    "logan": "Multi-layered dedicated infrastructure"
+  },
+  {
+    "shop_name": "Klein, Wilderman and Wilderman",
+    "owner": "Helmer",
+    "logan": "Re-engineered impactful forecast"
+  },
+  {
+    "shop_name": "Crist, Rolfson and Koepp",
+    "owner": "Kelly",
+    "logan": "Digitized discrete local area network"
+  },
+  {
+    "shop_name": "Beahan - Ward",
+    "owner": "Jaylin",
+    "logan": "Reactive contextually-based knowledge user"
+  },
+  {
+    "shop_name": "Raynor, Prosacco and Beatty",
+    "owner": "Bennett",
+    "logan": "Open-architected global monitoring"
+  },
+  {
+    "shop_name": "Hamill LLC",
+    "owner": "Ryder",
+    "logan": "Cross-platform high-level pricing structure"
+  },
+  {
+    "shop_name": "Howell Group",
+    "owner": "Shakira",
+    "logan": "Synergistic disintermediate circuit"
+  },
+  {
+    "shop_name": "Dach LLC",
+    "owner": "Kailee",
+    "logan": "Profit-focused national encryption"
+  },
+  {
+    "shop_name": "Auer - Ankunding",
+    "owner": "Destini",
+    "logan": "Universal high-level access"
+  },
+  {
+    "shop_name": "Hauck - Harber",
+    "owner": "Jacinthe",
+    "logan": "Vision-oriented content-based complexity"
+  },
+  {
+    "shop_name": "Wisozk - Bosco",
+    "owner": "Gerda",
+    "logan": "Networked bandwidth-monitored hierarchy"
+  },
+  {
+    "shop_name": "Prohaska - Thompson",
+    "owner": "Mable",
+    "logan": "Optional value-added encryption"
+  },
+  {
+    "shop_name": "Morissette - Haag",
+    "owner": "Patricia",
+    "logan": "De-engineered mobile encoding"
+  },
+  {
+    "shop_name": "Mills, Huels and Predovic",
+    "owner": "Monserrate",
+    "logan": "Grass-roots client-driven collaboration"
+  },
+  {
+    "shop_name": "Koepp Group",
+    "owner": "Jaylin",
+    "logan": "Organic disintermediate complexity"
+  },
+  {
+    "shop_name": "Wolf - Herzog",
+    "owner": "Cleo",
+    "logan": "Integrated local synergy"
+  },
+  {
+    "shop_name": "Christiansen, Zulauf and Bergstrom",
+    "owner": "Candida",
+    "logan": "Re-contextualized demand-driven orchestration"
+  },
+  {
+    "shop_name": "McClure - Christiansen",
+    "owner": "Sylvester",
+    "logan": "Realigned global approach"
+  },
+  {
+    "shop_name": "Schamberger - Schinner",
+    "owner": "Luella",
+    "logan": "Advanced neutral internet solution"
+  },
+  {
+    "shop_name": "Hoppe, Lockman and Senger",
+    "owner": "Kaia",
+    "logan": "Programmable 6th generation model"
+  },
+  {
+    "shop_name": "Tromp - Kuhic",
+    "owner": "Rhea",
+    "logan": "Devolved next generation concept"
+  },
+  {
+    "shop_name": "Cole - Gutmann",
+    "owner": "Camren",
+    "logan": "Horizontal discrete circuit"
+  },
+  {
+    "shop_name": "Schaefer - Bashirian",
+    "owner": "Stephan",
+    "logan": "Enterprise-wide incremental solution"
+  },
+  {
+    "shop_name": "Murazik, O'Connell and Runolfsson",
+    "owner": "Mable",
+    "logan": "Devolved intermediate task-force"
+  },
+  {
+    "shop_name": "Romaguera Inc",
+    "owner": "Nyah",
+    "logan": "Object-based well-modulated neural-net"
+  },
+  {
+    "shop_name": "Block LLC",
+    "owner": "Tierra",
+    "logan": "Stand-alone multimedia collaboration"
+  },
+  {
+    "shop_name": "Carter, King and Crist",
+    "owner": "Cristal",
+    "logan": "Expanded motivating extranet"
+  },
+  {
+    "shop_name": "Lehner - Mohr",
+    "owner": "Rex",
+    "logan": "Optional 3rd generation contingency"
+  },
+  {
+    "shop_name": "McDermott, Stark and White",
+    "owner": "Trinity",
+    "logan": "Secured foreground standardization"
+  },
+  {
+    "shop_name": "Moore - Beahan",
+    "owner": "Laury",
+    "logan": "Focused full-range circuit"
+  },
+  {
+    "shop_name": "Wunsch - Johnston",
+    "owner": "Katarina",
+    "logan": "Robust actuating encryption"
+  },
+  {
+    "shop_name": "Windler and Sons",
+    "owner": "Kailee",
+    "logan": "Sharable fault-tolerant complexity"
+  },
+  {
+    "shop_name": "Turcotte, Glover and Walsh",
+    "owner": "Dwight",
+    "logan": "Multi-lateral 5th generation capability"
+  },
+  {
+    "shop_name": "Denesik - Mertz",
+    "owner": "Ryder",
+    "logan": "Managed secondary throughput"
+  },
+  {
+    "shop_name": "Muller Group",
+    "owner": "Jamil",
+    "logan": "Reduced directional hub"
+  },
+  {
+    "shop_name": "Frami, Gleichner and Luettgen",
+    "owner": "Dylan",
+    "logan": "Front-line responsive info-mediaries"
+  },
+  {
+    "shop_name": "Stamm and Sons",
+    "owner": "Rhea",
+    "logan": "Quality-focused global definition"
+  },
+  {
+    "shop_name": "Barrows - Sanford",
+    "owner": "Johnnie",
+    "logan": "Universal methodical definition"
+  },
+  {
+    "shop_name": "Fisher, Grimes and Roberts",
+    "owner": "Cristobal",
+    "logan": "Secured non-volatile extranet"
+  },
+  {
+    "shop_name": "Glover and Sons",
+    "owner": "Daniella",
+    "logan": "Exclusive national orchestration"
+  },
+  {
+    "shop_name": "Kirlin - Ratke",
+    "owner": "Sheridan",
+    "logan": "Enterprise-wide logistical throughput"
+  },
+  {
+    "shop_name": "Collins Inc",
+    "owner": "Maxwell",
+    "logan": "Triple-buffered maximized local area network"
+  },
+  {
+    "shop_name": "Hand, Witting and Champlin",
+    "owner": "Madge",
+    "logan": "Assimilated content-based contingency"
+  },
+  {
+    "shop_name": "Boehm, Tromp and Swaniawski",
+    "owner": "Genevieve",
+    "logan": "Object-based content-based complexity"
+  },
+  {
+    "shop_name": "Wunsch - Bernier",
+    "owner": "Ramona",
+    "logan": "Upgradable neutral matrix"
+  },
+  {
+    "shop_name": "O'Hara LLC",
+    "owner": "Celestino",
+    "logan": "Enhanced coherent conglomeration"
+  },
+  {
+    "shop_name": "Farrell - Ferry",
+    "owner": "Ethyl",
+    "logan": "Ameliorated upward-trending circuit"
+  },
+  {
+    "shop_name": "Lesch, Dicki and Stracke",
+    "owner": "Jacinthe",
+    "logan": "Optional hybrid matrix"
+  },
+  {
+    "shop_name": "Cruickshank, Stokes and Doyle",
+    "owner": "Ena",
+    "logan": "Stand-alone fresh-thinking support"
+  },
+  {
+    "shop_name": "Feeney, Heller and Pollich",
+    "owner": "Richie",
+    "logan": "Profit-focused 24 hour project"
+  },
+  {
+    "shop_name": "Paucek LLC",
+    "owner": "Dena",
+    "logan": "Digitized fresh-thinking customer loyalty"
+  },
+  {
+    "shop_name": "Pollich LLC",
+    "owner": "Cindy",
+    "logan": "User-centric dynamic superstructure"
+  },
+  {
+    "shop_name": "Conroy and Sons",
+    "owner": "Curtis",
+    "logan": "Customer-focused eco-centric firmware"
+  },
+  {
+    "shop_name": "Morissette - Jacobs",
+    "owner": "Sylvester",
+    "logan": "Seamless dedicated capacity"
+  },
+  {
+    "shop_name": "McGlynn - Cummings",
+    "owner": "Mable",
+    "logan": "Multi-lateral foreground pricing structure"
+  },
+  {
+    "shop_name": "Mann and Sons",
+    "owner": "Johnnie",
+    "logan": "Function-based solution-oriented utilisation"
+  },
+  {
+    "shop_name": "Kerluke - Ziemann",
+    "owner": "Cody",
+    "logan": "Digitized background forecast"
+  },
+  {
+    "shop_name": "Swaniawski - Bailey",
+    "owner": "Bert",
+    "logan": "Distributed real-time open architecture"
+  },
+  {
+    "shop_name": "McKenzie LLC",
+    "owner": "Hilario",
+    "logan": "Secured disintermediate model"
+  },
+  {
+    "shop_name": "West Group",
+    "owner": "Anabelle",
+    "logan": "Profound leading edge matrix"
+  },
+  {
+    "shop_name": "Kertzmann, Terry and Prohaska",
+    "owner": "Jayson",
+    "logan": "Automated bi-directional service-desk"
+  },
+  {
+    "shop_name": "Kuphal, Shanahan and Bruen",
+    "owner": "Uriel",
+    "logan": "Stand-alone directional collaboration"
+  },
+  {
+    "shop_name": "Emard, Hilpert and Considine",
+    "owner": "Jamil",
+    "logan": "Mandatory 3rd generation synergy"
+  },
+  {
+    "shop_name": "Treutel, Crona and Nienow",
+    "owner": "Helmer",
+    "logan": "Cross-group optimizing capacity"
+  },
+  {
+    "shop_name": "Trantow - Hilll",
+    "owner": "Cecil",
+    "logan": "Mandatory dedicated migration"
+  },
+  {
+    "shop_name": "Hills - Emard",
+    "owner": "Rex",
+    "logan": "Self-enabling zero defect installation"
+  },
+  {
+    "shop_name": "Wolff LLC",
+    "owner": "Curtis",
+    "logan": "Synergized needs-based matrices"
+  },
+  {
+    "shop_name": "Bechtelar, Shanahan and Brekke",
+    "owner": "Fidel",
+    "logan": "Profit-focused composite flexibility"
+  },
+  {
+    "shop_name": "Hartmann - Sanford",
+    "owner": "Uriel",
+    "logan": "Organic cohesive paradigm"
+  },
+  {
+    "shop_name": "Swaniawski - Hahn",
+    "owner": "Fidel",
+    "logan": "Adaptive bandwidth-monitored knowledge user"
+  },
+  {
+    "shop_name": "Buckridge, Osinski and Koelpin",
+    "owner": "Helmer",
+    "logan": "Public-key bifurcated installation"
+  },
+  {
+    "shop_name": "Ryan - Goldner",
+    "owner": "Kenyatta",
+    "logan": "Centralized value-added model"
+  },
+  {
+    "shop_name": "Gibson, Klocko and Hilpert",
+    "owner": "Katarina",
+    "logan": "Organic tangible help-desk"
+  },
+  {
+    "shop_name": "Hills - Breitenberg",
+    "owner": "Gerda",
+    "logan": "Future-proofed maximized data-warehouse"
+  },
+  {
+    "shop_name": "Jacobi - Nikolaus",
+    "owner": "Alycia",
+    "logan": "Horizontal bottom-line algorithm"
+  },
+  {
+    "shop_name": "Lueilwitz Inc",
+    "owner": "Jacinthe",
+    "logan": "Customer-focused mission-critical hub"
+  },
+  {
+    "shop_name": "Blick, Auer and Bailey",
+    "owner": "Cecil",
+    "logan": "Exclusive local hierarchy"
+  },
+  {
+    "shop_name": "Christiansen - Schamberger",
+    "owner": "Hilario",
+    "logan": "Horizontal intermediate project"
+  },
+  {
+    "shop_name": "Cassin - Maggio",
+    "owner": "Loren",
+    "logan": "User-friendly full-range challenge"
+  },
+  {
+    "shop_name": "Schmidt and Sons",
+    "owner": "Aglae",
+    "logan": "Programmable tangible circuit"
+  },
+  {
+    "shop_name": "Bechtelar - Lynch",
+    "owner": "Mable",
+    "logan": "Cross-platform exuding algorithm"
+  },
+  {
+    "shop_name": "Ernser and Sons",
+    "owner": "Cristobal",
+    "logan": "Synchronised explicit database"
+  },
+  {
+    "shop_name": "Daniel - Lehner",
+    "owner": "Stuart",
+    "logan": "Open-architected needs-based system engine"
+  },
+  {
+    "shop_name": "Graham Inc",
+    "owner": "Bobbie",
+    "logan": "Balanced optimizing hub"
+  },
+  {
+    "shop_name": "Kuhn - Stiedemann",
+    "owner": "Nyah",
+    "logan": "Optimized disintermediate task-force"
+  },
+  {
+    "shop_name": "Steuber LLC",
+    "owner": "Rex",
+    "logan": "Synchronised secondary methodology"
+  },
+  {
+    "shop_name": "Thiel - Harris",
+    "owner": "Maverick",
+    "logan": "Grass-roots didactic policy"
+  },
+  {
+    "shop_name": "Pollich, Jenkins and Kirlin",
+    "owner": "Johann",
+    "logan": "Managed bandwidth-monitored hub"
+  },
+  {
+    "shop_name": "Mante, Hyatt and Hodkiewicz",
+    "owner": "Kailee",
+    "logan": "Customer-focused systematic functionalities"
+  },
+  {
+    "shop_name": "Doyle Inc",
+    "owner": "Ena",
+    "logan": "Open-source zero administration matrix"
+  },
+  {
+    "shop_name": "Welch, Bogisich and Effertz",
+    "owner": "Dwight",
+    "logan": "Diverse non-volatile moderator"
+  },
+  {
+    "shop_name": "Nienow - Kreiger",
+    "owner": "Cleo",
+    "logan": "Enhanced bottom-line contingency"
+  },
+  {
+    "shop_name": "Schuster, Dickinson and Marks",
+    "owner": "Gerson",
+    "logan": "Streamlined non-volatile protocol"
+  },
+  {
+    "shop_name": "Rogahn, McDermott and Schuster",
+    "owner": "Theo",
+    "logan": "Down-sized fresh-thinking budgetary management"
+  },
+  {
+    "shop_name": "Klein, Armstrong and Carter",
+    "owner": "Cindy",
+    "logan": "Visionary value-added capability"
+  },
+  {
+    "shop_name": "Bruen, Becker and Mayer",
+    "owner": "Trinity",
+    "logan": "Public-key bandwidth-monitored knowledge user"
+  },
+  {
+    "shop_name": "Powlowski LLC",
+    "owner": "Loren",
+    "logan": "Team-oriented intermediate interface"
+  },
+  {
+    "shop_name": "Rice, Hagenes and Swift",
+    "owner": "Curtis",
+    "logan": "Public-key intangible extranet"
+  },
+  {
+    "shop_name": "Gutkowski - Ankunding",
+    "owner": "Ansel",
+    "logan": "Reduced motivating access"
+  },
+  {
+    "shop_name": "Jacobson Group",
+    "owner": "Luella",
+    "logan": "Profit-focused modular parallelism"
+  },
+  {
+    "shop_name": "McLaughlin - Klein",
+    "owner": "Jaylin",
+    "logan": "Monitored homogeneous core"
+  },
+  {
+    "shop_name": "Olson, Kassulke and Schulist",
+    "owner": "Curtis",
+    "logan": "User-centric dedicated approach"
+  },
+  {
+    "shop_name": "Koelpin - Conn",
+    "owner": "Savannah",
+    "logan": "Managed impactful initiative"
+  },
+  {
+    "shop_name": "Heidenreich, Jacobs and Lesch",
+    "owner": "Elmira",
+    "logan": "Face to face impactful throughput"
+  },
+  {
+    "shop_name": "Medhurst Group",
+    "owner": "Ryder",
+    "logan": "Cloned grid-enabled core"
+  },
+  {
+    "shop_name": "Sipes, Hamill and Conroy",
+    "owner": "Dylan",
+    "logan": "Cross-platform zero administration project"
+  },
+  {
+    "shop_name": "Koelpin, White and Gerhold",
+    "owner": "Idella",
+    "logan": "Right-sized multi-tasking synergy"
+  },
+  {
+    "shop_name": "Towne LLC",
+    "owner": "Daniella",
+    "logan": "Pre-emptive stable strategy"
+  },
+  {
+    "shop_name": "Fahey - Bosco",
+    "owner": "Phoebe",
+    "logan": "Open-source bottom-line Graphic Interface"
+  },
+  {
+    "shop_name": "Crooks - Volkman",
+    "owner": "Ramona",
+    "logan": "Fully-configurable exuding structure"
+  },
+  {
+    "shop_name": "Fadel - Kemmer",
+    "owner": "Aglae",
+    "logan": "Reactive mobile intranet"
+  },
+  {
+    "shop_name": "O'Keefe, Hirthe and Sawayn",
+    "owner": "Gerson",
+    "logan": "Grass-roots content-based flexibility"
+  },
+  {
+    "shop_name": "Ratke LLC",
+    "owner": "Kaia",
+    "logan": "Up-sized 24/7 internet solution"
+  },
+  {
+    "shop_name": "Koss, Botsford and D'Amore",
+    "owner": "Helmer",
+    "logan": "Sharable tertiary time-frame"
+  },
+  {
+    "shop_name": "Ritchie and Sons",
+    "owner": "Jaylin",
+    "logan": "Diverse full-range Graphical User Interface"
+  },
+  {
+    "shop_name": "Kilback Group",
+    "owner": "Lorenz",
+    "logan": "Expanded modular migration"
+  },
+  {
+    "shop_name": "Wehner Group",
+    "owner": "Ena",
+    "logan": "Business-focused analyzing structure"
+  },
+  {
+    "shop_name": "Spencer and Sons",
+    "owner": "Kailee",
+    "logan": "Future-proofed asymmetric structure"
+  },
+  {
+    "shop_name": "Gorczany - Welch",
+    "owner": "Ethyl",
+    "logan": "Distributed empowering pricing structure"
+  },
+  {
+    "shop_name": "Shields, Ritchie and Pacocha",
+    "owner": "Ramona",
+    "logan": "Quality-focused object-oriented benchmark"
+  },
+  {
+    "shop_name": "Rempel Inc",
+    "owner": "Maxwell",
+    "logan": "Triple-buffered empowering paradigm"
+  },
+  {
+    "shop_name": "MacGyver - Marks",
+    "owner": "Jaylin",
+    "logan": "Digitized interactive task-force"
+  },
+  {
+    "shop_name": "Tillman Group",
+    "owner": "Elmira",
+    "logan": "Realigned encompassing contingency"
+  },
+  {
+    "shop_name": "Cruickshank - Will",
+    "owner": "Tristin",
+    "logan": "Open-source reciprocal support"
+  },
+  {
+    "shop_name": "Hessel - Sanford",
+    "owner": "Destini",
+    "logan": "Upgradable optimizing structure"
+  },
+  {
+    "shop_name": "Nader Group",
+    "owner": "Fidel",
+    "logan": "Monitored zero administration algorithm"
+  },
+  {
+    "shop_name": "Mills LLC",
+    "owner": "Theo",
+    "logan": "Universal methodical adapter"
+  },
+  {
+    "shop_name": "Dickens Group",
+    "owner": "Laury",
+    "logan": "Organized holistic solution"
+  },
+  {
+    "shop_name": "Hegmann - Vandervort",
+    "owner": "Raven",
+    "logan": "Balanced web-enabled extranet"
+  },
+  {
+    "shop_name": "Thompson - Pagac",
+    "owner": "Shakira",
+    "logan": "Business-focused stable customer loyalty"
+  },
+  {
+    "shop_name": "Reichel, Sauer and Yost",
+    "owner": "Ramona",
+    "logan": "Streamlined multimedia definition"
+  },
+  {
+    "shop_name": "King and Sons",
+    "owner": "Cooper",
+    "logan": "Secured 24 hour productivity"
+  },
+  {
+    "shop_name": "Roberts Group",
+    "owner": "Johnnie",
+    "logan": "Managed context-sensitive hierarchy"
+  },
+  {
+    "shop_name": "Dooley LLC",
+    "owner": "Maverick",
+    "logan": "Stand-alone full-range moratorium"
+  },
+  {
+    "shop_name": "Gibson LLC",
+    "owner": "Johann",
+    "logan": "Pre-emptive foreground capability"
+  },
+  {
+    "shop_name": "Wuckert LLC",
+    "owner": "Cleo",
+    "logan": "Public-key local standardization"
+  },
+  {
+    "shop_name": "Hansen - Jaskolski",
+    "owner": "Dylan",
+    "logan": "Multi-lateral foreground parallelism"
+  },
+  {
+    "shop_name": "Haley, Hodkiewicz and Wyman",
+    "owner": "Anabelle",
+    "logan": "Multi-lateral real-time groupware"
+  },
+  {
+    "shop_name": "Armstrong and Sons",
+    "owner": "Katarina",
+    "logan": "Cross-platform systematic application"
+  },
+  {
+    "shop_name": "Hirthe, Paucek and Becker",
+    "owner": "Stuart",
+    "logan": "Cross-group coherent strategy"
+  },
+  {
+    "shop_name": "Wintheiser - Murray",
+    "owner": "Luella",
+    "logan": "Advanced 4th generation encryption"
+  },
+  {
+    "shop_name": "Willms - Ernser",
+    "owner": "Nona",
+    "logan": "Multi-layered empowering website"
+  },
+  {
+    "shop_name": "Prohaska - Corkery",
+    "owner": "Dandre",
+    "logan": "Customer-focused bottom-line internet solution"
+  },
+  {
+    "shop_name": "Morissette Inc",
+    "owner": "Jaylin",
+    "logan": "Adaptive coherent data-warehouse"
+  },
+  {
+    "shop_name": "Zemlak, Fritsch and Bergnaum",
+    "owner": "Ramona",
+    "logan": "De-engineered bandwidth-monitored synergy"
+  },
+  {
+    "shop_name": "Rempel Group",
+    "owner": "Nona",
+    "logan": "Focused systematic functionalities"
+  },
+  {
+    "shop_name": "Champlin, Reynolds and Lemke",
+    "owner": "Dandre",
+    "logan": "Streamlined grid-enabled open architecture"
+  },
+  {
+    "shop_name": "Corkery - Schaden",
+    "owner": "Maxwell",
+    "logan": "Fully-configurable maximized budgetary management"
+  },
+  {
+    "shop_name": "Keebler, Klein and Gottlieb",
+    "owner": "Dandre",
+    "logan": "Horizontal systemic process improvement"
+  },
+  {
+    "shop_name": "Moore - Kerluke",
+    "owner": "Dylan",
+    "logan": "Proactive dynamic conglomeration"
+  },
+  {
+    "shop_name": "Gulgowski - Gleichner",
+    "owner": "Rex",
+    "logan": "Focused mission-critical matrices"
+  },
+  {
+    "shop_name": "Ruecker - Pollich",
+    "owner": "Juston",
+    "logan": "Versatile foreground encoding"
+  },
+  {
+    "shop_name": "Hand LLC",
+    "owner": "Rhea",
+    "logan": "Phased zero administration success"
+  },
+  {
+    "shop_name": "Kihn, Grant and Bergnaum",
+    "owner": "Jamil",
+    "logan": "Centralized client-server access"
+  },
+  {
+    "shop_name": "Zieme - Turcotte",
+    "owner": "Pansy",
+    "logan": "Innovative fresh-thinking matrices"
+  },
+  {
+    "shop_name": "Kessler and Sons",
+    "owner": "Shanelle",
+    "logan": "Integrated zero defect ability"
+  },
+  {
+    "shop_name": "Eichmann - Kuhlman",
+    "owner": "Gerda",
+    "logan": "Ergonomic coherent parallelism"
+  },
+  {
+    "shop_name": "Gaylord - Crooks",
+    "owner": "Cleo",
+    "logan": "Re-engineered bifurcated structure"
+  },
+  {
+    "shop_name": "Kreiger - Douglas",
+    "owner": "Tierra",
+    "logan": "Right-sized object-oriented access"
+  },
+  {
+    "shop_name": "Littel, Graham and Fadel",
+    "owner": "Laury",
+    "logan": "Cross-group upward-trending orchestration"
+  },
+  {
+    "shop_name": "Dooley Inc",
+    "owner": "Kelly",
+    "logan": "Customizable solution-oriented process improvement"
+  },
+  {
+    "shop_name": "Schultz, Cummerata and Orn",
+    "owner": "Destini",
+    "logan": "Automated modular initiative"
+  },
+  {
+    "shop_name": "Osinski and Sons",
+    "owner": "Curtis",
+    "logan": "Balanced asymmetric hierarchy"
+  },
+  {
+    "shop_name": "Ondricka and Sons",
+    "owner": "Bennett",
+    "logan": "Ameliorated solution-oriented data-warehouse"
+  },
+  {
+    "shop_name": "McClure - Mertz",
+    "owner": "Gerald",
+    "logan": "Ameliorated foreground customer loyalty"
+  },
+  {
+    "shop_name": "Leuschke - Rath",
+    "owner": "Stuart",
+    "logan": "User-centric disintermediate portal"
+  },
+  {
+    "shop_name": "Mante - Hermann",
+    "owner": "Otto",
+    "logan": "Versatile secondary pricing structure"
+  },
+  {
+    "shop_name": "Osinski Inc",
+    "owner": "Nona",
+    "logan": "Team-oriented static firmware"
+  },
+  {
+    "shop_name": "King, Haley and Bahringer",
+    "owner": "Vicky",
+    "logan": "Diverse zero tolerance hub"
+  },
+  {
+    "shop_name": "Schneider LLC",
+    "owner": "Aglae",
+    "logan": "Compatible multimedia contingency"
+  },
+  {
+    "shop_name": "Orn - Osinski",
+    "owner": "Cecil",
+    "logan": "Upgradable mission-critical superstructure"
+  },
+  {
+    "shop_name": "Nikolaus, Quitzon and Raynor",
+    "owner": "Genevieve",
+    "logan": "Customer-focused context-sensitive knowledge base"
+  },
+  {
+    "shop_name": "Auer and Sons",
+    "owner": "Lorenz",
+    "logan": "Synergistic 5th generation productivity"
+  },
+  {
+    "shop_name": "Harber, Zieme and Beer",
+    "owner": "Trinity",
+    "logan": "Ameliorated system-worthy model"
+  },
+  {
+    "shop_name": "Wintheiser - Keeling",
+    "owner": "Neal",
+    "logan": "Upgradable next generation implementation"
+  },
+  {
+    "shop_name": "Reinger Inc",
+    "owner": "Stephan",
+    "logan": "User-centric fault-tolerant productivity"
+  },
+  {
+    "shop_name": "Metz - Cole",
+    "owner": "Sammy",
+    "logan": "Persistent multi-state frame"
+  },
+  {
+    "shop_name": "Hoeger - Kerluke",
+    "owner": "Hilario",
+    "logan": "Exclusive scalable Graphic Interface"
+  },
+  {
+    "shop_name": "Towne - Berge",
+    "owner": "Dashawn",
+    "logan": "Triple-buffered systematic interface"
+  },
+  {
+    "shop_name": "Koch - Connelly",
+    "owner": "Dylan",
+    "logan": "Public-key interactive focus group"
+  },
+  {
+    "shop_name": "O'Conner - Klein",
+    "owner": "Stephan",
+    "logan": "Versatile optimizing synergy"
+  },
+  {
+    "shop_name": "Goldner - Marks",
+    "owner": "Bennett",
+    "logan": "Re-engineered bandwidth-monitored Graphic Interface"
+  },
+  {
+    "shop_name": "Kuphal and Sons",
+    "owner": "Nona",
+    "logan": "Decentralized zero administration paradigm"
+  },
+  {
+    "shop_name": "Rath - Rau",
+    "owner": "Katarina",
+    "logan": "Realigned cohesive productivity"
+  },
+  {
+    "shop_name": "Schroeder - Mueller",
+    "owner": "Skye",
+    "logan": "Sharable intermediate productivity"
+  },
+  {
+    "shop_name": "Donnelly - Luettgen",
+    "owner": "Phoebe",
+    "logan": "Decentralized mobile synergy"
+  },
+  {
+    "shop_name": "Homenick - Hills",
+    "owner": "Dwight",
+    "logan": "Persevering scalable complexity"
+  },
+  {
+    "shop_name": "Wisozk - Legros",
+    "owner": "Stephan",
+    "logan": "Inverse encompassing knowledge user"
+  },
+  {
+    "shop_name": "D'Amore, Jerde and Macejkovic",
+    "owner": "Luella",
+    "logan": "Down-sized systematic open architecture"
+  },
+  {
+    "shop_name": "Waelchi, D'Amore and Rath",
+    "owner": "Elmira",
+    "logan": "Exclusive non-volatile ability"
+  },
+  {
+    "shop_name": "Dickinson - Toy",
+    "owner": "Anabelle",
+    "logan": "Re-engineered analyzing hierarchy"
+  },
+  {
+    "shop_name": "Grimes, Breitenberg and Funk",
+    "owner": "Icie",
+    "logan": "Quality-focused object-oriented superstructure"
+  },
+  {
+    "shop_name": "Hudson Inc",
+    "owner": "Richie",
+    "logan": "Monitored user-facing ability"
+  },
+  {
+    "shop_name": "Harber - Bartoletti",
+    "owner": "Celestino",
+    "logan": "Public-key client-server encryption"
+  },
+  {
+    "shop_name": "Morar, Schmeler and McClure",
+    "owner": "Phoebe",
+    "logan": "Open-source composite intranet"
+  },
+  {
+    "shop_name": "Towne, Kohler and Haley",
+    "owner": "Maxwell",
+    "logan": "Re-engineered full-range process improvement"
+  },
+  {
+    "shop_name": "Erdman, Heidenreich and Kshlerin",
+    "owner": "Anabelle",
+    "logan": "Pre-emptive user-facing array"
+  },
+  {
+    "shop_name": "Gutkowski - Torp",
+    "owner": "Nona",
+    "logan": "Reduced disintermediate complexity"
+  },
+  {
+    "shop_name": "Graham - Murray",
+    "owner": "Luella",
+    "logan": "Public-key analyzing algorithm"
+  },
+  {
+    "shop_name": "Heller - Lubowitz",
+    "owner": "Jaylin",
+    "logan": "Distributed context-sensitive task-force"
+  },
+  {
+    "shop_name": "Murphy and Sons",
+    "owner": "Gerald",
+    "logan": "Fundamental clear-thinking help-desk"
+  },
+  {
+    "shop_name": "Feest and Sons",
+    "owner": "Tierra",
+    "logan": "Organized directional hardware"
+  },
+  {
+    "shop_name": "DuBuque, Volkman and Runolfsdottir",
+    "owner": "Gerson",
+    "logan": "Inverse 6th generation time-frame"
+  },
+  {
+    "shop_name": "Yost Inc",
+    "owner": "Jacinthe",
+    "logan": "Mandatory 24/7 open system"
+  },
+  {
+    "shop_name": "Nicolas Inc",
+    "owner": "Daniella",
+    "logan": "Phased discrete workforce"
+  },
+  {
+    "shop_name": "Lang, Marquardt and Treutel",
+    "owner": "Kenyatta",
+    "logan": "Diverse composite parallelism"
+  },
+  {
+    "shop_name": "Schuppe, Rempel and Schimmel",
+    "owner": "Neal",
+    "logan": "Exclusive object-oriented pricing structure"
+  },
+  {
+    "shop_name": "Predovic LLC",
+    "owner": "Kailee",
+    "logan": "Horizontal multi-state benchmark"
+  },
+  {
+    "shop_name": "Krajcik Inc",
+    "owner": "Madge",
+    "logan": "Public-key 24 hour concept"
+  },
+  {
+    "shop_name": "Howell, Bergstrom and Klein",
+    "owner": "Nona",
+    "logan": "Centralized optimizing framework"
+  },
+  {
+    "shop_name": "Swaniawski, Senger and Boyer",
+    "owner": "Kim",
+    "logan": "Right-sized zero administration functionalities"
+  },
+  {
+    "shop_name": "O'Kon - Kshlerin",
+    "owner": "Rhea",
+    "logan": "Organic discrete intranet"
+  },
+  {
+    "shop_name": "Ebert LLC",
+    "owner": "Cindy",
+    "logan": "Universal 6th generation functionalities"
+  },
+  {
+    "shop_name": "Armstrong, Zboncak and Mohr",
+    "owner": "Dandre",
+    "logan": "Function-based web-enabled encryption"
+  },
+  {
+    "shop_name": "Jacobi - Rowe",
+    "owner": "Bobbie",
+    "logan": "Vision-oriented multimedia collaboration"
+  },
+  {
+    "shop_name": "Fritsch - Roberts",
+    "owner": "Ethyl",
+    "logan": "Implemented uniform local area network"
+  },
+  {
+    "shop_name": "Kertzmann, Quitzon and Spinka",
+    "owner": "Elmira",
+    "logan": "Seamless well-modulated hub"
+  },
+  {
+    "shop_name": "Nienow LLC",
+    "owner": "Neal",
+    "logan": "Switchable user-facing challenge"
+  },
+  {
+    "shop_name": "McClure - Heaney",
+    "owner": "Rex",
+    "logan": "Ameliorated next generation time-frame"
+  },
+  {
+    "shop_name": "Cruickshank - Bosco",
+    "owner": "Daniella",
+    "logan": "Ergonomic fresh-thinking synergy"
+  },
+  {
+    "shop_name": "Corwin Inc",
+    "owner": "Luella",
+    "logan": "Organic discrete policy"
+  },
+  {
+    "shop_name": "Schroeder - Murazik",
+    "owner": "Jamil",
+    "logan": "Organic hybrid implementation"
+  },
+  {
+    "shop_name": "Buckridge, Fay and Blanda",
+    "owner": "Madge",
+    "logan": "Ergonomic attitude-oriented framework"
+  },
+  {
+    "shop_name": "Zieme - Turner",
+    "owner": "Ethyl",
+    "logan": "Monitored fresh-thinking circuit"
+  },
+  {
+    "shop_name": "Feest, Gislason and Runte",
+    "owner": "Kim",
+    "logan": "Assimilated exuding database"
+  },
+  {
+    "shop_name": "Price Inc",
+    "owner": "Jayson",
+    "logan": "Total reciprocal knowledge user"
+  },
+  {
+    "shop_name": "Mraz and Sons",
+    "owner": "Celestino",
+    "logan": "Switchable scalable frame"
+  },
+  {
+    "shop_name": "Anderson, Lueilwitz and Flatley",
+    "owner": "Kim",
+    "logan": "Organized maximized parallelism"
+  },
+  {
+    "shop_name": "Shields - Johnston",
+    "owner": "Theo",
+    "logan": "Face to face holistic attitude"
+  },
+  {
+    "shop_name": "Lind Group",
+    "owner": "Nona",
+    "logan": "Intuitive 4th generation intranet"
+  },
+  {
+    "shop_name": "Flatley - Goodwin",
+    "owner": "Cleo",
+    "logan": "Self-enabling holistic orchestration"
+  },
+  {
+    "shop_name": "Hauck, Kihn and Farrell",
+    "owner": "Queenie",
+    "logan": "Sharable web-enabled policy"
+  },
+  {
+    "shop_name": "Yost LLC",
+    "owner": "Gerald",
+    "logan": "Universal context-sensitive infrastructure"
+  },
+  {
+    "shop_name": "Harvey LLC",
+    "owner": "Rex",
+    "logan": "Fundamental value-added model"
+  },
+  {
+    "shop_name": "Bayer Group",
+    "owner": "Pansy",
+    "logan": "Face to face analyzing frame"
+  },
+  {
+    "shop_name": "Franecki LLC",
+    "owner": "Patricia",
+    "logan": "Self-enabling dynamic monitoring"
+  },
+  {
+    "shop_name": "Veum, Carter and Hoppe",
+    "owner": "Luella",
+    "logan": "Vision-oriented local structure"
+  },
+  {
+    "shop_name": "Schiller, Morissette and Schumm",
+    "owner": "Mathias",
+    "logan": "Intuitive upward-trending concept"
+  },
+  {
+    "shop_name": "Larkin - Runte",
+    "owner": "Kenyatta",
+    "logan": "Seamless content-based approach"
+  },
+  {
+    "shop_name": "Corwin LLC",
+    "owner": "Maverick",
+    "logan": "Upgradable logistical matrices"
+  },
+  {
+    "shop_name": "Kilback - Frami",
+    "owner": "Rex",
+    "logan": "Virtual multi-tasking database"
+  },
+  {
+    "shop_name": "Smith Group",
+    "owner": "Neal",
+    "logan": "Cross-platform actuating middleware"
+  },
+  {
+    "shop_name": "Schimmel Inc",
+    "owner": "Destini",
+    "logan": "Self-enabling dedicated analyzer"
+  },
+  {
+    "shop_name": "Harvey and Sons",
+    "owner": "Sylvester",
+    "logan": "Ameliorated 24 hour solution"
+  },
+  {
+    "shop_name": "Waters, Skiles and Harvey",
+    "owner": "Maverick",
+    "logan": "Networked bandwidth-monitored application"
+  },
+  {
+    "shop_name": "Jast, Windler and Lang",
+    "owner": "Juston",
+    "logan": "Phased fault-tolerant productivity"
+  },
+  {
+    "shop_name": "McGlynn Inc",
+    "owner": "Greyson",
+    "logan": "Future-proofed empowering complexity"
+  },
+  {
+    "shop_name": "Pacocha - VonRueden",
+    "owner": "Ramona",
+    "logan": "Proactive static service-desk"
+  },
+  {
+    "shop_name": "Braun Inc",
+    "owner": "Helmer",
+    "logan": "Cloned content-based pricing structure"
+  },
+  {
+    "shop_name": "Zieme, Bechtelar and Grimes",
+    "owner": "Stephan",
+    "logan": "Total tertiary firmware"
+  },
+  {
+    "shop_name": "Ernser - Conn",
+    "owner": "Camren",
+    "logan": "Visionary empowering benchmark"
+  },
+  {
+    "shop_name": "Reichert LLC",
+    "owner": "Mathias",
+    "logan": "Re-contextualized solution-oriented solution"
+  },
+  {
+    "shop_name": "Thiel - Bartell",
+    "owner": "Jamil",
+    "logan": "Optimized fresh-thinking orchestration"
+  },
+  {
+    "shop_name": "Klocko - Buckridge",
+    "owner": "Jayson",
+    "logan": "Robust holistic utilisation"
+  },
+  {
+    "shop_name": "Franecki - Kunde",
+    "owner": "Cooper",
+    "logan": "Horizontal bandwidth-monitored attitude"
+  },
+  {
+    "shop_name": "Rohan Inc",
+    "owner": "Kailee",
+    "logan": "Profound context-sensitive analyzer"
+  },
+  {
+    "shop_name": "Conroy - Haag",
+    "owner": "Bert",
+    "logan": "Sharable context-sensitive protocol"
+  },
+  {
+    "shop_name": "Tillman and Sons",
+    "owner": "Bobbie",
+    "logan": "Monitored 3rd generation solution"
+  },
+  {
+    "shop_name": "Batz Group",
+    "owner": "Maverick",
+    "logan": "Cross-group web-enabled productivity"
+  },
+  {
+    "shop_name": "Hoppe LLC",
+    "owner": "Dashawn",
+    "logan": "Optimized 24 hour internet solution"
+  },
+  {
+    "shop_name": "Morar Inc",
+    "owner": "Dylan",
+    "logan": "Diverse mobile capability"
+  },
+  {
+    "shop_name": "Corkery - Howe",
+    "owner": "Dwight",
+    "logan": "Quality-focused cohesive workforce"
+  },
+  {
+    "shop_name": "Ward - Cassin",
+    "owner": "Sheridan",
+    "logan": "Automated tangible software"
+  },
+  {
+    "shop_name": "Turcotte - Koepp",
+    "owner": "Aglae",
+    "logan": "Mandatory homogeneous implementation"
+  },
+  {
+    "shop_name": "Kerluke - Lockman",
+    "owner": "Anabelle",
+    "logan": "Business-focused intangible artificial intelligence"
+  },
+  {
+    "shop_name": "Hermann - Schmeler",
+    "owner": "Neal",
+    "logan": "Operative background capacity"
+  },
+  {
+    "shop_name": "Greenholt and Sons",
+    "owner": "Kaia",
+    "logan": "Integrated static archive"
+  },
+  {
+    "shop_name": "Jones - Feil",
+    "owner": "Roel",
+    "logan": "Multi-channelled radical adapter"
+  },
+  {
+    "shop_name": "Predovic, Boehm and Gislason",
+    "owner": "Camren",
+    "logan": "Synergized disintermediate model"
+  },
+  {
+    "shop_name": "Swaniawski and Sons",
+    "owner": "Hilario",
+    "logan": "Decentralized client-driven task-force"
+  },
+  {
+    "shop_name": "Bogisich - Breitenberg",
+    "owner": "Cristobal",
+    "logan": "Reactive static architecture"
+  },
+  {
+    "shop_name": "Feil - Olson",
+    "owner": "Savannah",
+    "logan": "Ameliorated intangible matrix"
+  },
+  {
+    "shop_name": "Barrows, Prohaska and O'Conner",
+    "owner": "Phoebe",
+    "logan": "Multi-channelled intermediate functionalities"
+  },
+  {
+    "shop_name": "West, Pacocha and Rippin",
+    "owner": "Rhett",
+    "logan": "Robust asymmetric encryption"
+  },
+  {
+    "shop_name": "Kub LLC",
+    "owner": "Bert",
+    "logan": "Synergized needs-based hub"
+  },
+  {
+    "shop_name": "Johnston - Pfeffer",
+    "owner": "Shanelle",
+    "logan": "Pre-emptive motivating support"
+  },
+  {
+    "shop_name": "Welch and Sons",
+    "owner": "Camren",
+    "logan": "Adaptive bottom-line challenge"
+  },
+  {
+    "shop_name": "Dietrich, Schamberger and Wolf",
+    "owner": "Katarina",
+    "logan": "Reverse-engineered motivating policy"
+  },
+  {
+    "shop_name": "Lubowitz - Vandervort",
+    "owner": "Kelly",
+    "logan": "Reactive bifurcated leverage"
+  },
+  {
+    "shop_name": "Altenwerth - Ruecker",
+    "owner": "Jacinthe",
+    "logan": "Down-sized demand-driven circuit"
+  },
+  {
+    "shop_name": "Purdy, Orn and Jacobi",
+    "owner": "Genevieve",
+    "logan": "Focused encompassing interface"
+  },
+  {
+    "shop_name": "Rodriguez - Runolfsson",
+    "owner": "Bert",
+    "logan": "Implemented upward-trending functionalities"
+  },
+  {
+    "shop_name": "Ondricka, Bailey and Schaefer",
+    "owner": "Cecil",
+    "logan": "Monitored explicit portal"
+  },
+  {
+    "shop_name": "Sporer, Champlin and Sauer",
+    "owner": "Johnnie",
+    "logan": "Front-line mobile website"
+  },
+  {
+    "shop_name": "Pfannerstill, Cummerata and Kiehn",
+    "owner": "Monserrate",
+    "logan": "Distributed even-keeled structure"
+  },
+  {
+    "shop_name": "Nicolas LLC",
+    "owner": "Anabelle",
+    "logan": "Phased empowering hardware"
+  },
+  {
+    "shop_name": "Bailey, Howe and Farrell",
+    "owner": "Ida",
+    "logan": "Pre-emptive object-oriented archive"
+  },
+  {
+    "shop_name": "Gusikowski and Sons",
+    "owner": "Gerald",
+    "logan": "Re-contextualized upward-trending local area network"
+  },
+  {
+    "shop_name": "Howe and Sons",
+    "owner": "Johann",
+    "logan": "Reactive composite frame"
+  },
+  {
+    "shop_name": "Wintheiser, Rosenbaum and Barton",
+    "owner": "Destini",
+    "logan": "Seamless fault-tolerant leverage"
+  },
+  {
+    "shop_name": "Lesch Group",
+    "owner": "Bert",
+    "logan": "Ergonomic intermediate collaboration"
+  },
+  {
+    "shop_name": "Beahan and Sons",
+    "owner": "Juston",
+    "logan": "Diverse holistic infrastructure"
+  },
+  {
+    "shop_name": "Grimes and Sons",
+    "owner": "Ida",
+    "logan": "Pre-emptive mobile info-mediaries"
+  },
+  {
+    "shop_name": "Witting, Keeling and Littel",
+    "owner": "Cristal",
+    "logan": "Profound bandwidth-monitored attitude"
+  },
+  {
+    "shop_name": "Dickens, Beier and Borer",
+    "owner": "Anabelle",
+    "logan": "Synergistic multi-tasking synergy"
+  },
+  {
+    "shop_name": "Effertz, Walsh and Batz",
+    "owner": "Jaylin",
+    "logan": "Down-sized context-sensitive analyzer"
+  },
+  {
+    "shop_name": "Murazik, Fahey and Raynor",
+    "owner": "Kenyatta",
+    "logan": "Multi-lateral systemic complexity"
+  },
+  {
+    "shop_name": "Bogan - Dach",
+    "owner": "Curtis",
+    "logan": "Distributed grid-enabled matrix"
+  },
+  {
+    "shop_name": "Tromp Inc",
+    "owner": "Shakira",
+    "logan": "Configurable demand-driven moratorium"
+  },
+  {
+    "shop_name": "Thompson LLC",
+    "owner": "Alycia",
+    "logan": "Cross-group maximized methodology"
+  },
+  {
+    "shop_name": "Upton - Maggio",
+    "owner": "Queenie",
+    "logan": "Sharable responsive database"
+  },
+  {
+    "shop_name": "Beier - Little",
+    "owner": "Ethyl",
+    "logan": "Expanded analyzing middleware"
+  },
+  {
+    "shop_name": "Schuppe - Kiehn",
+    "owner": "Fidel",
+    "logan": "Reduced tertiary utilisation"
+  },
+  {
+    "shop_name": "Boyer LLC",
+    "owner": "Juston",
+    "logan": "Multi-channelled 3rd generation conglomeration"
+  },
+  {
+    "shop_name": "Langosh and Sons",
+    "owner": "Monserrate",
+    "logan": "Optimized demand-driven adapter"
+  },
+  {
+    "shop_name": "Reichert, Schimmel and Witting",
+    "owner": "Roel",
+    "logan": "Fundamental multi-state encryption"
+  },
+  {
+    "shop_name": "Tillman, Stracke and Zemlak",
+    "owner": "Monserrate",
+    "logan": "Advanced stable portal"
+  },
+  {
+    "shop_name": "Botsford, Bogisich and Green",
+    "owner": "Patricia",
+    "logan": "Front-line responsive functionalities"
+  },
+  {
+    "shop_name": "Mraz, Hessel and Bartell",
+    "owner": "Camren",
+    "logan": "Face to face methodical info-mediaries"
+  },
+  {
+    "shop_name": "VonRueden and Sons",
+    "owner": "Jaylin",
+    "logan": "Public-key asynchronous moderator"
+  },
+  {
+    "shop_name": "Franecki, Graham and Reichert",
+    "owner": "Monserrate",
+    "logan": "Object-based asymmetric monitoring"
+  },
+  {
+    "shop_name": "Glover - Sipes",
+    "owner": "Neal",
+    "logan": "Re-engineered regional functionalities"
+  },
+  {
+    "shop_name": "Wilderman - Sipes",
+    "owner": "Laury",
+    "logan": "Expanded discrete solution"
+  },
+  {
+    "shop_name": "Little LLC",
+    "owner": "Katarina",
+    "logan": "Reverse-engineered cohesive hierarchy"
+  },
+  {
+    "shop_name": "Macejkovic, Hettinger and Bode",
+    "owner": "Sammy",
+    "logan": "Mandatory well-modulated focus group"
+  },
+  {
+    "shop_name": "Hartmann, Kertzmann and Doyle",
+    "owner": "Ramona",
+    "logan": "Realigned intermediate knowledge user"
+  },
+  {
+    "shop_name": "Feest, Schiller and Morar",
+    "owner": "Anabelle",
+    "logan": "Persistent exuding moderator"
+  },
+  {
+    "shop_name": "Herzog, Watsica and D'Amore",
+    "owner": "Richie",
+    "logan": "Automated full-range projection"
+  },
+  {
+    "shop_name": "Doyle, O'Keefe and Kshlerin",
+    "owner": "Lorenz",
+    "logan": "Multi-tiered stable encoding"
+  },
+  {
+    "shop_name": "Doyle, Brown and Schuppe",
+    "owner": "Cecil",
+    "logan": "Automated bifurcated installation"
+  },
+  {
+    "shop_name": "Hirthe - Torphy",
+    "owner": "Dena",
+    "logan": "Object-based demand-driven benchmark"
+  },
+  {
+    "shop_name": "Huel - Weber",
+    "owner": "Genevieve",
+    "logan": "Balanced neutral moderator"
+  },
+  {
+    "shop_name": "Tromp Group",
+    "owner": "Elmira",
+    "logan": "Fully-configurable multi-tasking function"
+  },
+  {
+    "shop_name": "Dibbert, Rohan and Kozey",
+    "owner": "Ida",
+    "logan": "Centralized impactful task-force"
+  },
+  {
+    "shop_name": "Thiel and Sons",
+    "owner": "Raven",
+    "logan": "Intuitive global encoding"
+  },
+  {
+    "shop_name": "Walsh, Reinger and Roob",
+    "owner": "Stephan",
+    "logan": "Compatible multi-state service-desk"
+  },
+  {
+    "shop_name": "Kris - Barton",
+    "owner": "Jacinthe",
+    "logan": "Advanced zero tolerance secured line"
+  },
+  {
+    "shop_name": "Carroll Inc",
+    "owner": "Rosanna",
+    "logan": "Quality-focused object-oriented definition"
+  },
+  {
+    "shop_name": "Streich - Watsica",
+    "owner": "Idella",
+    "logan": "Advanced client-driven emulation"
+  },
+  {
+    "shop_name": "Hickle, Vandervort and Gorczany",
+    "owner": "Kim",
+    "logan": "Ameliorated fresh-thinking paradigm"
+  },
+  {
+    "shop_name": "Ratke, Baumbach and Wuckert",
+    "owner": "Ramona",
+    "logan": "Cross-platform fault-tolerant moratorium"
+  },
+  {
+    "shop_name": "Hodkiewicz, Wehner and Harber",
+    "owner": "Richie",
+    "logan": "Focused responsive Graphic Interface"
+  },
+  {
+    "shop_name": "Farrell Group",
+    "owner": "Lily",
+    "logan": "Cloned client-driven algorithm"
+  },
+  {
+    "shop_name": "Schumm Inc",
+    "owner": "Nyah",
+    "logan": "Customizable responsive utilisation"
+  },
+  {
+    "shop_name": "Nader Inc",
+    "owner": "Gerald",
+    "logan": "User-centric foreground installation"
+  },
+  {
+    "shop_name": "Ondricka Inc",
+    "owner": "Jamil",
+    "logan": "Secured composite interface"
+  },
+  {
+    "shop_name": "O'Conner, Smitham and Moen",
+    "owner": "Shanelle",
+    "logan": "Synergistic demand-driven local area network"
+  },
+  {
+    "shop_name": "Glover - Lehner",
+    "owner": "Margie",
+    "logan": "Fundamental optimizing matrix"
+  },
+  {
+    "shop_name": "Bechtelar - Hamill",
+    "owner": "Skye",
+    "logan": "Triple-buffered impactful concept"
+  },
+  {
+    "shop_name": "Abbott - Schumm",
+    "owner": "Helmer",
+    "logan": "User-centric directional open architecture"
+  },
+  {
+    "shop_name": "Hermiston LLC",
+    "owner": "Ida",
+    "logan": "Enterprise-wide neutral support"
+  },
+  {
+    "shop_name": "Shanahan, Fahey and VonRueden",
+    "owner": "Patricia",
+    "logan": "Re-contextualized impactful intranet"
+  },
+  {
+    "shop_name": "Ritchie, Hane and Torp",
+    "owner": "Jamil",
+    "logan": "Integrated 5th generation intranet"
+  },
+  {
+    "shop_name": "Wolf, Monahan and Braun",
+    "owner": "Camren",
+    "logan": "Synchronised bottom-line website"
+  },
+  {
+    "shop_name": "Lebsack - Rohan",
+    "owner": "Queenie",
+    "logan": "Adaptive attitude-oriented concept"
+  },
+  {
+    "shop_name": "Wilkinson Group",
+    "owner": "Dwight",
+    "logan": "Integrated next generation superstructure"
+  },
+  {
+    "shop_name": "Rowe - Bradtke",
+    "owner": "Camren",
+    "logan": "De-engineered human-resource website"
+  },
+  {
+    "shop_name": "Kuphal LLC",
+    "owner": "Jayson",
+    "logan": "Persistent multimedia secured line"
+  },
+  {
+    "shop_name": "Brown - Gutmann",
+    "owner": "Richie",
+    "logan": "Ameliorated discrete matrices"
+  },
+  {
+    "shop_name": "Pfannerstill, Doyle and Denesik",
+    "owner": "Bennett",
+    "logan": "Future-proofed zero administration implementation"
+  },
+  {
+    "shop_name": "D'Amore, VonRueden and Gusikowski",
+    "owner": "Monserrate",
+    "logan": "Public-key well-modulated budgetary management"
+  },
+  {
+    "shop_name": "Lemke - Wolff",
+    "owner": "Katarina",
+    "logan": "Implemented zero tolerance matrix"
+  },
+  {
+    "shop_name": "Bins Group",
+    "owner": "Skye",
+    "logan": "Diverse interactive firmware"
+  },
+  {
+    "shop_name": "Feest - Murphy",
+    "owner": "Bert",
+    "logan": "Customer-focused content-based analyzer"
+  },
+  {
+    "shop_name": "O'Conner, Batz and Lehner",
+    "owner": "Johnnie",
+    "logan": "Cross-group bi-directional projection"
+  },
+  {
+    "shop_name": "Harber Group",
+    "owner": "Gerhard",
+    "logan": "Multi-tiered local extranet"
+  },
+  {
+    "shop_name": "Harris, Hills and Ratke",
+    "owner": "Loren",
+    "logan": "Re-engineered systematic open architecture"
+  },
+  {
+    "shop_name": "Cassin Group",
+    "owner": "Watson",
+    "logan": "Advanced context-sensitive functionalities"
+  },
+  {
+    "shop_name": "Kessler, Wilderman and Weber",
+    "owner": "Theo",
+    "logan": "Visionary hybrid hub"
+  },
+  {
+    "shop_name": "Beer - Mitchell",
+    "owner": "Otto",
+    "logan": "Proactive executive intranet"
+  },
+  {
+    "shop_name": "Reilly, King and Price",
+    "owner": "Margie",
+    "logan": "Virtual systemic functionalities"
+  },
+  {
+    "shop_name": "Wintheiser, McKenzie and Schimmel",
+    "owner": "Aglae",
+    "logan": "Balanced object-oriented moderator"
+  },
+  {
+    "shop_name": "Schoen - Kulas",
+    "owner": "Cristal",
+    "logan": "Secured actuating pricing structure"
+  },
+  {
+    "shop_name": "Mraz, Bode and Runolfsson",
+    "owner": "Mable",
+    "logan": "Automated actuating open system"
+  },
+  {
+    "shop_name": "Larkin - Reinger",
+    "owner": "Trinity",
+    "logan": "Organized 4th generation leverage"
+  },
+  {
+    "shop_name": "Hoeger Inc",
+    "owner": "Hilario",
+    "logan": "Centralized impactful functionalities"
+  },
+  {
+    "shop_name": "Strosin and Sons",
+    "owner": "Jacinthe",
+    "logan": "Intuitive user-facing attitude"
+  },
+  {
+    "shop_name": "Labadie - Grimes",
+    "owner": "Watson",
+    "logan": "Re-engineered national challenge"
+  },
+  {
+    "shop_name": "Kunze - Bradtke",
+    "owner": "Juston",
+    "logan": "Exclusive regional middleware"
+  },
+  {
+    "shop_name": "Bernier, Cassin and Willms",
+    "owner": "Jaylin",
+    "logan": "Team-oriented full-range middleware"
+  },
+  {
+    "shop_name": "Bogisich Group",
+    "owner": "Gerda",
+    "logan": "Diverse demand-driven neural-net"
+  },
+  {
+    "shop_name": "Rosenbaum, Ryan and Wintheiser",
+    "owner": "Elmira",
+    "logan": "Multi-tiered uniform groupware"
+  },
+  {
+    "shop_name": "Nienow Group",
+    "owner": "Lily",
+    "logan": "Quality-focused 24/7 model"
+  },
+  {
+    "shop_name": "Bernhard and Sons",
+    "owner": "Sylvester",
+    "logan": "Profound bandwidth-monitored hub"
+  },
+  {
+    "shop_name": "Bartoletti Inc",
+    "owner": "Phoebe",
+    "logan": "Re-engineered bifurcated superstructure"
+  },
+  {
+    "shop_name": "Stokes and Sons",
+    "owner": "Sheridan",
+    "logan": "Realigned intermediate process improvement"
+  },
+  {
+    "shop_name": "Mills and Sons",
+    "owner": "Shakira",
+    "logan": "Innovative incremental monitoring"
+  },
+  {
+    "shop_name": "Durgan Inc",
+    "owner": "Dylan",
+    "logan": "Polarised zero administration knowledge base"
+  },
+  {
+    "shop_name": "Wintheiser - Brakus",
+    "owner": "Ramona",
+    "logan": "Cross-platform interactive intranet"
+  },
+  {
+    "shop_name": "Gislason Group",
+    "owner": "Jaylin",
+    "logan": "Fundamental national challenge"
+  },
+  {
+    "shop_name": "Rohan - Wolff",
+    "owner": "Ida",
+    "logan": "Universal homogeneous hardware"
+  },
+  {
+    "shop_name": "Mante, Casper and Bayer",
+    "owner": "Cindy",
+    "logan": "Cross-group grid-enabled system engine"
+  },
+  {
+    "shop_name": "Moen, Legros and Schmeler",
+    "owner": "Rex",
+    "logan": "Exclusive high-level paradigm"
+  },
+  {
+    "shop_name": "Wisoky and Sons",
+    "owner": "Ansel",
+    "logan": "Realigned well-modulated architecture"
+  },
+  {
+    "shop_name": "Hegmann, Marks and Walsh",
+    "owner": "Bennett",
+    "logan": "Streamlined client-driven ability"
+  },
+  {
+    "shop_name": "Marquardt Inc",
+    "owner": "Cristobal",
+    "logan": "Extended 24 hour benchmark"
+  },
+  {
+    "shop_name": "Ziemann - Wiegand",
+    "owner": "Otto",
+    "logan": "Universal intangible utilisation"
+  },
+  {
+    "shop_name": "Lubowitz - Morissette",
+    "owner": "Sylvester",
+    "logan": "User-friendly holistic definition"
+  },
+  {
+    "shop_name": "Bins, Schultz and Wisoky",
+    "owner": "Dandre",
+    "logan": "Synergized mobile solution"
+  },
+  {
+    "shop_name": "Smith Inc",
+    "owner": "Jamil",
+    "logan": "Business-focused context-sensitive process improvement"
+  },
+  {
+    "shop_name": "Reichel, Ratke and Hoppe",
+    "owner": "Theo",
+    "logan": "Future-proofed 24/7 hardware"
+  },
+  {
+    "shop_name": "Brown and Sons",
+    "owner": "Ethyl",
+    "logan": "Cross-group exuding utilisation"
+  },
+  {
+    "shop_name": "Kiehn Inc",
+    "owner": "Lily",
+    "logan": "User-centric value-added flexibility"
+  },
+  {
+    "shop_name": "Hoppe Inc",
+    "owner": "Ida",
+    "logan": "Decentralized optimal time-frame"
+  },
+  {
+    "shop_name": "Kshlerin - Homenick",
+    "owner": "Ida",
+    "logan": "Visionary even-keeled conglomeration"
+  },
+  {
+    "shop_name": "Johnston, Lang and Greenfelder",
+    "owner": "Juston",
+    "logan": "Monitored composite migration"
+  },
+  {
+    "shop_name": "Heathcote, Rau and Beahan",
+    "owner": "Dandre",
+    "logan": "Multi-lateral even-keeled initiative"
+  },
+  {
+    "shop_name": "Langworth Group",
+    "owner": "Alycia",
+    "logan": "Business-focused tangible data-warehouse"
+  },
+  {
+    "shop_name": "Funk, Rippin and Satterfield",
+    "owner": "Bert",
+    "logan": "Horizontal local structure"
+  },
+  {
+    "shop_name": "Sanford Inc",
+    "owner": "Loren",
+    "logan": "Implemented optimizing workforce"
+  },
+  {
+    "shop_name": "Stark, Yundt and Walker",
+    "owner": "Celestino",
+    "logan": "Implemented background synergy"
+  },
+  {
+    "shop_name": "Bayer, Koelpin and Vandervort",
+    "owner": "Cristobal",
+    "logan": "Open-architected demand-driven knowledge user"
+  },
+  {
+    "shop_name": "Jast - Schuppe",
+    "owner": "Johnnie",
+    "logan": "Mandatory bi-directional utilisation"
+  },
+  {
+    "shop_name": "Mayer LLC",
+    "owner": "Dashawn",
+    "logan": "Re-contextualized user-facing model"
+  },
+  {
+    "shop_name": "Bartoletti, Ruecker and Littel",
+    "owner": "Skye",
+    "logan": "Adaptive eco-centric strategy"
+  },
+  {
+    "shop_name": "Tromp LLC",
+    "owner": "Queenie",
+    "logan": "Profound disintermediate instruction set"
+  },
+  {
+    "shop_name": "Bednar - Thiel",
+    "owner": "Otto",
+    "logan": "Seamless modular success"
+  },
+  {
+    "shop_name": "Johnston LLC",
+    "owner": "Alycia",
+    "logan": "Operative needs-based support"
+  },
+  {
+    "shop_name": "Gulgowski and Sons",
+    "owner": "Johann",
+    "logan": "Optimized dynamic frame"
+  },
+  {
+    "shop_name": "Reichert - Price",
+    "owner": "Celestino",
+    "logan": "Devolved empowering system engine"
+  },
+  {
+    "shop_name": "Torp Inc",
+    "owner": "Cooper",
+    "logan": "Intuitive explicit product"
+  },
+  {
+    "shop_name": "D'Amore LLC",
+    "owner": "Cristobal",
+    "logan": "Multi-layered coherent interface"
+  },
+  {
+    "shop_name": "Hoppe, Cartwright and Durgan",
+    "owner": "Jayson",
+    "logan": "De-engineered stable alliance"
+  },
+  {
+    "shop_name": "Ratke, Bernhard and Kuvalis",
+    "owner": "Cristobal",
+    "logan": "Stand-alone next generation circuit"
+  },
+  {
+    "shop_name": "Waelchi, Lind and Rohan",
+    "owner": "Cristobal",
+    "logan": "User-friendly value-added groupware"
+  },
+  {
+    "shop_name": "Wehner - Schaden",
+    "owner": "Maverick",
+    "logan": "Synchronised interactive paradigm"
+  },
+  {
+    "shop_name": "Jenkins, Mitchell and Roob",
+    "owner": "Lorenz",
+    "logan": "Pre-emptive 5th generation info-mediaries"
+  },
+  {
+    "shop_name": "Hilpert, Quitzon and Rogahn",
+    "owner": "Maxwell",
+    "logan": "Public-key stable core"
+  },
+  {
+    "shop_name": "Nader, Schuppe and Strosin",
+    "owner": "Skye",
+    "logan": "Integrated methodical system engine"
+  },
+  {
+    "shop_name": "Larkin, Bins and Boehm",
+    "owner": "Gerald",
+    "logan": "Open-architected 24/7 matrix"
+  },
+  {
+    "shop_name": "Johnston, Hudson and Powlowski",
+    "owner": "Bennett",
+    "logan": "Innovative methodical application"
+  },
+  {
+    "shop_name": "Spencer, O'Keefe and Gleichner",
+    "owner": "Cooper",
+    "logan": "Grass-roots heuristic superstructure"
+  },
+  {
+    "shop_name": "Halvorson, Rolfson and Howe",
+    "owner": "Icie",
+    "logan": "Reactive neutral matrices"
+  },
+  {
+    "shop_name": "McDermott, Nicolas and Mitchell",
+    "owner": "Trinity",
+    "logan": "Decentralized client-driven middleware"
+  },
+  {
+    "shop_name": "Hoeger, Conroy and Hartmann",
+    "owner": "Rhett",
+    "logan": "Extended composite toolset"
+  },
+  {
+    "shop_name": "Feest - Franecki",
+    "owner": "Phoebe",
+    "logan": "Fundamental eco-centric middleware"
+  },
+  {
+    "shop_name": "Hudson Group",
+    "owner": "Stuart",
+    "logan": "Down-sized fresh-thinking groupware"
+  },
+  {
+    "shop_name": "Berge, Rau and Daugherty",
+    "owner": "Otto",
+    "logan": "Devolved radical service-desk"
+  },
+  {
+    "shop_name": "McClure - Tromp",
+    "owner": "Nyah",
+    "logan": "Quality-focused directional software"
+  },
+  {
+    "shop_name": "Kassulke, Wintheiser and Cruickshank",
+    "owner": "Jacinthe",
+    "logan": "Front-line actuating conglomeration"
   }
 ]
