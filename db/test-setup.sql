@@ -26,7 +26,7 @@ CREATE TABLE treasures (
   colour VARCHAR(255) NOT NULL, 
   age INT NOT NULL, 
   cost_at_auction NUMERIC(10, 2) NOT NULL,
-  shop INT REFERENCES shops(shop_id) NOT NULL
+  shop_id INT REFERENCES shops(shop_id) NOT NULL
 );
 
 INSERT INTO shop_owners (forename, surname, age) VALUES
@@ -56,7 +56,7 @@ INSERT INTO shops (shop_name, shop_owner, slogan) VALUES
   ('shop-c', 2, 'slogan-c');
 
 
-INSERT INTO treasures (treasure_name, colour, age, cost_at_auction, shop) VALUES
+INSERT INTO treasures (treasure_name, colour, age, cost_at_auction, shop_id) VALUES
   ('treasure-a', 'colour-a', 200, 20, 1),
   ('treasure-d', 'colour-d', 13, 1001, 2),
   ('treasure-b', 'colour-b', 13, 500, 4),
