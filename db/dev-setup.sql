@@ -15,7 +15,7 @@ CREATE TABLE owners (
 CREATE TABLE shops (
   shop_id SERIAL PRIMARY KEY, 
   shop_name VARCHAR(255) NOT NULL, 
-  owner_id INT REFERENCES shop_owners(owner_id) NOT NULL, 
+  owner_id INT REFERENCES owners(owner_id) NOT NULL, 
   slogan TEXT
 );
 
