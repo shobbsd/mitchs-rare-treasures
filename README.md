@@ -52,7 +52,7 @@ You recently sorted through your attic and discovered some treasures of your own
     - colour
     - age
     - cost_at_auction
-    - shop (references shop_id)
+    - shop_id (references the shop_id)
 
 **PATCH**
 
@@ -93,6 +93,12 @@ Create an endpoint which allows Mitch to see all the shops in his network. He al
   * default sort order: ascending
   * default sort criteria: shop_name
   * for each shop object in the `/api/shops` endpoint, there should be a `stock_value` property which specifies the total value of each shop's stock.
+  * each shop object should have the following properties:
+    - shop_id
+    - shop_name
+    - shop_owner (which references the owner_id from owners)
+    - slogan
+    - stock_value (the total cost of treasures belonging to the shop)
 
 **GET**
 
