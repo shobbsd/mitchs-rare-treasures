@@ -32,7 +32,7 @@ const generateTreasure = (shopCount) => {
     colour: faker.commerce.color(),
     age: random(5, 1000),
     cost_at_auction: random(0, 100000),
-    shop: random(1, shopCount),
+    shop_id: random(1, shopCount),
   };
 };
 
