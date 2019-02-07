@@ -108,7 +108,7 @@ Create an endpoint which allows Mitch to see all the shops in his network. He al
   * each shop object should have the following properties:
     - shop_id
     - shop_name
-    - shop_owner (*full name* of the shop's owner)
+    - shop_owner (the name of the shop's owner)
     - slogan
     - **stock_value** (the total cost of treasures belonging to the shop)
 
