@@ -38,7 +38,7 @@ const generateShops = (shopNames, owners) => {
     return {
       shop_name: shopName,
       owner: sample(owners),
-      logan: faker.company.catchPhrase(),
+      slogan: faker.company.catchPhrase(),
     };
   });
 };

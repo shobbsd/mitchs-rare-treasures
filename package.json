@@ -8,7 +8,7 @@
     "knex": "^0.15.2",
     "lodash": "^4.17.11",
     "lodash.random": "^3.2.0",
-    "pg": "^7.5.0"
+    "pg": "^7.8.0"
   },
   "devDependencies": {
     "eslint": "^5.12.0",
@@ -17,8 +17,7 @@
     "prettier": "^1.15.3"
   },
   "scripts": {
-    "fetch-dev-data": "node ./utils/fetch-dev-data.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "fetch-dev-data": "node ./utils/fetch-dev-data.js"
   },
   "keywords": [],
   "author": "",
