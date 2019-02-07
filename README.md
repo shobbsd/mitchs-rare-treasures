@@ -14,6 +14,7 @@ Your first task of the day is to use Mitch's premade `fetch-dev-data` script to 
 Mitch was going to enter this data by hand, but it was getting a little tiresome. Help him out by creating a **seed** function for the insertion of data using `knex`. 
 
 You will need to think about how to maintain relations between the data before they are inserted into the db.
+In the database, shops should reference their owner by the **owner_id** and treasures should reference the shop they belong to by the **shop_id** (see the setup sql file). 
 
 
 ## Day-2 Building endpoints with TDD
@@ -30,6 +31,12 @@ Create an endpoint to allow Mitch to view all the treasures currently available.
 `/api/treasures`
 
   *responds with all treasures, including the shop name and details*
+  * each treasure shoud have the following keys:
+    - treasure_id
+    - treasure_name
+    - colour
+    - age
+    - **shop_name**
   * default limit: 25 per page
   * default start result: 1
   * default sort order: ascending
@@ -57,7 +64,7 @@ You recently sorted through your attic and discovered some treasures of your own
     - colour
     - age
     - cost_at_auction
-    - shop_id (references the shop_id)
+    - shop_id (references an existing shop_id)
 
 **PATCH**
 
@@ -101,9 +108,9 @@ Create an endpoint which allows Mitch to see all the shops in his network. He al
   * each shop object should have the following properties:
     - shop_id
     - shop_name
-    - shop_owner (which references the owner_id from owners)
+    - shop_owner (*full name* of the shop's owner)
     - slogan
-    - stock_value (the total cost of treasures belonging to the shop)
+    - **stock_value** (the total cost of treasures belonging to the shop)
 
 **GET**
 
