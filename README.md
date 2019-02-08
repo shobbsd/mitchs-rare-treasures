@@ -31,7 +31,7 @@ Create an endpoint to allow Mitch to view all the treasures currently available.
 `/api/treasures`
 
   *responds with all treasures, including the shop name and details*
-  * each treasure shoud have the following keys:
+  * each treasure should have the following keys:
     - treasure_id
     - treasure_name
     - colour
