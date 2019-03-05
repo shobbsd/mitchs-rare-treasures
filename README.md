@@ -9,7 +9,7 @@ After taking offence at a remark about his business acumen, he has charged headl
 
 Your first task of the day is to use Mitch's premade `fetch-dev-data` script to populate your dev-data directory. 
 
-## Day 1  Seeding
+## Day 1: Seeding
 
 Mitch was going to enter this data by hand, but it was getting a little tiresome. Help him out by creating a **seed** function for the insertion of data using `knex`. 
 
@@ -17,7 +17,7 @@ You will need to think about how to maintain relations between the data before t
 In the database, shops should reference their owner by the **owner_id** and treasures should reference the shop they belong to by the **shop_id** (see the setup sql file). 
 
 
-## Days 2 & 3 Building endpoints with TDD
+## Days 2 & 3: Building endpoints with TDD
 
 It's essential that each endpoint is tested, including a test for each query! Avoid testing for too many things in one assertion.
 It might be worth using a very small dataset (you can use the data in your `test-setup.sql` file!). You certainly don't want to rely on the randomness of that fetch-dev-data function...
