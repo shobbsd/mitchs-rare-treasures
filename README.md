@@ -38,12 +38,12 @@ Create an endpoint to allow Mitch to view all the treasures currently available.
     - age
     - **shop_name**
   * default limit: 25 per page
+  * default sort criteria: cost_at_auction
   * default start result: 1
   * default sort order: ascending
-  * default sort criteria: cost_at_auction
   * you should be able to sort on age
   * you should also be able to add the following queries: 
-    - colour
+    - colour 
     - max_age
     - mix_age
     - max_price
