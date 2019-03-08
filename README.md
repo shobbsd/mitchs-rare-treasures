@@ -24,7 +24,7 @@ It might be worth using a very small dataset (you can use the data in your `test
 
 **GET**
 
-Create an endpoint to allow Mitch to view all the treasures currently available.
+Create an endpoint to allow Mitch to view all the treasures currently available.  
 
 ##
 
@@ -37,17 +37,22 @@ Create an endpoint to allow Mitch to view all the treasures currently available.
     - colour
     - age
     - **shop_name**
-  * default limit: 25 per page
-  * default start result: 1
-  * default sort order: ascending
+  * default limit: 25 per page:
+    - `/api/treasures` should send out 25 treasures (default)
+    - `/api/treasures?limit=10`, for example, should send out only 10 treasures
   * default sort criteria: cost_at_auction
-  * you should be able to sort on age
-  * you should also be able to add the following queries: 
-    - colour
-    - max_age
-    - mix_age
-    - max_price
-    - min_price
+    - `/api/treasures`, first result should be the cheapest (default)
+    - `/api/treasures?sort_by=age`, for example, first result should be the youngest
+  * default sort order: ascending
+    - `/api/treasures`, first result should be the cheapest (default)
+    - `/api/treasures?order=desc`, for example, first result should be the most expensive
+  * you should also be able to add the following queries:
+    - colour e.g. `/api/treasures?colour=gold` responds with gold treasures only
+    - max_age e.g. `/api/treasures?max_age=20` responds with treasures under 20 years old only
+    - mix_age e.g. `/api/treasures?min_age=20` responds with treasures over 20 years old only
+    - max_price e.g. `/api/treasures?max_price=50` responds with treasures under £50 only
+    - min_price e.g. `/api/treasures?min_price=50` responds with treasures over £50 only
+
 
 **POST**
 
@@ -101,9 +106,8 @@ Create an endpoint which allows Mitch to see all the shops in his network. He al
   *responds with all shops*
 
   * default limit: 10 per page
-  * default start result: 1
-  * default sort order: ascending
   * default sort criteria: shop_name
+  * default sort order: ascending
   * for each shop object in the `/api/shops` endpoint, there should be a `stock_value` property which specifies the total value of each shop's stock.
   * each shop object should have the following properties:
     - shop_id
@@ -122,7 +126,6 @@ Create an endpoint that lets Mitch see information about all the shop owners.
 
   *responds with all owners*
   * default limit: 10 per page
-  * default start result: 1
   * default sort order: ascending
   * you should be able to sort on forename, age.
   * you should also be able to add the following queries: 
