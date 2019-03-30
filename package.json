@@ -10,12 +10,6 @@
     "lodash.random": "^3.2.0",
     "pg": "^7.8.0"
   },
-  "devDependencies": {
-    "eslint": "^5.12.0",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.14.0",
-    "prettier": "^1.15.3"
-  },
   "scripts": {
     "fetch-dev-data": "node ./utils/fetch-dev-data.js"
   },
