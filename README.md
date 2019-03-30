@@ -15,16 +15,14 @@ Mitch was going to enter this data by hand, but it was getting a little tiresome
 You will need to think about how to maintain relations between the data before they are inserted into the db.
 In the database, shops should reference their owner by the **owner_id** and treasures should reference the shop they belong to by the **shop_id** (see the setup sql file).
 
-## Days 2 & 3: Building endpoints with TDD
+## Days 2 & 3: Building Endpoints
 
 It's essential that each endpoint is tested, including a test for each query! Avoid testing for too many things in one assertion.
 It might be worth using a very small dataset (you can use the data in your `test-setup.sql` file!). You certainly don't want to rely on the randomness of that fetch-dev-data function...
 
-**GET**
+## **GET** `/api/treasures`
 
 Create an endpoint to allow Mitch to view all the treasures currently available.
-
-## `/api/treasures`
 
 _responds with all treasures, including the shop name and details_
 
@@ -34,12 +32,12 @@ _responds with all treasures, including the shop name and details_
   - colour
   - age
   - **shop_name**
-- default limit: 25 per page:
-  - `/api/treasures` should send out 25 treasures (default)
-  - `/api/treasures?limit=10`, for example, should send out only 10 treasures
 - default sort criteria: cost_at_auction
   - `/api/treasures`, first result should be the cheapest (default)
   - `/api/treasures?sort_by=age`, for example, first result should be the youngest
+- default limit: 25 per page:
+  - `/api/treasures` should send out 25 treasures (default)
+  - `/api/treasures?limit=10`, for example, should send out only 10 treasures
 - default sort order: ascending
   - `/api/treasures`, first result should be the cheapest (default)
   - `/api/treasures?order=desc`, for example, first result should be the most expensive
@@ -50,11 +48,9 @@ _responds with all treasures, including the shop name and details_
   - max_price e.g. `/api/treasures?max_price=50` responds with treasures under £50 only
   - min_price e.g. `/api/treasures?min_price=50` responds with treasures over £50 only
 
-**POST**
+## **POST** `/api/treasures`
 
 You recently sorted through your attic and discovered some treasures of your own! As a good friend of Mitch, you entrust him with the sale of your precious items. Create an endpoint to add a new treasure.
-
-## `/api/treasures`
 
 _posts a new treasure to a shop_
 
@@ -66,11 +62,9 @@ _posts a new treasure to a shop_
   - cost_at_auction
   - shop_id (references an existing shop_id)
 
-**PATCH**
+## **PATCH** `/api/treasures/:treasure_id`
 
 The shop where Mitch has sent your treasures is having a sale. Create an endpoint to allow him to reduce the price of an item.
-
-## `/api/treasures/:treasure_id`
 
 _updates a treasure in the database given a treasure id_
 
@@ -78,27 +72,23 @@ _updates a treasure in the database given a treasure id_
 - your patch request should contain the following information:
   - cost_at_auction
 
-**DELETE**
+## **DELETE** `/api/treasures/:treasure_id`
 
 Congratulations! Your item has been sold! Create an endpoint to delete your treasure from the database.
-
-## `/api/treasures/:treasure_id`
 
 _deletes a treasure from the database given a treasure id_
 
 - should be able to remove an existing treasure from the database, using the treasure_id
 
-**GET**
+## **GET** `/api/shops`
 
 Create an endpoint which allows Mitch to see all the shops in his network. He also needs to know how much capital is in each shop.
 
-## `/api/shops`
-
 _responds with all shops_
 
-- default limit: 10 per page
 - default sort criteria: shop_name
 - default sort order: ascending
+- default limit: 10 per page
 - for each shop object in the `/api/shops` endpoint, there should be a `stock_value` property which specifies the total value of each shop's stock.
 - each shop object should have the following properties:
   - shop_id
@@ -107,22 +97,20 @@ _responds with all shops_
   - slogan
   - **stock_value** (the total cost of treasures belonging to the shop)
 
-**GET**
+## **GET** `/api/owners/`
 
 Create an endpoint that lets Mitch see information about all the shop owners.
 
-## `/api/owners/`
-
 _responds with all owners_
 
-- default limit: 10 per page
 - default sort order: ascending
 - you should be able to sort on forename, age.
+- default limit: 10 per page
 - you should also be able to add the following queries:
-  - max_age,
-  - min_age,
-  - exact_age,
-  - forename,
+  - max_age
+  - min_age
+  - exact_age
+  - forename
   - surname
 
 ### Advanced
