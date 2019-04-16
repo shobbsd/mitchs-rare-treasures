@@ -31,6 +31,7 @@ _responds with all treasures, including the shop name and details_
   - treasure_name
   - colour
   - age
+  - cost_at_auction
   - **shop_name**
 - default sort criteria: cost_at_auction
   - `/api/treasures`, first result should be the cheapest (default)
