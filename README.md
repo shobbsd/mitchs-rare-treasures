@@ -27,27 +27,22 @@ Create an endpoint to allow Mitch to view all the treasures currently available.
 _responds with all treasures, including the shop name and details_
 
 - each treasure should have the following keys:
+
   - treasure_id
   - treasure_name
   - colour
   - age
   - cost_at_auction
   - **shop_name**
+
 - default sort criteria: cost_at_auction
+
   - `/api/treasures`, first result should be the cheapest (default)
   - `/api/treasures?sort_by=age`, for example, first result should be the youngest
-- default limit: 25 per page:
-  - `/api/treasures` should send out 25 treasures (default)
-  - `/api/treasures?limit=10`, for example, should send out only 10 treasures
+
 - default sort order: ascending
   - `/api/treasures`, first result should be the cheapest (default)
   - `/api/treasures?order=desc`, for example, first result should be the most expensive
-- you should also be able to add the following queries:
-  - colour e.g. `/api/treasures?colour=gold` responds with gold treasures only
-  - max_age e.g. `/api/treasures?max_age=20` responds with treasures under 20 years old only
-  - mix_age e.g. `/api/treasures?min_age=20` responds with treasures over 20 years old only
-  - max_price e.g. `/api/treasures?max_price=50` responds with treasures under £50 only
-  - min_price e.g. `/api/treasures?min_price=50` responds with treasures over £50 only
 
 ## **POST** `/api/treasures`
 
@@ -116,9 +111,23 @@ _responds with all owners_
 
 ### Advanced
 
-- For each user object in the `/api/owners` endpoint, there should also be a
-  - `shop_count` specifying the number of shops for that user
-  - `stock_value` specifying the total value of all of their stock
+#### **GET** `/api/treasures`
+
+- add default limit: 25 per page:
+  - `/api/treasures` should send out 25 treasures (default)
+- accept a `limit` query which will override the default limit:
+  - `/api/treasures?limit=10`, for example, should send out only 10 treasures
+- add the following queries:
+  - colour e.g. `/api/treasures?colour=gold` responds with gold treasures only
+  - max_age e.g. `/api/treasures?max_age=20` responds with treasures under 20 years old only
+  - mix_age e.g. `/api/treasures?min_age=20` responds with treasures over 20 years old only
+  - max_price e.g. `/api/treasures?max_price=50` responds with treasures under £50 only
+  - min_price e.g. `/api/treasures?min_price=50` responds with treasures over £50 only
+
+#### **GET** `/api/owners`, add the following keys to each owner object:
+
+- `shop_count` specifying the number of shops for that user
+- `stock_value` specifying the total value of all of their stock
 
 ### Even more...
 
