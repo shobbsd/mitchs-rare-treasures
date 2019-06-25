@@ -76,23 +76,6 @@ _deletes a treasure from the database given a treasure id_
 
 - should be able to remove an existing treasure from the database, using the treasure_id
 
-## **GET** `/api/shops`
-
-Create an endpoint which allows Mitch to see all the shops in his network. He also needs to know how much capital is in each shop.
-
-_responds with all shops_
-
-- default sort criteria: shop_name
-- default sort order: ascending
-- default limit: 10 per page
-- for each shop object in the `/api/shops` endpoint, there should be a `stock_value` property which specifies the total value of each shop's stock.
-- each shop object should have the following properties:
-  - shop_id
-  - shop_name
-  - shop_owner (the name of the shop's owner)
-  - slogan
-  - **stock_value** (the total cost of treasures belonging to the shop)
-
 ## **GET** `/api/owners/`
 
 Create an endpoint that lets Mitch see information about all the shop owners.
@@ -109,7 +92,27 @@ _responds with all owners_
   - forename
   - surname
 
+## **GET** `/api/shops`
+
+Create an endpoint which allows Mitch to see all the shops in his network. He also needs to know how much capital is in each shop.
+
+_responds with all shops_
+
+- default sort criteria: shop_name
+- default sort order: ascending
+- default limit: 10 per page
+- each shop object should have the following properties:
+  - shop_id
+  - shop_name
+  - shop_owner (the name of the shop's owner)
+  - slogan
+ 
+
 ### Advanced
+
+#### **GET** `/api/shops`
+
+- add a **stock_value** key to each shop object (the total cost of treasures belonging to the shop). Think how you could do this in regular SQL first and then convert it to knex. Lessons 10 and 11 of this [tutorial](https://sqlbolt.com/lesson/select_queries_with_aggregates) could be useful when beginning to write your SQL query.
 
 #### **GET** `/api/treasures`
 
