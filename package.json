@@ -4,6 +4,7 @@
   "description": "Mitch has gone into business!",
   "main": "index.js",
   "dependencies": {
+    "express": "^4.17.1",
     "faker": "^4.1.0",
     "knex": "^0.15.2",
     "lodash": "^4.17.15",
@@ -11,6 +12,8 @@
     "pg": "^7.8.0"
   },
   "scripts": {
+    "test": "mocha spec",
+    "test-app": "mocha spec/app.spec.js",
     "fetch-dev-data": "node ./utils/fetch-dev-data.js",
     "setup-dbs": "psql -f ./db/dev-setup.sql && psql -f ./db/test-setup.sql",
     "seed-dev": "psql -f ./db/dev-setup.sql && knex seed:run",
@@ -22,6 +25,7 @@
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.2.1"
+    "mocha": "^6.2.1",
+    "supertest": "^4.0.2"
   }
 }
