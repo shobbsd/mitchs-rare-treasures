@@ -15,9 +15,9 @@ describe('/api', () => {
       return request(app)
         .get('/api/treasures')
         .expect(200)
-        .then(({ body: { articles } }) => {
-          expect(articles).to.be.an('array');
-          expect(articles[0]).to.have.keys([
+        .then(({ body: { treasures } }) => {
+          expect(treasures).to.be.an('array');
+          expect(treasures[0]).to.have.keys([
             'treasure_id',
             'treasure_name',
             'colour',
