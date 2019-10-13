@@ -1,6 +1,12 @@
 const knex = require('../db/connection');
 
-exports.fetchAllTreasure = (column = 'cost_at_auction', order = 'desc') => {
+exports.fetchAllTreasure = (
+  column = 'cost_at_auction',
+  order = 'desc',
+  limit = 25,
+  p = 1
+) => {
+  const offset = (p - 1) * limit;
   return knex('treasures')
     .select(
       'treasures.treasure_id',
@@ -11,7 +17,9 @@ exports.fetchAllTreasure = (column = 'cost_at_auction', order = 'desc') => {
       'shops.shop_name'
     )
     .leftJoin('shops', 'treasures.shop_id', 'shops.shop_id')
-    .orderBy(column, order);
+    .orderBy(column, order)
+    .limit(limit)
+    .offset(offset);
 };
 
 exports.addTreasure = treasure => {
