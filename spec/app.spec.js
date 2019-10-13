@@ -305,6 +305,34 @@ describe('/api', () => {
             expect(msg).to.equal('query not allowed');
           });
       });
+      it('GET:400 age queries must be a number', () => {
+        return request(app)
+          .get('/api/owners?max_age=not-a-number')
+          .expect(400)
+          .then(({ body: { msg } }) => {
+            expect(msg).to.equal(
+              'invalid input syntax for integer: "not-a-number"'
+            );
+          });
+      });
+    });
+  });
+  describe('/shops', () => {
+    it('GET:200 returns an array of shops', () => {
+      return request(app)
+        .get('/api/shops')
+        .expect(200)
+        .then(({ body: { shops } }) => {
+          console.log(shops[0]);
+          expect(shops).to.be.an('array');
+          expect(shops[0]).to.have.keys([
+            'shop_id',
+            'shop_name',
+            'shop_owner',
+            'slogan',
+            'stock_value'
+          ]);
+        });
     });
   });
 });
