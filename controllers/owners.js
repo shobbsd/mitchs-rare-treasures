@@ -12,6 +12,7 @@ exports.getOwners = (req, res, next) => {
   ];
   const queries = Object.keys(query);
 
+  // checks the queries are one of the allowed ones
   if (queries.length) {
     const queryIsValid = queries.every(query =>
       acceptableQueries.includes(query)
@@ -19,11 +20,14 @@ exports.getOwners = (req, res, next) => {
     if (!queryIsValid) return next({ status: 400, msg: 'query not allowed' });
   }
 
+  // checks  the order and order direction are the allowed ones
   if (checkResult !== true) return next(checkResult);
 
-  fetchOwners(sort_by, order, query, limit, p).then(owners => {
-    res.status(200).json({ owners });
-  });
+  fetchOwners(sort_by, order, query, limit, p)
+    .then(owners => {
+      res.status(200).json({ owners });
+    })
+    .catch(next);
 };
 
 function checkOrderBy({ order, sort_by }) {

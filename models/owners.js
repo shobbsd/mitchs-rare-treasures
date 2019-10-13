@@ -20,6 +20,5 @@ exports.fetchOwners = (
       if (surname) queryChain.where('surname', '=', surname);
     })
     .limit(limit)
-    .offset(offset)
-    .catch(console.log);
+    .offset(offset);
 };
