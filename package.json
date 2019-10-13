@@ -9,11 +9,12 @@
     "knex": "^0.15.2",
     "lodash": "^4.17.15",
     "lodash.random": "^3.2.0",
-    "pg": "^7.8.0"
+    "pg": "^7.8.0",
+    "sams-chai-sorted": "^1.0.2"
   },
   "scripts": {
-    "test": "mocha spec",
-    "test-app": "mocha spec/app.spec.js",
+    "test": "npm run seed-test && NODE_ENV=test mocha spec",
+    "test-app": "npm run seed-test && mocha spec/app.spec.js",
     "fetch-dev-data": "node ./utils/fetch-dev-data.js",
     "setup-dbs": "psql -f ./db/dev-setup.sql && psql -f ./db/test-setup.sql",
     "seed-dev": "psql -f ./db/dev-setup.sql && knex seed:run",
