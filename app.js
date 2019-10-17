@@ -1,5 +1,4 @@
 const express = require('express');
-const exphbs = require('express-handlebars');
 const apiRouter = require('./routes/api');
 const {
   handleCustomErrors,
