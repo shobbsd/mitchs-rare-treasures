@@ -323,7 +323,6 @@ describe('/api', () => {
         .get('/api/shops')
         .expect(200)
         .then(({ body: { shops } }) => {
-          console.log(shops[0]);
           expect(shops).to.be.an('array');
           expect(shops[0]).to.have.keys([
             'shop_id',

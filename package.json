@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
     "faker": "^4.1.0",
     "knex": "^0.15.2",
     "lodash": "^4.17.15",
@@ -13,6 +14,8 @@
     "sams-chai-sorted": "^1.0.2"
   },
   "scripts": {
+    "dev": "nodemon -e handlebars,js listen.js",
+    "start": "node listen.js",
     "test": "npm run seed-test && NODE_ENV=test mocha spec",
     "test-app": "npm run seed-test && mocha spec/app.spec.js",
     "fetch-dev-data": "node ./utils/fetch-dev-data.js",
@@ -27,6 +30,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.1",
+    "nodemon": "^1.19.3",
     "supertest": "^4.0.2"
   }
 }
