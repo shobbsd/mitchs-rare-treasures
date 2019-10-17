@@ -5,17 +5,31 @@ const {
   fetchTreasureById,
   removeTreasure
 } = require('../models/treasures');
+const { checkSortBys } = require('./utils');
 
 exports.getAllTreasures = (req, res, next) => {
-  const { sort_by, order } = req.query;
-  if (order && !['asc', 'desc'].includes(order)) {
-    return next({ status: 400, msg: 'order must be "asc" or "desc"' });
+  const { sort_by, order, p, limit, ...query } = req.query;
+  const acceptableSorts = [
+    'treasure_name',
+    'age',
+    'cost_at_auction',
+    'treasure_id'
+  ];
+  const acceptableQueries = [
+    'max_age',
+    'min_age',
+    'max_price',
+    'min_price',
+    'colour'
+  ];
+
+  if (checkSortBys(req.query, acceptableSorts, next)) {
+    fetchAllTreasure(sort_by, order, p, limit, query)
+      .then(treasures => {
+        res.status(200).json({ treasures });
+      })
+      .catch(next);
   }
-  fetchAllTreasure(sort_by, order)
-    .then(treasures => {
-      res.status(200).json({ treasures });
-    })
-    .catch(next);
 };
 
 exports.postTreasure = (req, res, next) => {
