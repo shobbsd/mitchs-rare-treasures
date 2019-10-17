@@ -86,7 +86,9 @@ describe('/api', () => {
           .get('/api/treasures?sort_by=cheese')
           .expect(400)
           .then(({ body: { msg } }) => {
-            expect(msg).to.equal('column "cheese" does not exist');
+            expect(msg).to.equal(
+              'Acceptable sort_bys are: treasure_name, age, cost_at_auction, treasure_id'
+            );
           });
       });
       it('GET:400 returns a message explaining that is not a valid order', () => {
@@ -94,7 +96,7 @@ describe('/api', () => {
           .get('/api/treasures?order=cheese')
           .expect(400)
           .then(({ body: { msg } }) => {
-            expect(msg).to.equal('order must be "asc" or "desc"');
+            expect(msg).to.equal('order mut be either asc or desc');
           });
       });
       it('POST: 400 returns a message explaining there are too many keys', () => {
@@ -220,7 +222,9 @@ describe('/api', () => {
             'age',
             'forename',
             'owner_id',
-            'surname'
+            'surname',
+            'shop_count',
+            'stock_value'
           ]);
         });
     });
