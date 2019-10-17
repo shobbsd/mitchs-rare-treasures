@@ -4,7 +4,8 @@ exports.fetchAllTreasure = (
   column = 'cost_at_auction',
   order = 'desc',
   limit = 25,
-  p = 1
+  p = 1,
+  query
 ) => {
   const offset = (p - 1) * limit;
   return knex('treasures')
@@ -17,6 +18,14 @@ exports.fetchAllTreasure = (
       'shops.shop_name'
     )
     .leftJoin('shops', 'treasures.shop_id', 'shops.shop_id')
+    .modify(queryChain => {
+      const { colour, max_age, min_age, max_price, min_price } = query;
+      if (colour) queryChain.where({ colour });
+      if (max_age) queryChain.where('age', '<', max_age);
+      if (min_age) queryChain.where('age', '>', min_age);
+      if (max_price) queryChain.where('price', '<', max_price);
+      if (min_price) queryChain.where('price', '>', min_price);
+    })
     .orderBy(column, order)
     .limit(limit)
     .offset(offset);
