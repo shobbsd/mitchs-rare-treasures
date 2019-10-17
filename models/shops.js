@@ -7,6 +7,7 @@ exports.fetchShops = (
   p = 1
 ) => {
   const offset = (p - 1) * limit;
+  if (column === 'owner') column = 'shops.owner_id';
   return knex('shops')
     .select('shops.shop_id', 'shop_name', 'forename AS shop_owner', 'slogan')
     .join('owners', 'shops.owner_id', 'owners.owner_id')
